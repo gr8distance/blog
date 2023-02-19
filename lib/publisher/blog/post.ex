@@ -1,6 +1,19 @@
 defmodule Publisher.Blog.Post do
   @enforce_keys [:id, :author, :title, :body, :description, :tags, :date]
-  defstruct [:id, :author, :title, :body, :description, :tags, :date, keywords: []]
+  defstruct [
+    :id,
+    :author,
+    :title,
+    :year,
+    :month,
+    :day,
+    :body,
+    :description,
+    :tags,
+    :date,
+    header_image: "",
+    keywords: []
+  ]
 
   require IEx
 
@@ -8,7 +21,17 @@ defmodule Publisher.Blog.Post do
     [year, month_day_id] = parse_wrote_at(filename)
     [month, day, id] = parse_date_with_id(month_day_id)
     date = Date.from_iso8601!("#{year}-#{month}-#{day}")
-    new([id: id, date: date, body: body] ++ Map.to_list(attrs))
+
+    new(
+      [
+        id: id,
+        date: date,
+        body: body,
+        year: year,
+        month: month,
+        day: day
+      ] ++ Map.to_list(attrs)
+    )
   end
 
   defp new(attr) do

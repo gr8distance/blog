@@ -1,6 +1,8 @@
 defmodule Publisher.Blog do
   alias Publisher.Blog.Post
 
+  require IEx
+
   use NimblePublisher,
     build: Post,
     from: Application.app_dir(:publisher, "priv/posts/**/*.md"),
@@ -16,7 +18,12 @@ defmodule Publisher.Blog do
 
   # And finally export them
   def all_posts, do: @posts
-  def all, do: all_posts
+
+  def all do
+    __MODULE__.all_posts()
+    |> Enum.sort_by(& &1.date)
+    |> Enum.reverse()
+  end
 
   def all_tags, do: @tags
 

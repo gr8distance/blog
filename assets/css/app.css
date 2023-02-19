@@ -166,12 +166,14 @@
     font-size: 20px;
 }
 #blog-content ul {
-    margin-left: 15px;
+    margin-left: 30px;
     list-style: auto;
+    margin-bottom: 30px 0px;
 }
 #blog-content ol {
-    margin-left: 15px;
+    margin-left: 30px;
     list-style: auto;
+    margin-bottom: 30px 0px;
 }
 #blog-content blockquote{
     margin-top: 10px;

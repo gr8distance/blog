@@ -1,12 +1,12 @@
 <div class="m-10">
   <div class="grid grid-cols-12 gap-10">
-    <div class="col-span-9 border-teal-400 pr-5 pb-10">
+    <div class="max-sm:col-span-12 sm:col-12 max-md:col-span-9 md:col-span-9 border-teal-400 pr-5 pb-10">
       <h1 class="text-5xl"><%= @post.title %></h1>
       <div class="mt-5 text-lg font-normal" id="blog-content">
         <%= raw @post.body %>
       </div>
     </div>
-    <div class="col-span-3">
+    <div class="sm:col-span-12 max-md:col-span-12 md:col-span-3">
       <%= render "card.html" %>
     </div>
   </div>

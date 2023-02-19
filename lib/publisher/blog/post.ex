@@ -1,6 +1,6 @@
 defmodule Publisher.Blog.Post do
   @enforce_keys [:id, :author, :title, :body, :description, :tags, :date]
-  defstruct [:id, :author, :title, :body, :description, :tags, :date]
+  defstruct [:id, :author, :title, :body, :description, :tags, :date, keywords: []]
 
   require IEx
 

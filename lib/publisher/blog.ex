@@ -16,5 +16,11 @@ defmodule Publisher.Blog do
 
   # And finally export them
   def all_posts, do: @posts
+  def all, do: all_posts
+
   def all_tags, do: @tags
+
+  def find(id) do
+    Enum.find(all, &(&1.id == id)) || raise NotFoundError, "post with id=#{id} not found"
+  end
 end

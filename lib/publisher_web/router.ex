@@ -20,6 +20,13 @@ defmodule PublisherWeb.Router do
     get "/", PageController, :index
   end
 
+  scope "/blog", PublisherWeb do
+    pipe_through :browser
+
+    get "/", BlogController, :index
+    get "/:id", BlogController, :show
+  end
+
   # Other scopes may use custom stacks.
   # scope "/api", PublisherWeb do
   #   pipe_through :api

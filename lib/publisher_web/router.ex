@@ -18,12 +18,12 @@ defmodule PublisherWeb.Router do
     pipe_through :browser
 
     get "/", PageController, :index
+    get "/about", PageController, :about
+    get "/history", PageController, :history
   end
 
   scope "/blog", PublisherWeb do
     pipe_through :browser
-
-    get "/", BlogController, :index
     get "/:id", BlogController, :show
   end
 

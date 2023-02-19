@@ -2,7 +2,8 @@
   title: "Hello World!",
   author: "Jaime Iniesta",
   tags: ~w(hello),
-  description: "Our first blog post is here"
+  description: "Our first blog post is here",
+  header_image: "heda.jpg"
 }
 ---
 Yes, this is **the post** you've been waiting for.

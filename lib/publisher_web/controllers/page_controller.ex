@@ -14,4 +14,8 @@ defmodule PublisherWeb.PageController do
   def history(conn, _params) do
     render(conn, "history.html", posts: Blog.all())
   end
+
+  def reviews(conn, _params) do
+    render(conn, "reviews.html", posts: Blog.all())
+  end
 end

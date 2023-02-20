@@ -20,12 +20,18 @@ defmodule Publisher.Blog do
   def all_posts, do: @posts
 
   def all do
-    __MODULE__.all_posts()
-    |> Enum.sort_by(& &1.date)
-    |> Enum.reverse()
+    all_posts()
+    |> Enum.sort(&(Timex.diff(&1.date, &2.date) > 0))
   end
 
   def all_tags, do: @tags
+
+  @per 6
+  def page(posts, page \\ 1) do
+    posts
+    |> Enum.chunk_every(@per)
+    |> Enum.at(page - 1)
+  end
 
   def find(id) do
     Enum.find(all, &(&1.id == id)) || raise NotFoundError, "post with id=#{id} not found"

@@ -20,38 +20,19 @@
     </a>
   </li>
 
-  <li>
-    <a
-      href="#"
-      class="block h-8 w-8 rounded text-center leading-8 bg-teal-700">
-      1
-    </a>
-  </li>
-
-  <li
-    class="block h-8 w-8 rounded border border-teal-300 text-center leading-8 text-white"
-    >
-    2
-  </li>
-
-  <li>
-    <a
-      href="#"
-      class="block h-8 w-8 rounded border border-teal-300 text-center leading-8"
-      >
-      3
-    </a>
-  </li>
-
-  <li>
-    <a
-      href="#"
-      class="block h-8 w-8 rounded border border-teal-300 text-center leading-8"
-      >
-      4
-    </a>
-  </li>
-
+  <%= for page <- Publisher.Blog.paginates do %>
+    <%= if @page == page do %>
+      <li class="block h-8 w-8 rounded text-center leading-8 bg-teal-700">
+        <%= page %>
+      </li>
+    <% else %>
+      <li class="block h-8 w-8 rounded border border-teal-300 text-center leading-8 text-white cursor-pointer">
+        <a href={"/?page=#{page}"} class="block h-8 w-8 rounded text-center leading-8">
+          <%= page %>
+        </a>
+      </li>
+    <% end %>
+  <% end %>
   <li>
     <a
       href="#"

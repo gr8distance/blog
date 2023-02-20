@@ -33,6 +33,10 @@ defmodule Publisher.Blog do
     |> Enum.at(page - 1)
   end
 
+  def paginates do
+    1..((length(all) / @per) |> Float.ceil() |> trunc)
+  end
+
   def find(id) do
     Enum.find(all, &(&1.id == id)) || raise NotFoundError, "post with id=#{id} not found"
   end

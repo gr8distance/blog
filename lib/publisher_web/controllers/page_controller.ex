@@ -3,10 +3,16 @@ defmodule PublisherWeb.PageController do
 
   alias Publisher.Blog
 
+  require IEx
+
+  def index(conn, %{"page" => page}) do
+    posts = Blog.all() |> Blog.page(String.to_integer(page))
+    render(conn, "index.html", posts: posts, page: String.to_integer(page))
+  end
+
   def index(conn, _params) do
     posts = Blog.all() |> Blog.page(1)
-
-    render(conn, "index.html", posts: posts)
+    render(conn, "index.html", posts: posts, page: 1)
   end
 
   def about(conn, _params) do

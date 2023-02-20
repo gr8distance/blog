@@ -1,7 +1,7 @@
 %{
   title: "Dear Bianchi. Jumbo vismaからのメッセージの書き起こし",
   author: "UG",
-  tags: ~w[],
+  tags: ~w[JumboVisma],
   description: "",
   keywords: ~w[],
   header_image: ""
@@ -9,14 +9,14 @@
 
 ---
 > Dear Bianchi, it feels like we rode for ages. We made memories far beyond imagination. Now the time has come for us to part ways. Fortunately, these Bianchi’s will continue the ride. Grazie mille. Check out [https://t.co/bUtFhuLzOX](https://t.co/bUtFhuLzOX)[#continuetheride](https://twitter.com/hashtag/continuetheride?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/bksZQkskfX](https://t.co/bksZQkskfX)
-> 
+>
 > — Team Jumbo-Visma cycling (@JumboVismaRoad) [December 18, 2020](https://twitter.com/JumboVismaRoad/status/1339843282407477248?ref_src=twsrc%5Etfw)
 
  <script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
 
 [![](https://lh3.googleusercontent.com/-rAvEft5audY/X9zAdvSHidI/AAAAAAAAO6Q/TXVqY-O2xykgMxogH-Alg3qVhh9Ga8dbACNcBGAsYHQ/Ephlw54XUAkDQqf.jpg)](https://lh3.googleusercontent.com/-rAvEft5audY/X9zAdvSHidI/AAAAAAAAO6Q/TXVqY-O2xykgMxogH-Alg3qVhh9Ga8dbACNcBGAsYHQ/Ephlw54XUAkDQqf.jpg)
-  
-  
+
+
 
 Team Jumbo Vismaになるよりも以前から同チームを支えていたバイクスポンサーのBianchiが2020年を最後にスポンサーから外れる。
 
@@ -78,9 +78,9 @@ Team Jumbo Vismaになるよりも以前から同チームを支えていたバ�
 
 > We wish you many more beautiful miles with your new owner.
 
-> 
+>
 
-> 
+>
 
 以下意訳
 
@@ -103,21 +103,21 @@ Team Jumbo Vismaになるよりも以前から同チームを支えていたバ�
 > 私たちは一緒に多くの成功を祝いました。
 
 > イタリアの南海岸の象徴的な場所での戦い。
-> 
+>
 > そして何よりも、サンレモのフィニッシュラインで最後のライダーを倒した時のこと。&nbsp;
 
 > あのモニュメントを征した感覚。
-> 
+>
 > 最も高い山の上でのレース。
-> 
+>
 > どんなに厳しい状況でも決して諦めずに攻めた。
-> 
+>
 > 私たちはいつも彼らのかかとを踏んでいた。
-> 
+>
 > 道路は水浸しになりティーニュ(TDF2019の19ステージゴール地点。悪天候により道路が冠水してコースが短縮された。)には行けなかった&nbsp;
-> 
+>
 > だがパリで初めて表彰台に立った。&nbsp;
-> 
+>
 > 私たちはいつも友人であるあなたを頼りにしていました。&nbsp;
 
 > 君のハンドルを赤で飾れたことは永遠に鳥肌が立ちます。&nbsp;
@@ -141,5 +141,3 @@ Jumbo VismaがどれだけBianchiに信頼を寄せていたかが伝わって�
 追伸！
 
 だいぶ意訳したんでここが変などありましたら教えて下さい🙏
-
-

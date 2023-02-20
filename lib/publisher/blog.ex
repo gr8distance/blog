@@ -22,19 +22,25 @@ defmodule Publisher.Blog do
   def all do
     all_posts()
     |> Enum.sort(&(Timex.diff(&1.date, &2.date) > 0))
+    |> Enum.filter(& &1.public)
   end
 
   def all_tags, do: @tags
 
-  @per 6
   def page(posts, page \\ 1) do
     posts
-    |> Enum.chunk_every(@per)
+    |> Enum.chunk_every(per())
     |> Enum.at(page - 1)
   end
 
+  def per, do: 12
+
+  def count do
+    all |> length
+  end
+
   def paginates do
-    1..((length(all) / @per) |> Float.ceil() |> trunc)
+    1..((length(all) / per()) |> Float.ceil() |> trunc)
   end
 
   def find(id) do

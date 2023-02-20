@@ -11,6 +11,7 @@ defmodule Publisher.Blog.Post do
     :description,
     :tags,
     :date,
+    public: true,
     header_image: "",
     keywords: []
   ]

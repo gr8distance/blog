@@ -4,8 +4,8 @@
   tags: ~w[],
   description: "",
   keywords: ~w[],
-  header_image: ""
+  header_image: "",
+  public: false
 }
 
 ---
-

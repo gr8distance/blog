@@ -13,6 +13,18 @@
       <div class="md:flex md:items-center md:gap-12">
         <nav aria-label="Site Nav" class="hidden md:block">
           <ul class="flex items-center gap-6 text-sm">
+            <li class="hidden" id="search-form">
+              <form>
+                <div class="flex">
+                  <div class="relative w-full">
+                    <input type="search" id="search-dropdown" class="block p-2.5 w-full z-20 text-sm text-gray-900 bg-gray-50 rounded-lg border-l-gray-50 border-l-2 border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-l-gray-700  dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:border-blue-500" placeholder="検索" required>
+                  </div>
+                </div>
+              </form>
+            </li>
+            <li class="cursor-pointer">
+              <i id="search-button" class="fa-solid fa-magnifying-glass"></i>
+            </li>
             <li>
               <a
                 class="text-gray-500 transition hover:text-gray-500/75 dark:text-white dark:hover:text-white/75"

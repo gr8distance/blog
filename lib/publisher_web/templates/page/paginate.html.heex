@@ -1,8 +1,8 @@
 <ol class="flex justify-center gap-1 text-xs font-medium">
   <%= if @page > 1 do %>
-    <li>
+  <li>
       <a
-        href={"/?page=#{@page - 1}"}
+        href={paginate_url(assigns[:conn], @page)}
         class="inline-flex h-8 w-8 items-center justify-center rounded border border-teal-300"
         >
         <span class="sr-only">Prev Page</span>
@@ -29,7 +29,7 @@
       </li>
     <% else %>
       <li class="block h-8 w-8 rounded border border-teal-300 text-center leading-8 text-white cursor-pointer">
-        <a href={"/?page=#{page}"} class="block h-8 w-8 rounded text-center leading-8">
+        <a href={paginate_url(assigns[:conn], page)} class="block h-8 w-8 rounded text-center leading-8">
           <%= page %>
         </a>
       </li>
@@ -39,7 +39,7 @@
   <%= if @page <= (Publisher.Blog.count / Publisher.Blog.per) do %>
     <li>
       <a
-        href={"/?page=#{@page + 1}"}
+        href={paginate_url(assigns[:conn], @page)}
         class="inline-flex h-8 w-8 items-center justify-center rounded border border-teal-300"
         >
         <span class="sr-only">Next Page</span>

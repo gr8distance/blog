@@ -33,6 +33,13 @@ defmodule Publisher.Blog do
     |> Enum.at(page - 1)
   end
 
+  def search(q) do
+    all()
+    |> Enum.filter(fn post ->
+      String.match?(post.title, ~r/#{q}/) || String.match?(post.body, ~r/#{q}/)
+    end)
+  end
+
   def per, do: 12
 
   def count do

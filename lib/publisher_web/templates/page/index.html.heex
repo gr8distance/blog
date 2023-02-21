@@ -1,5 +1,11 @@
 <div class="mx-auto my-5">
   <h1 class="text-center text-2xl font-light">好きこそものの上手なれ🌟</h1>
+  <%= if @q != "" do %>
+  <p class="text-center mt-5">
+    検索ワード:
+    <span class="text-lg font-bold text-teal-300"><%= @q %></span>
+  </p>
+  <% end %>
 </div>
 <div class="grid md:grid-cols-12 sm:grid-cols-1">
   <%= for post <- @posts do %>
@@ -10,5 +16,7 @@
 </div>
 
 <div class="mt-5">
-<%= render "paginate.html", page: @page %>
+  <%= if assigns[:conn].request_path == "/" do %>
+  <%= render "paginate.html", page: @page, conn: @conn %>
+  <% end %>
 </div>

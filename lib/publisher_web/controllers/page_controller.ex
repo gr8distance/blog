@@ -7,12 +7,17 @@ defmodule PublisherWeb.PageController do
 
   def index(conn, %{"page" => page}) do
     posts = Blog.all() |> Blog.page(String.to_integer(page))
-    render(conn, "index.html", posts: posts, page: String.to_integer(page))
+    render(conn, "index.html", posts: posts, page: String.to_integer(page), q: "")
   end
 
   def index(conn, _params) do
     posts = Blog.all() |> Blog.page(1)
-    render(conn, "index.html", posts: posts, page: 1)
+    render(conn, "index.html", posts: posts, page: 1, q: "")
+  end
+
+  def search(conn, %{"q" => q}) do
+    posts = Blog.search(q)
+    render(conn, "index.html", posts: posts, q: q)
   end
 
   def about(conn, _params) do

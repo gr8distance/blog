@@ -18,6 +18,7 @@ defmodule PublisherWeb.Router do
     pipe_through :browser
 
     get "/", PageController, :index
+    get "/search", PageController, :search
     get "/about", PageController, :about
     get "/history", PageController, :history
   end

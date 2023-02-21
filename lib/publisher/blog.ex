@@ -40,6 +40,11 @@ defmodule Publisher.Blog do
     end)
   end
 
+  def search_by_tag(tag) do
+    all
+    |> Enum.filter(&Enum.member?(&1.tags, tag))
+  end
+
   def per, do: 12
 
   def count do

@@ -21,16 +21,12 @@ defmodule PublisherWeb.Router do
     get "/search", PageController, :search
     get "/about", PageController, :about
     get "/history", PageController, :history
+    get "/tag/:id", PageController, :tag
   end
 
   scope "/blog", PublisherWeb do
     pipe_through :browser
     get "/:id", BlogController, :show
-  end
-
-  scope "/tag", PublisherWeb do
-    pipe_through :browser
-    get "/:id", TagController, :show
   end
 
   # Other scopes may use custom stacks.

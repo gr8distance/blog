@@ -1,10 +1,16 @@
 <div class="mx-auto my-5">
   <h1 class="text-center text-2xl font-light">好きこそものの上手なれ🌟</h1>
   <%= if @q != "" do %>
-  <p class="text-center mt-5">
-    検索ワード:
-    <span class="text-lg font-bold text-teal-300"><%= @q %></span>
-  </p>
+    <p class="text-center mt-5">
+      検索ワード:
+      <span class="text-lg font-bold text-teal-300"><%= @q %></span>
+    </p>
+  <% end %>
+  <%= if @tag != "" do %>
+    <p class="text-center mt-5">
+      タグ:
+      <span class="text-lg font-bold text-purple-100"><%= @tag %></span>
+    </p>
   <% end %>
 </div>
 <div class="grid md:grid-cols-12 sm:grid-cols-1">

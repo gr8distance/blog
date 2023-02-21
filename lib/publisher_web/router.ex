@@ -27,6 +27,11 @@ defmodule PublisherWeb.Router do
     get "/:id", BlogController, :show
   end
 
+  scope "/tag", PublisherWeb do
+    pipe_through :browser
+    get "/:id", TagController, :show
+  end
+
   # Other scopes may use custom stacks.
   # scope "/api", PublisherWeb do
   #   pipe_through :api

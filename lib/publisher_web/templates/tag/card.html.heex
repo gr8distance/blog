@@ -13,12 +13,10 @@
   </div>
 
   <div class="hidden sm:block sm:basis-56">
-    <a href={"/blog/#{@post.id}"}>
     <img
-      src={header_image(@post)}
+      src={PageView.header_image(@post)}
       class="aspect-square h-full w-full object-cover"
-      />
-    </a>
+    />
   </div>
 
   <div class="flex flex-1 flex-col justify-between">

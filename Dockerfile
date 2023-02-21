@@ -6,6 +6,7 @@ COPY --from=node /usr/local/bin/ /usr/local/bin/
 COPY --from=node /usr/local/lib/node_modules /usr/local/lib/node_modules
 
 ENV LANG C.UTF-8
+ENV MIX_ENV prod
 
 RUN mix local.hex --force && \
     mix archive.install hex phx_new 1.6.15 && \

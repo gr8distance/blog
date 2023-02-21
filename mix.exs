@@ -50,7 +50,8 @@ defmodule Publisher.MixProject do
       {:makeup_elixir, ">= 0.0.0"},
       {:makeup_erlang, ">= 0.0.0"},
       {:tailwind, "~> 0.1", runtime: Mix.env() == :dev},
-      {:timex, "~> 3.0"}
+      {:timex, "~> 3.0"},
+      {:dialyxir, "~> 0.4", only: [:dev]}
     ]
   end
 

@@ -94,4 +94,4 @@ Sleep-Lowトレーニングのおかげで補給はこの一回。
 
 感慨深い
 
-[GreatDistanceChallangeの振り返り](https://blog.great-distance.com/2019/09/greatdistancechallange.html)にいろいろ書いたので良かったらそちらも！
+[GreatDistanceChallangeの振り返り](/blog/GreatDistanceChallangeの振り返り)にいろいろ書いたので良かったらそちらも！

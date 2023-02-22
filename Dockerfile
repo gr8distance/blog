@@ -22,7 +22,7 @@ COPY mix.lock mix.lock
 
 RUN mix deps.get --only-prod
 RUN mix deps.compile
-RUN RAILS_ENV=prod mix compile
+RUN mix compile
 
 COPY assets assets
 RUN cd assets && npm install

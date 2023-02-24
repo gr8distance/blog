@@ -26,6 +26,7 @@ RUN mix compile
 
 COPY assets assets
 RUN cd assets && npm install
+RUN mix assets.deploy
 
 COPY . .
 

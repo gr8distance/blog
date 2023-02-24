@@ -1,0 +1,18 @@
+version: '3'
+
+volumes:
+  deps:
+  build:
+
+services:
+  blog:
+    image: blog
+    build: .
+    command:
+      tail -f /dev/null
+    volumes:
+      - .:/app
+      - deps:/app/deps
+      - build:/app/_build
+    ports:
+      - "4000:4000"

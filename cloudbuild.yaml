@@ -4,6 +4,8 @@ steps:
     - build
     - .
     - -t
-    - asia.gcr.io/great-distance-271513/blog/blog:latet
+    - asia.gcr.io/great-distance-271513/blog:latet
+images:
+  - asia.gcr.io/great-distance-271513/blog:latet
 options:
   machineType: 'E2_HIGHCPU_32'

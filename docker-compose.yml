@@ -7,12 +7,14 @@ volumes:
 services:
   blog:
     image: blog
-    build: .
+    build:
+      context: .
+      dockerfile: Dockerfile
     command:
       tail -f /dev/null
-    volumes:
-      - .:/app
-      - deps:/app/deps
-      - build:/app/_build
+    # volumes:
+    #   - .:/app
+    #   - deps:/app/deps
+    #   - build:/app/_build
     ports:
       - "4000:4000"

@@ -5,10 +5,10 @@ volumes:
   build:
 
 services:
-  blog:
-    image: blog
+  api:
+    image: api
     build:
-      context: .
+      context: ./api
       dockerfile: Dockerfile
     command:
       tail -f /dev/null

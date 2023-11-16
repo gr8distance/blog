@@ -5,14 +5,14 @@ volumes:
   build:
 
 services:
-  blog:
-    image: blog
+  api:
+    image: api
     build:
-      context: .
+      context: ./api
       dockerfile: Dockerfile.dev
     command:
       tail -f /dev/null
     volumes:
-      - .:/app
+      - ./api:/app
     ports:
       - "4000:4000"

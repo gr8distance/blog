@@ -2,31 +2,43 @@ defmodule PublisherWeb.Router do
   use PublisherWeb, :router
 
   pipeline :browser do
-    plug :accepts, ["html"]
-    plug :fetch_session
-    plug :fetch_live_flash
-    plug :put_root_layout, {PublisherWeb.LayoutView, :root}
-    plug :protect_from_forgery
-    plug :put_secure_browser_headers
+    plug(:accepts, ["html"])
+    plug(:fetch_session)
+    plug(:fetch_live_flash)
+    plug(:put_root_layout, {PublisherWeb.LayoutView, :root})
+    plug(:protect_from_forgery)
+    plug(:put_secure_browser_headers)
   end
 
   pipeline :api do
-    plug :accepts, ["json"]
+    plug(:accepts, ["json"])
   end
 
   scope "/", PublisherWeb do
-    pipe_through :browser
+    pipe_through(:browser)
 
-    get "/", PageController, :index
-    get "/search", PageController, :search
-    get "/about", PageController, :about
-    get "/history", PageController, :history
-    get "/tag/:id", PageController, :tag
+    get("/", PageController, :index)
+    get("/search", PageController, :search)
+    get("/about", PageController, :about)
+    get("/history", PageController, :history)
+    get("/tag/:id", PageController, :tag)
   end
 
   scope "/blog", PublisherWeb do
-    pipe_through :browser
-    get "/:id", BlogController, :show
+    pipe_through(:browser)
+    get("/:id", BlogController, :show)
+  end
+
+  scope "/api/blogs", PublisherWeb do
+    pipe_through(:api)
+
+    get("all", ApiController, :all)
+    get("fetch/:id", ApiController, :fetch)
+    get("recent", ApiController, :recent)
+
+    # get "/search", ApiController, :search
+    # get "/blog/:id", ApiController, :blog
+    # get "/tag/:id", ApiController, :tag
   end
 
   # Other scopes may use custom stacks.
@@ -45,9 +57,9 @@ defmodule PublisherWeb.Router do
     import Phoenix.LiveDashboard.Router
 
     scope "/" do
-      pipe_through :browser
+      pipe_through(:browser)
 
-      live_dashboard "/dashboard", metrics: PublisherWeb.Telemetry
+      live_dashboard("/dashboard", metrics: PublisherWeb.Telemetry)
     end
   end
 
@@ -57,9 +69,9 @@ defmodule PublisherWeb.Router do
   # node running the Phoenix server.
   if Mix.env() == :dev do
     scope "/dev" do
-      pipe_through :browser
+      pipe_through(:browser)
 
-      forward "/mailbox", Plug.Swoosh.MailboxPreview
+      forward("/mailbox", Plug.Swoosh.MailboxPreview)
     end
   end
 end

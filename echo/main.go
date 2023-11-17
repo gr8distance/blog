@@ -7,15 +7,7 @@ import (
 
 	"io/ioutil"
 	"net/http"
-
-	"gorm.io/driver/sqlite"
-	"gorm.io/gorm"
 )
-
-func connect(dbName string) (*gorm.DB, error) {
-	db, err := gorm.Open(sqlite.Open(dbName), &gorm.Config{})
-	return db, err
-}
 
 type Post struct {
 	Id          string   `json:"id"`
@@ -43,14 +35,27 @@ func fetch(url string) []byte {
 	return bytes
 }
 
-func main() {
-	url := "http://localhost:4000/api/blogs/all"
-	bytes := fetch(url)
+func readFile(filename string) []byte {
+	bytes, err := ioutil.ReadFile(filename)
+	if err != nil {
+		panic(err)
+	}
+	return bytes
+}
+
+func parseJSON(bytes []byte) []Post {
 	var response Response
 	if err := json.Unmarshal(bytes, &response); err != nil {
 		log.Fatal(err)
 	}
-	fmt.Println(response)
+	return response.Posts
+}
+
+func main() {
+	filename := "all.json"
+	bytes := readFile(filename)
+	posts := parseJSON(bytes)
+	fmt.Println(posts)
 
 	// fmt.Println(len(response.posts))
 	// fmt.Println(string(byteArray))

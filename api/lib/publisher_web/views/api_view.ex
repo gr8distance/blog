@@ -9,6 +9,10 @@ defmodule PublisherWeb.ApiView do
     %{posts: render_posts(posts)}
   end
 
+  def render("fetch.json", %{post: post}) do
+    %{post: render_post(post)}
+  end
+
   defp render_posts(posts) do
     posts
     |> Enum.map(fn post ->

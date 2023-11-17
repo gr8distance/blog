@@ -1,10 +1,6 @@
-import { Header } from '../components/Header';
-import { Footer } from '../components/Footer';
 import { BlogTop } from '../components/BlogTop';
 import { BlogContainer } from '../components/BlogContainer';
 import { Pagination } from '../components/Pagination';
-
-const p = (s) => console.log(s);
 
 const getData = async () => {
   const res = await fetch('http://localhost:4000/api/blogs/all', { cache: 'no-store' });
@@ -21,13 +17,11 @@ const Home = async () => {
 
   return (
     <>
-      <Header />
       <div>
         <BlogTop post={data[0]} />
         <BlogContainer posts={data.slice(1, 7)} />
       </div>
       <Pagination />
-      <Footer />
     </>
   )
 }

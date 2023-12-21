@@ -1,13 +1,17 @@
 import { Card } from './Timeline/Card'
+import { Article } from '../types/Article'
 
-export const Timeline = () => {
+export const Timeline = (props: { articles: Article[] }) => {
+  const { articles } = props
   return (
     <ol className="relative border-s border-gray-200 dark:border-gray-700">
-      {[1, 2, 3, 4, 5].map((i, _index) => (
+      {articles.map((article, i) => (
         <Card
-          published="2022-12-11"
-          title="Application UI code in Tailwind CSS"
-          description="Get access to over 20+ pages including a dashboard layout, charts, kanban board, calendar, and pre-order E-commerce & Marketing pages."
+          key={i}
+          article={article}
+          published={article.date}
+          title={article.name}
+          description={""}
         />
       ))}
     </ol>

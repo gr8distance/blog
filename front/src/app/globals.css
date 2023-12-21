@@ -25,3 +25,50 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+#body h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin: 50px 0px;
+}
+
+#body h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 40px 0px;
+}
+
+#body h3 {
+    font-size: 1.75rem;
+    font-weight: bold;
+    margin: 30px 0px;
+}
+
+#body h4 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 30px 0px;
+}
+
+#body h5 {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+#body h6 {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+#body p {
+    font-size: 1.rem;
+    margin: 5px 0px;
+}
+
+#body img {
+    max-width: 66%;
+    height: auto;
+    margin: 30px auto;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
+}

@@ -10,7 +10,7 @@ export const Title = (props: { title: string, subtitle: string }) => {
             className="bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 bg-clip-text text-2xl font-thin text-transparent sm:text-5xl"
           >
             <Link href="/">
-              Gr8Distance
+              gr8distance
             </Link>
             <span className="sm:block text-2xl mt-5 font-300">{subtitle}</span>
           </h1>

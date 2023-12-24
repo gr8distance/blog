@@ -6,7 +6,7 @@ export const Hero = () => {
           <h1
             className="bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 bg-clip-text text-5xl font-thin text-transparent"
           >
-            Gr8Distance
+            gr8distance
             <span className="sm:block text-lg mt-5 font-thin">好きこそものの上手なれ✨</span>
           </h1>
         </div>

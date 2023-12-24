@@ -40,7 +40,7 @@ export const Me = () => {
 
       <div className="bg-white p-4 dark:bg-gray-900 sm:p-6">
         <h3 className="mt-0.5 text-lg text-gray-900 dark:text-white">
-          Developer
+          開発スキル
         </h3>
 
         <p className="mt-2 line-clamp-3 text-sm/relaxed text-gray-500 dark:text-gray-400">
@@ -51,7 +51,7 @@ export const Me = () => {
 
       <div className="bg-white p-4 dark:bg-gray-900 sm:p-6">
         <h3 className="mt-0.5 text-lg text-gray-900 dark:text-white">
-          Contact
+          お問い合わせ
         </h3>
 
         <p className="mt-2 line-clamp-3 text-sm/relaxed text-gray-500 dark:text-gray-400">

@@ -1,16 +1,4 @@
-%{
-  title: "GoreTexデビューした",
-  author: "UG",
-  tags: ~w[],
-  description: "",
-  keywords: ~w[],
-  header_image: ""
-}
-
 ---
-|
-
-
 [![](https://1.bp.blogspot.com/-glYsk0gK5Uc/XjjNZe_o2mI/AAAAAAAAAxc/gnvg5z-pwJElHtEzUFrCqABWsnuiHBO_gCNcBGAsYHQ/s320/line_2098514844083383.jpg)](https://1.bp.blogspot.com/-glYsk0gK5Uc/XjjNZe_o2mI/AAAAAAAAAxc/gnvg5z-pwJElHtEzUFrCqABWsnuiHBO_gCNcBGAsYHQ/s1600/line_2098514844083383.jpg)
  |
 | 何も知らしなければただのウィンドブレーカーにしか見えない |
@@ -40,7 +28,7 @@
 
 一番のお気に入りはカペルミュールのウィンドブレーカーだったのですがライド中に落として無くしてしまった(´・ω・｀)
 
-| [![](https://1.bp.blogspot.com/-ELZo0FzoD_Q/XjjOLz4WajI/AAAAAAAAA5s/P9LFbDatyMcarI-ixhh2YfE3aq3WD3ZVgCEwYBhgL/s320/IMG_0500.jpg)](https://1.bp.blogspot.com/-ELZo0FzoD_Q/XjjOLz4WajI/AAAAAAAAA5s/P9LFbDatyMcarI-ixhh2YfE3aq3WD3ZVgCEwYBhgL/s1600/IMG_0500.jpg) |
+[![](https://1.bp.blogspot.com/-ELZo0FzoD_Q/XjjOLz4WajI/AAAAAAAAA5s/P9LFbDatyMcarI-ixhh2YfE3aq3WD3ZVgCEwYBhgL/s320/IMG_0500.jpg)](https://1.bp.blogspot.com/-ELZo0FzoD_Q/XjjOLz4WajI/AAAAAAAAA5s/P9LFbDatyMcarI-ixhh2YfE3aq3WD3ZVgCEwYBhgL/s1600/IMG_0500.jpg)
 | ピンク色だったのでお気に入りだった |
 
 
@@ -97,7 +85,7 @@ RaphaのRainCapeはレインコートでありながらある程度は(確かに
 
 GOREいいやんって漠然と生活してたらRaphaがGOREとコラボして商品を出した!
 
-| [![](https://1.bp.blogspot.com/-0EyI7U1PnR8/XhaAj02AJWI/AAAAAAAAAkE/tlvjTkOuqcw4-iisMdShV5IKab5X-ZT4gCPcBGAYYCw/s320/h219_location_france_goretex_25-select.jpg)](https://1.bp.blogspot.com/-0EyI7U1PnR8/XhaAj02AJWI/AAAAAAAAAkE/tlvjTkOuqcw4-iisMdShV5IKab5X-ZT4gCPcBGAYYCw/s1600/h219_location_france_goretex_25-select.jpg) |
+[![](https://1.bp.blogspot.com/-0EyI7U1PnR8/XhaAj02AJWI/AAAAAAAAAkE/tlvjTkOuqcw4-iisMdShV5IKab5X-ZT4gCPcBGAYYCw/s320/h219_location_france_goretex_25-select.jpg)](https://1.bp.blogspot.com/-0EyI7U1PnR8/XhaAj02AJWI/AAAAAAAAAkE/tlvjTkOuqcw4-iisMdShV5IKab5X-ZT4gCPcBGAYYCw/s1600/h219_location_france_goretex_25-select.jpg)
 | かっこいいやん |
 
 値段は...　 **36,500円**

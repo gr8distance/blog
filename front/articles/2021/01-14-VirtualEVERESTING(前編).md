@@ -1,11 +1,3 @@
-%{
-  title: "VirtualEVERESTING(前編)",
-  author: "UG",
-  tags: ~w[エベレスティング],
-  description: "",
-  keywords: ~w[],
-  header_image: ""
-}
 
 ---
 [![](https://lh3.googleusercontent.com/-jlXaNaOxJeQ/X__JrgudmzI/AAAAAAAAPos/yaI3lE6etXwVvfO_WpY8zZH938hZdAhHACNcBGAsYHQ/%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%2583%25E3%2583%2588%2B2021-01-14%2B13.33.30.png)](https://lh3.googleusercontent.com/-jlXaNaOxJeQ/X__JrgudmzI/AAAAAAAAPos/yaI3lE6etXwVvfO_WpY8zZH938hZdAhHACNcBGAsYHQ/%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%2583%25E3%2583%2588%2B2021-01-14%2B13.33.30.png)

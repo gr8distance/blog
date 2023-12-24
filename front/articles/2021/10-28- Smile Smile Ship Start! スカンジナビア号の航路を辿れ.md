@@ -1,11 +1,3 @@
-%{
-  title: " Smile Smile Ship Start! スカンジナビア号の航路を辿れ",
-  author: "UG",
-  tags: ~w[ロングライド OltreXR4],
-  description: "",
-  keywords: ~w[],
-  header_image: ""
-}
 
 ---
 2021年、大志を抱いて沼津に移住したUGを度重なる悪夢が襲う。

@@ -1,37 +1,28 @@
-%{
-  title: "DURA-ACEに換装した話",
-  author: "UG",
-  tags: ~w[],
-  description: "",
-  keywords: ~w[],
-  header_image: ""
-}
-
 ---
-| [![](https://2.bp.blogspot.com/-M29FJjQ_hbw/Xf9690OJHrI/AAAAAAAAAig/uvJGMGqZxQ4iCb350Hil9WKMcJxQ9vzkACK4BGAYYCw/s320/IMG_20191220_201636.jpg)](http://2.bp.blogspot.com/-M29FJjQ_hbw/Xf9690OJHrI/AAAAAAAAAig/uvJGMGqZxQ4iCb350Hil9WKMcJxQ9vzkACK4BGAYYCw/s1600/IMG_20191220_201636.jpg) |
+[![](https://2.bp.blogspot.com/-M29FJjQ_hbw/Xf9690OJHrI/AAAAAAAAAig/uvJGMGqZxQ4iCb350Hil9WKMcJxQ9vzkACK4BGAYYCw/s320/IMG_20191220_201636.jpg)](http://2.bp.blogspot.com/-M29FJjQ_hbw/Xf9690OJHrI/AAAAAAAAAig/uvJGMGqZxQ4iCb350Hil9WKMcJxQ9vzkACK4BGAYYCw/s1600/IMG_20191220_201636.jpg)
 | 軽さは正義であり、速いものはかっこいい |
 
-  
-前々からスプリントスイッチを使いたいと思っていたのでこの際思い切ってDI2に換装してみた。  
-少し早いが今年一年頑張ってくれた愛車へのプレゼントみたいなものですね。  
-  
-  
+
+前々からスプリントスイッチを使いたいと思っていたのでこの際思い切ってDI2に換装してみた。
+少し早いが今年一年頑張ってくれた愛車へのプレゼントみたいなものですね。
+
+
 
 ### ブレーキすごいよ！
-2年ほど昔にy'sロードで「Dura-AceよりUltegraのブレーキのほうがよく効きますよ」という話を聞いていた。  
-だからずっとプロはどうやって100km/hにも迫る速度を出しながら以下にして減速してダウンヒルを成立させているのか気になっていた。  
-  
-実際にDura-Aceを使って一番驚いたのはDI2じゃなく、Dura-Aceの制動力の高さだ。  
-  
-Ultegraを使っていたときはリアがすぐロックしていたがDura-Aceは同じように扱ってもリアがロックしない！  
-ロックすると制動距離が伸びてしまう。ロックしなくなるということはそれだけで制動距離が身近くなる。これはレースでもブルベでも街乗りでも非常に大きなことだ。  
-  
-ほんと、もっと早くブレーキだけでもDura-Aceにするべきだったなぁと思ったくらい感動した。  
+2年ほど昔にy'sロードで「Dura-AceよりUltegraのブレーキのほうがよく効きますよ」という話を聞いていた。
+だからずっとプロはどうやって100km/hにも迫る速度を出しながら以下にして減速してダウンヒルを成立させているのか気になっていた。
 
-| [![](https://2.bp.blogspot.com/-MIuUZjD-nmY/Xf-AZvKCaII/AAAAAAAAAi0/-f_okMMLGSALpEvqE_606-gtJgZ80lkjwCK4BGAYYCw/s320/IMG_20191222_232922.jpg)](http://2.bp.blogspot.com/-MIuUZjD-nmY/Xf-AZvKCaII/AAAAAAAAAi0/-f_okMMLGSALpEvqE_606-gtJgZ80lkjwCK4BGAYYCw/s1600/IMG_20191222_232922.jpg) |
+実際にDura-Aceを使って一番驚いたのはDI2じゃなく、Dura-Aceの制動力の高さだ。
+
+Ultegraを使っていたときはリアがすぐロックしていたがDura-Aceは同じように扱ってもリアがロックしない！
+ロックすると制動距離が伸びてしまう。ロックしなくなるということはそれだけで制動距離が身近くなる。これはレースでもブルベでも街乗りでも非常に大きなことだ。
+
+ほんと、もっと早くブレーキだけでもDura-Aceにするべきだったなぁと思ったくらい感動した。
+
+[![](https://2.bp.blogspot.com/-MIuUZjD-nmY/Xf-AZvKCaII/AAAAAAAAAi0/-f_okMMLGSALpEvqE_606-gtJgZ80lkjwCK4BGAYYCw/s320/IMG_20191222_232922.jpg)](http://2.bp.blogspot.com/-MIuUZjD-nmY/Xf-AZvKCaII/AAAAAAAAAi0/-f_okMMLGSALpEvqE_606-gtJgZ80lkjwCK4BGAYYCw/s1600/IMG_20191222_232922.jpg)
 | 見た目もかっこいい💯 |
 
-###   
+###
 DI2の悩みどころ
 
 変速性能に関しては申し分ない。ボタンを押したら一瞬で変わる。
@@ -40,13 +31,13 @@ DI2の悩みどころ
 
 ただし指先が冷たくレバーを押してから指を離すのが遅れるとギアがどんどん変わってしまうので指を押すより離す技術が必要な気がするぞ🤔
 
-  
+
 
 今回は一緒にスプリンタースイッチを搭載した。
 
 スプリンタースイッチを取り付けたのは登りで下ハンダンシングをするとき親指でシフト操作をするのが目標だった。現時点ではあまり登れてない上に最近下ハンダンシングで登ってないのでちょっと身体をヒルクライムモードに戻さないと評価ができないなぁ。
 
-  
+
 
 ただしスプリンタースイッチの名前の通りスプリントに使うととても便利だった。
 
@@ -56,7 +47,7 @@ DI2の悩みどころ
 
 機材でフィジカルの不利を有利に変えられるのは自転車の面白い所だなぁ
 
-  
+
 
 ### スプロケット
 
@@ -64,37 +55,37 @@ DI2の悩みどころ
 
 で、今回はDura-Aceの11-30Tをつけてもらった
 
-  
+
 
 もうMTBかと思うくらいにローギアが大きいんじゃ。
-で、このギアのメリットを体感したのかというと実はまだ。  
-早く激坂に突っ込みたいところ。  
-  
-来年の1/13のAllRoadシリーズに最大勾配22%の激坂があるからそこできっと力を発揮してくれるはず！  
-今から楽しみなんすよ  
+で、このギアのメリットを体感したのかというと実はまだ。
+早く激坂に突っ込みたいところ。
 
-| [![](https://3.bp.blogspot.com/-nla1tbqqg_c/Xf-BSbF0szI/AAAAAAAAAjE/3ntM9vf8Dm0egHVCLbRL1b_Zzy7q_smkACK4BGAYYCw/s320/IMG_20191222_234046.jpg)](http://3.bp.blogspot.com/-nla1tbqqg_c/Xf-BSbF0szI/AAAAAAAAAjE/3ntM9vf8Dm0egHVCLbRL1b_Zzy7q_smkACK4BGAYYCw/s1600/IMG_20191222_234046.jpg) |
+来年の1/13のAllRoadシリーズに最大勾配22%の激坂があるからそこできっと力を発揮してくれるはず！
+今から楽しみなんすよ
+
+[![](https://3.bp.blogspot.com/-nla1tbqqg_c/Xf-BSbF0szI/AAAAAAAAAjE/3ntM9vf8Dm0egHVCLbRL1b_Zzy7q_smkACK4BGAYYCw/s320/IMG_20191222_234046.jpg)](http://3.bp.blogspot.com/-nla1tbqqg_c/Xf-BSbF0szI/AAAAAAAAAjE/3ntM9vf8Dm0egHVCLbRL1b_Zzy7q_smkACK4BGAYYCw/s1600/IMG_20191222_234046.jpg)
 | 30Tにしたのはユンボのログリッチが30Tを使ってるからというのもある |
 
-  
+
 
 ### 軽さ
 
 バッテリーとかモーターとかがあるから7.5kgくらいかなぁと思ってたけど最終的には7.1kgに仕上がったらしい。
 
-  
+
 
 パワーメーターの都合でクランクがUltegraのままなのでそこをDura-Aceに換装したらさらなる6.9kgに届くかもしれない
 
-  
+
 
 ロングライドだとどうしても軽さを気にする機会は少ないけどロードレーサーとしての自分は完全にクライマー体型なのでこの軽さは大きなメリットになりそう。
 
-  
+
 
 アウター取ったりもっとえげつない軽量化自体は可能だけどUCIの6.8kgルールを破ろうという気は無いのでこの重量で大満足
 
-| [![](https://2.bp.blogspot.com/-3ru3CK5ndTk/Xf-CHkdiCwI/AAAAAAAAAjQ/01nZDrgbaZU9Jx4OZtxrAvCv3OSROsRQwCK4BGAYYCw/s320/IMG_20191220_201629.jpg)](http://2.bp.blogspot.com/-3ru3CK5ndTk/Xf-CHkdiCwI/AAAAAAAAAjQ/01nZDrgbaZU9Jx4OZtxrAvCv3OSROsRQwCK4BGAYYCw/s1600/IMG_20191220_201629.jpg) |
+[![](https://2.bp.blogspot.com/-3ru3CK5ndTk/Xf-CHkdiCwI/AAAAAAAAAjQ/01nZDrgbaZU9Jx4OZtxrAvCv3OSROsRQwCK4BGAYYCw/s320/IMG_20191220_201629.jpg)](http://2.bp.blogspot.com/-3ru3CK5ndTk/Xf-CHkdiCwI/AAAAAAAAAjQ/01nZDrgbaZU9Jx4OZtxrAvCv3OSROsRQwCK4BGAYYCw/s1600/IMG_20191220_201629.jpg)
 | 重量もそうだけどかっこよすぎやろ... |
 
 ### 最後に
@@ -105,10 +96,6 @@ Dura-Aceにも値段以上の価値がある。
 
 ライドフィールも変わるけど精神的にバイクに乗るのが楽しくなる。
 
-  
+
 
 来年の白浜クリテで優勝するために立てた戦術を達成するための準備が着々と整ってきている。
-
-  
-
-

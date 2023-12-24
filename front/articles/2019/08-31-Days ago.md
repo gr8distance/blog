@@ -1,20 +1,12 @@
-%{
-  title: "Days ago",
-  author: "UG",
-  tags: ~w[],
-  description: "",
-  keywords: ~w[],
-  header_image: ""
-}
 
 ---
-| [![](https://4.bp.blogspot.com/-MvNYQLoE9zM/XWpCWox938I/AAAAAAAABlA/8DJtASA-eWcaY-LpGx4f3a-PyY0wyliqQCK4BGAYYCw/s320/EA0Ay8BX4AIlzDf.jpg)](http://4.bp.blogspot.com/-MvNYQLoE9zM/XWpCWox938I/AAAAAAAABlA/8DJtASA-eWcaY-LpGx4f3a-PyY0wyliqQCK4BGAYYCw/s1600/EA0Ay8BX4AIlzDf.jpg) |
+[![](https://4.bp.blogspot.com/-MvNYQLoE9zM/XWpCWox938I/AAAAAAAABlA/8DJtASA-eWcaY-LpGx4f3a-PyY0wyliqQCK4BGAYYCw/s320/EA0Ay8BX4AIlzDf.jpg)](http://4.bp.blogspot.com/-MvNYQLoE9zM/XWpCWox938I/AAAAAAAABlA/8DJtASA-eWcaY-LpGx4f3a-PyY0wyliqQCK4BGAYYCw/s1600/EA0Ay8BX4AIlzDf.jpg)
 | 超頑張るか |
 
-  
-いよいよ明日からGreatDistanceChallengeが始まります。  
-そこれ改めて挑戦内容の確認とコース紹介をしておこうと思います。  
-  
+
+いよいよ明日からGreatDistanceChallengeが始まります。
+そこれ改めて挑戦内容の確認とコース紹介をしておこうと思います。
+
 
 ### 挑戦内容
 
@@ -29,11 +21,11 @@
 
 ただ、前回3日で500km走ったとき疲労感からなかなか回復しなかったので毎週一回は休むこととリタイアもあり得ることだけ付け加えたい
 
-  
+
 
 そしてお待ちかね
 
-  
+
 
 ### コース紹介
 
@@ -41,7 +33,7 @@
 
 それでは各コースを見ていきましょう
 
-  
+
 
 #### Stage.1 梅田 ~ 白浜
 
@@ -53,9 +45,9 @@
 
 ただ今回は距離合わせとして1周だけ白浜周回コースを回ることにした(回らないかもしれない)
 
-  
 
-  
+
+
 
 #### Stage.2 白浜 ~ 南部(TT)
 
@@ -67,7 +59,7 @@ TDFのSt.2がTTだったのでこの距離になった
 
 アクティブリカバリー? 🤔
 
-  
+
 
 #### Stage.3&nbsp; 紀南1周(時計回り)
 
@@ -79,9 +71,9 @@ TDFのSt.2がTTだったのでこの距離になった
 
 距離合わせのため最後に白浜周回コースを1周追加している(走るとは言ってない)
 
-  
 
-  
+
+
 
 Stage.4 紀南1周(反時計回り)
 
@@ -95,9 +87,9 @@ Stage.4 紀南1周(反時計回り)
 
 精神力が試される
 
-  
 
-  
+
+
 
 #### Stage.5 白浜 ~ 梅田
 
@@ -105,9 +97,9 @@ Stage.4 紀南1周(反時計回り)
 
 こないだは不幸なパンクで完走できなかったが今回は完走するつもり
 
-  
 
-  
+
+
 
 #### Stage.6 アワイチ
 
@@ -117,7 +109,7 @@ Stage.4 紀南1周(反時計回り)
 
 問題はアワイチをするためには輪行 & フェリー移動が必要なため朝起きられるかが試される
 
-  
+
 
 #### Stage.7 ビワイチ(行きのみ自走の予定)
 
@@ -129,24 +121,22 @@ Stage.4 紀南1周(反時計回り)
 
 ただ、ここまでこれれば翌日は休息日なので...
 
-  
 
-  
+
+
 
 全部完走すると走行距離は1200kmになります。
 
 それだけで人によっては一ヶ月分の距離に相当するので本当に試されてる気がしますね
 
-  
+
 
 でも、わくわくしますよ？
 
 頑張るか超頑張るかの二択ですからね
 
-  
+
 
 [�1日目のレポート！](https://blog.great-distance.com/2019/09/greatdistance-stage1_1.html)
 
-#### 
-
-
+####

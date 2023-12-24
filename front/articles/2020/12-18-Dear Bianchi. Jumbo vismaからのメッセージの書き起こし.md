@@ -1,11 +1,3 @@
-%{
-  title: "Dear Bianchi. Jumbo vismaからのメッセージの書き起こし",
-  author: "UG",
-  tags: ~w[JumboVisma],
-  description: "",
-  keywords: ~w[],
-  header_image: ""
-}
 
 ---
 > Dear Bianchi, it feels like we rode for ages. We made memories far beyond imagination. Now the time has come for us to part ways. Fortunately, these Bianchi’s will continue the ride. Grazie mille. Check out [https://t.co/bUtFhuLzOX](https://t.co/bUtFhuLzOX)[#continuetheride](https://twitter.com/hashtag/continuetheride?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/bksZQkskfX](https://t.co/bksZQkskfX)

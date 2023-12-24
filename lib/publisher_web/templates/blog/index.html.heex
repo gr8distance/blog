@@ -1,7 +1,0 @@
-<h1>All Posts</h1>
-
-<ul>
-  <%= for post <- @posts do %>
-    <li><%= link post.title, to: "/blog/#{post.id}" %></li>
-  <% end %>
-</ul>

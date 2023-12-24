@@ -21,7 +21,7 @@
 **UG a.k.a てるてる坊主**
 
 
-[![](https://2.bp.blogspot.com/-TG3iBge3rBI/XY3WgSJh5OI/AAAAAAAAB84/FUrNB1ZNhqcsBiK7dmeXva-0SpjAV17VQCK4BGAYYCw/s320/IMG_20190927_063114.jpg)](http://2.bp.blogspot.com/-TG3iBge3rBI/XY3WgSJh5OI/AAAAAAAAB84/FUrNB1ZNhqcsBiK7dmeXva-0SpjAV17VQCK4BGAYYCw/s1600/IMG_20190927_063114.jpg)
+[![](/images/IMG_20190927_063114.jpg)](/images/IMG_20190927_063114.jpg)
 | この挑戦も最後なのでこの写真も見納め |
 
 
@@ -57,7 +57,7 @@ TarmacはPWRが5w/kgを越えたら別の乗り物になるので気持ちよく
 
 Stage.1の逆走がStage.21なので最初に立ち寄った神社に完走間近のご報告を兼ねてお参りを。
 
-[![](https://4.bp.blogspot.com/-L5fgp5LTq2c/XY3Wy0vJNLI/AAAAAAAAB9E/fyTaCInFF0EODEa-HIba0ASHEcECfHBjACK4BGAYYCw/s320/IMG_20190927_100203.jpg)](http://4.bp.blogspot.com/-L5fgp5LTq2c/XY3Wy0vJNLI/AAAAAAAAB9E/fyTaCInFF0EODEa-HIba0ASHEcECfHBjACK4BGAYYCw/s1600/IMG_20190927_100203.jpg)
+[![](/images/IMG_20190927_100203.jpg)](/images/IMG_20190927_100203.jpg)
 | 日に日に荷物が少なくなっていく(最初は輪行袋がついてた) |
 
 
@@ -69,7 +69,7 @@ Sleep-Lowトレーニングのおかげで補給はこの一回。
 今回は水も買い直すこと無く手持ちの1.5LとマクドのドリンクMサイズで完走できた。
 
 
-[![](https://4.bp.blogspot.com/-Uqa9qQFrsu0/XY3XJoRKY8I/AAAAAAAAB9Q/nA_ie_zq04shddB8-VtbWsfzqRDAoGzjwCK4BGAYYCw/s320/IMG_20190927_101948.jpg)](http://4.bp.blogspot.com/-Uqa9qQFrsu0/XY3XJoRKY8I/AAAAAAAAB9Q/nA_ie_zq04shddB8-VtbWsfzqRDAoGzjwCK4BGAYYCw/s1600/IMG_20190927_101948.jpg)
+[![](/images/IMG_20190927_101948.jpg)](/images/IMG_20190927_101948.jpg)
 | おそらく帰阪でもっとも安い移動料金(530円) |
 
 ### 完走の感想

@@ -5,7 +5,7 @@
 
 #### 今日のコース
 
-[![](https://4.bp.blogspot.com/-7jdw_telYKw/XXJEFzfUOQI/AAAAAAAABu8/rMNoEtPYoCEeLjcXQaclbM_LELAQXKaEgCK4BGAYYCw/s320/IMG_20190906_100114.jpg)](http://4.bp.blogspot.com/-7jdw_telYKw/XXJEFzfUOQI/AAAAAAAABu8/rMNoEtPYoCEeLjcXQaclbM_LELAQXKaEgCK4BGAYYCw/s1600/IMG_20190906_100114.jpg)
+[![](/images/IMG_20190906_100114.jpg)](/images/IMG_20190906_100114.jpg)
 | 海は綺麗だったがひたすら海だったので食傷気味 |
 
 
@@ -75,7 +75,7 @@
 
 
 飯食ってる場合じゃねぇ！
-[![](https://3.bp.blogspot.com/-8g9ktpkGOvU/XXJEm74Hf5I/AAAAAAAABvI/E34H2MoUClEuzxG4Fy59L7UiDac5zOhwACK4BGAYYCw/s320/o0700054813964837920.jpg)](http://3.bp.blogspot.com/-8g9ktpkGOvU/XXJEm74Hf5I/AAAAAAAABvI/E34H2MoUClEuzxG4Fy59L7UiDac5zOhwACK4BGAYYCw/s1600/o0700054813964837920.jpg)
+[![](/images/o0700054813964837920.jpg)](/images/o0700054813964837920.jpg)
 
 
 

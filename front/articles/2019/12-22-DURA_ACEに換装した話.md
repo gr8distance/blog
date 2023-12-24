@@ -1,5 +1,5 @@
 ---
-[![](https://2.bp.blogspot.com/-M29FJjQ_hbw/Xf9690OJHrI/AAAAAAAAAig/uvJGMGqZxQ4iCb350Hil9WKMcJxQ9vzkACK4BGAYYCw/s320/IMG_20191220_201636.jpg)](http://2.bp.blogspot.com/-M29FJjQ_hbw/Xf9690OJHrI/AAAAAAAAAig/uvJGMGqZxQ4iCb350Hil9WKMcJxQ9vzkACK4BGAYYCw/s1600/IMG_20191220_201636.jpg)
+[![](/images/IMG_20191220_201636.jpg)](/images/IMG_20191220_201636.jpg)
 | 軽さは正義であり、速いものはかっこいい |
 
 
@@ -19,7 +19,7 @@ Ultegraを使っていたときはリアがすぐロックしていたがDura-Ac
 
 ほんと、もっと早くブレーキだけでもDura-Aceにするべきだったなぁと思ったくらい感動した。
 
-[![](https://2.bp.blogspot.com/-MIuUZjD-nmY/Xf-AZvKCaII/AAAAAAAAAi0/-f_okMMLGSALpEvqE_606-gtJgZ80lkjwCK4BGAYYCw/s320/IMG_20191222_232922.jpg)](http://2.bp.blogspot.com/-MIuUZjD-nmY/Xf-AZvKCaII/AAAAAAAAAi0/-f_okMMLGSALpEvqE_606-gtJgZ80lkjwCK4BGAYYCw/s1600/IMG_20191222_232922.jpg)
+[![](/images/IMG_20191222_232922.jpg)](/images/IMG_20191222_232922.jpg)
 | 見た目もかっこいい💯 |
 
 ###
@@ -64,7 +64,7 @@ DI2の悩みどころ
 来年の1/13のAllRoadシリーズに最大勾配22%の激坂があるからそこできっと力を発揮してくれるはず！
 今から楽しみなんすよ
 
-[![](https://3.bp.blogspot.com/-nla1tbqqg_c/Xf-BSbF0szI/AAAAAAAAAjE/3ntM9vf8Dm0egHVCLbRL1b_Zzy7q_smkACK4BGAYYCw/s320/IMG_20191222_234046.jpg)](http://3.bp.blogspot.com/-nla1tbqqg_c/Xf-BSbF0szI/AAAAAAAAAjE/3ntM9vf8Dm0egHVCLbRL1b_Zzy7q_smkACK4BGAYYCw/s1600/IMG_20191222_234046.jpg)
+[![](/images/IMG_20191222_234046.jpg)](/images/IMG_20191222_234046.jpg)
 | 30Tにしたのはユンボのログリッチが30Tを使ってるからというのもある |
 
 
@@ -85,7 +85,7 @@ DI2の悩みどころ
 
 アウター取ったりもっとえげつない軽量化自体は可能だけどUCIの6.8kgルールを破ろうという気は無いのでこの重量で大満足
 
-[![](https://2.bp.blogspot.com/-3ru3CK5ndTk/Xf-CHkdiCwI/AAAAAAAAAjQ/01nZDrgbaZU9Jx4OZtxrAvCv3OSROsRQwCK4BGAYYCw/s320/IMG_20191220_201629.jpg)](http://2.bp.blogspot.com/-3ru3CK5ndTk/Xf-CHkdiCwI/AAAAAAAAAjQ/01nZDrgbaZU9Jx4OZtxrAvCv3OSROsRQwCK4BGAYYCw/s1600/IMG_20191220_201629.jpg)
+[![](/images/IMG_20191220_201629.jpg)](/images/IMG_20191220_201629.jpg)
 | 重量もそうだけどかっこよすぎやろ... |
 
 ### 最後に

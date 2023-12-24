@@ -6,10 +6,10 @@
 白浜出発なのに白浜の観光地を走っていないことを思い出したので白浜観光を兼ねた体調調整ライド
 
 
-[![](https://4.bp.blogspot.com/-mDXbcSts5fY/XXxMosgvQxI/AAAAAAAABzY/-zRL8Li89ikm1m8OG9X1vHaYelPRST87gCK4BGAYYCw/s320/IMG_20190914_070609-EFFECTS.jpg)](http://4.bp.blogspot.com/-mDXbcSts5fY/XXxMosgvQxI/AAAAAAAABzY/-zRL8Li89ikm1m8OG9X1vHaYelPRST87gCK4BGAYYCw/s1600/IMG_20190914_070609-EFFECTS.jpg)
+[![](/images/IMG_20190914_070609-EFFECTS.jpg)](/images/IMG_20190914_070609-EFFECTS.jpg)
 | 円月島 |
 
-[![](https://3.bp.blogspot.com/-lc83kTTRoS8/XXxMvwFx_jI/AAAAAAAABzo/u0_ru1rGq7AsACE_e6Hu8Ish5OgQZVJYwCK4BGAYYCw/s320/MVIMG_20190914_072043.jpg)](http://3.bp.blogspot.com/-lc83kTTRoS8/XXxMvwFx_jI/AAAAAAAABzo/u0_ru1rGq7AsACE_e6Hu8Ish5OgQZVJYwCK4BGAYYCw/s1600/MVIMG_20190914_072043.jpg)
+[![](/images/MVIMG_20190914_072043.jpg)](/images/MVIMG_20190914_072043.jpg)
 
 ### パンターニなりきりスタイル!?🤔
 早速だけど一昨日メモした休むダンシングの方法

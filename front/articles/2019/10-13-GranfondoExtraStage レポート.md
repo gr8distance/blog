@@ -49,7 +49,7 @@ GreatDistanceのときの出力を凌駕するパワーだ...
 もしかして僕、激坂でもいける口なんですかね🤔
 
 
-[![](https://1.bp.blogspot.com/-nHiDeelhC24/XZn0cIor8iI/AAAAAAAACAU/dhpmVe_j4u4mT8idG0uTFQf4YeXvcmfEwCEwYBhgL/s320/PANO_20191006_085459.jpg)](https://1.bp.blogspot.com/-nHiDeelhC24/XZn0cIor8iI/AAAAAAAACAU/dhpmVe_j4u4mT8idG0uTFQf4YeXvcmfEwCEwYBhgL/s1600/PANO_20191006_085459.jpg)
+[![](/images/PANO_20191006_085459.jpg)](https://1.bp.blogspot.com/-nHiDeelhC24/XZn0cIor8iI/AAAAAAAACAU/dhpmVe_j4u4mT8idG0uTFQf4YeXvcmfEwCEwYBhgL/s1600/PANO_20191006_085459.jpg)
 
 
 
@@ -79,7 +79,7 @@ Tarmacでpwr 5w/kg出したら気持ちよくなるガスでも出てくるん�
 
 
 
-[![](https://1.bp.blogspot.com/-I0DGEscNTdw/XZn0VbVOJ9I/AAAAAAAACAM/pcQ01jeCTKQbalQgK8aG5VcanvOtESHegCPcBGAYYCw/s320/IMG_20191006_121634.jpg)](https://1.bp.blogspot.com/-I0DGEscNTdw/XZn0VbVOJ9I/AAAAAAAACAM/pcQ01jeCTKQbalQgK8aG5VcanvOtESHegCPcBGAYYCw/s1600/IMG_20191006_121634.jpg)
+[![](/images/IMG_20191006_121634.jpg)](https://1.bp.blogspot.com/-I0DGEscNTdw/XZn0VbVOJ9I/AAAAAAAACAM/pcQ01jeCTKQbalQgK8aG5VcanvOtESHegCPcBGAYYCw/s1600/IMG_20191006_121634.jpg)
 | 店が混んでて大盛りにしてもらえなかったが美味しかった。
 しかし一瞬で無くなったのでこのあとコンビニへ |
 
@@ -107,23 +107,23 @@ Tarmacでpwr 5w/kg出したら気持ちよくなるガスでも出てくるん�
 
 ここを登ると...
 
-[![](https://1.bp.blogspot.com/-CtDiFVepQwE/XZn0Vwnj2oI/AAAAAAAACAQ/WCBUXRq5TGwzVfu7U2wrc5oUxhHisAUxwCPcBGAYYCw/s320/IMG_20191006_141334.jpg)](https://1.bp.blogspot.com/-CtDiFVepQwE/XZn0Vwnj2oI/AAAAAAAACAQ/WCBUXRq5TGwzVfu7U2wrc5oUxhHisAUxwCPcBGAYYCw/s1600/IMG_20191006_141334.jpg)
+[![](/images/IMG_20191006_141334.jpg)](https://1.bp.blogspot.com/-CtDiFVepQwE/XZn0Vwnj2oI/AAAAAAAACAQ/WCBUXRq5TGwzVfu7U2wrc5oUxhHisAUxwCPcBGAYYCw/s1600/IMG_20191006_141334.jpg)
 | 最大勾配は23%近い
 落ち葉、石ころ、鹿、猿、激坂のオンパレード
 これはオンロードなのか? |
 
 
 
-[![](https://1.bp.blogspot.com/-BjIMaDN_Ktg/XZn0XET00DI/AAAAAAAACAA/-Dr7x_MucO4XcFpXw-S2JwYTEtfK7xlIgCPcBGAYYCw/s320/IMG_20191006_142219.jpg)](https://1.bp.blogspot.com/-BjIMaDN_Ktg/XZn0XET00DI/AAAAAAAACAA/-Dr7x_MucO4XcFpXw-S2JwYTEtfK7xlIgCPcBGAYYCw/s1600/IMG_20191006_142219.jpg)
+[![](/images/IMG_20191006_142219.jpg)](https://1.bp.blogspot.com/-BjIMaDN_Ktg/XZn0XET00DI/AAAAAAAACAA/-Dr7x_MucO4XcFpXw-S2JwYTEtfK7xlIgCPcBGAYYCw/s1600/IMG_20191006_142219.jpg)
 | おお絶景！
 なぜかここに休憩所があるけど誰が使うんだろう...🤔 |
 
-[![](https://1.bp.blogspot.com/-DpfJHSZFCS0/XZn0XGlzdvI/AAAAAAAACAM/ARsj_6lg45ssIn9v46cKieEEynswCzXfACPcBGAYYCw/s320/IMG_20191006_143712.jpg)](https://1.bp.blogspot.com/-DpfJHSZFCS0/XZn0XGlzdvI/AAAAAAAACAM/ARsj_6lg45ssIn9v46cKieEEynswCzXfACPcBGAYYCw/s1600/IMG_20191006_143712.jpg)
+[![](/images/IMG_20191006_143712.jpg)](https://1.bp.blogspot.com/-DpfJHSZFCS0/XZn0XGlzdvI/AAAAAAAACAM/ARsj_6lg45ssIn9v46cKieEEynswCzXfACPcBGAYYCw/s1600/IMG_20191006_143712.jpg)
 | この路面で22%の勾配... |
 
 
 
-[![](https://1.bp.blogspot.com/-l38MZ3APYVQ/XZn0YDv0H5I/AAAAAAAACAE/tLaBnFE3fpYESsKr6UzgGui6DTKQhUumQCPcBGAYYCw/s320/IMG_20191006_150508.jpg)](https://1.bp.blogspot.com/-l38MZ3APYVQ/XZn0YDv0H5I/AAAAAAAACAE/tLaBnFE3fpYESsKr6UzgGui6DTKQhUumQCPcBGAYYCw/s1600/IMG_20191006_150508.jpg)
+[![](/images/IMG_20191006_150508.jpg)](https://1.bp.blogspot.com/-l38MZ3APYVQ/XZn0YDv0H5I/AAAAAAAACAE/tLaBnFE3fpYESsKr6UzgGui6DTKQhUumQCPcBGAYYCw/s1600/IMG_20191006_150508.jpg)
 | 片山さんはパンクを乗り越え登坂再開
 山頂付近は本当に絶景 |
 
@@ -142,7 +142,7 @@ Tarmacでpwr 5w/kg出したら気持ちよくなるガスでも出てくるん�
 
 温泉につかったあとはみんなで焼き肉へ！
 
-[![](https://1.bp.blogspot.com/-h7sNgR1FCx0/XZn0ZCFO3NI/AAAAAAAACAI/aJgtB2NMl7QfO-3HwHIz6uri5nmXCCCUACPcBGAYYCw/s320/IMG_20191006_190025.jpg)](https://1.bp.blogspot.com/-h7sNgR1FCx0/XZn0ZCFO3NI/AAAAAAAACAI/aJgtB2NMl7QfO-3HwHIz6uri5nmXCCCUACPcBGAYYCw/s1600/IMG_20191006_190025.jpg)
+[![](/images/IMG_20191006_190025.jpg)](https://1.bp.blogspot.com/-h7sNgR1FCx0/XZn0ZCFO3NI/AAAAAAAACAI/aJgtB2NMl7QfO-3HwHIz6uri5nmXCCCUACPcBGAYYCw/s1600/IMG_20191006_190025.jpg)
 しこたま食った
 ハンガーノックになってたから本当にありがたかった...
 

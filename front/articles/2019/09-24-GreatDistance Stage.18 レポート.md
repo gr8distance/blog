@@ -1,7 +1,7 @@
 ---
 <iframe allowtransparency="true" frameborder="0" height="405" scrolling="no" src="https://www.strava.com/activities/2735053357/embed/710aeeb58dc6989d2a6627b6adbc51bc0bb6dcc5" width="590"></iframe>
 
-[![](https://1.bp.blogspot.com/-7B2PVA0SQmc/XYoB2WuPRrI/AAAAAAAAB7Y/6tFyOVBTArUhCelvb-CE10qHk0URNNZrACK4BGAYYCw/s320/IMG_20190923_134827.jpg)](http://1.bp.blogspot.com/-7B2PVA0SQmc/XYoB2WuPRrI/AAAAAAAAB7Y/6tFyOVBTArUhCelvb-CE10qHk0URNNZrACK4BGAYYCw/s1600/IMG_20190923_134827.jpg)
+[![](/images/IMG_20190923_134827.jpg)](/images/IMG_20190923_134827.jpg)
 | 沼津に戻りたい... |
 
 

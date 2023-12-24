@@ -3,7 +3,7 @@
 <iframe allowtransparency="true" frameborder="0" height="405" scrolling="no" src="https://www.strava.com/activities/2688937062/embed/e78799a0c9c60722c69aa483077d3ec62083b146" width="590"></iframe>
 
 
-[![](https://2.bp.blogspot.com/-d5pLnUjpDMY/XXWGtZydP_I/AAAAAAAABwU/9UNbrK9qgzw7NpPKbgydrH4KiSIl9J4ZQCK4BGAYYCw/s320/MVIMG_20190908_082326.jpg)](http://2.bp.blogspot.com/-d5pLnUjpDMY/XXWGtZydP_I/AAAAAAAABwU/9UNbrK9qgzw7NpPKbgydrH4KiSIl9J4ZQCK4BGAYYCw/s1600/MVIMG_20190908_082326.jpg)
+[![](/images/MVIMG_20190908_082326.jpg)](/images/MVIMG_20190908_082326.jpg)
 | KINANの山本大喜選手 |
 
 
@@ -55,7 +55,7 @@ GreatDistanceを続ける中でダンシングの効率が上がっていたの�
 でも距離がありすぎたので僕の逃げ切りで終了
 
 
-[![](https://3.bp.blogspot.com/-3Uqu29HRXok/XXWJ-RByugI/AAAAAAAABwg/xcGOzB99juEXsgUm7IKH6LjOJoCQ8lUAACK4BGAYYCw/s320/IMG_20190908_090001_1.jpg)](http://3.bp.blogspot.com/-3Uqu29HRXok/XXWJ-RByugI/AAAAAAAABwg/xcGOzB99juEXsgUm7IKH6LjOJoCQ8lUAACK4BGAYYCw/s1600/IMG_20190908_090001_1.jpg)
+[![](/images/IMG_20190908_090001_1.jpg)](/images/IMG_20190908_090001_1.jpg)
 | 白いジャージが映える |
 
 
@@ -71,7 +71,7 @@ GoogleMapによると串本の一つ向こうの駅紀伊有田駅から乗る�
 駅についたら誰もいない
 というか駅って書いてなかったら駅と認識できないくらい小さい。倉庫かな？
 
-[![](https://1.bp.blogspot.com/-daPI8cUAn7E/XXWKfUQoRuI/AAAAAAAABws/pmR9NYpXJ9EGspsPo-XJRXt88wrx3fD9QCK4BGAYYCw/s320/IMG_20190908_122041.jpg)](http://1.bp.blogspot.com/-daPI8cUAn7E/XXWKfUQoRuI/AAAAAAAABws/pmR9NYpXJ9EGspsPo-XJRXt88wrx3fD9QCK4BGAYYCw/s1600/IMG_20190908_122041.jpg)
+[![](/images/IMG_20190908_122041.jpg)](/images/IMG_20190908_122041.jpg)
 | 完全な無人駅
 券売機すら無い |
 
@@ -85,7 +85,7 @@ GoogleMapによると串本の一つ向こうの駅紀伊有田駅から乗る�
 田舎に行くとローカルな電車の乗り方があるんだなぁと思いつつ乗る
 
 
-[![](https://3.bp.blogspot.com/-ey1Y6LQ_fLY/XXWK-jfpXlI/AAAAAAAABw4/3mgTwOReQ9ozLBzzttY-xnD6HAsaGDsZACK4BGAYYCw/s320/IMG_20190908_122648.jpg)](http://3.bp.blogspot.com/-ey1Y6LQ_fLY/XXWK-jfpXlI/AAAAAAAABw4/3mgTwOReQ9ozLBzzttY-xnD6HAsaGDsZACK4BGAYYCw/s1600/IMG_20190908_122648.jpg)
+[![](/images/IMG_20190908_122648.jpg)](/images/IMG_20190908_122648.jpg)
 | 輪行袋に自転車を詰める |
 
 乗ってる人そんなにいないんだから袋に入れなくてもいいような気も...🤔

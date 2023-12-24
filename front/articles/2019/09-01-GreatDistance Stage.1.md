@@ -1,6 +1,6 @@
 
 ---
-[![](https://2.bp.blogspot.com/-Xi0RmtFvCPw/XWuG-LVM_9I/AAAAAAAABlM/X8O8A12EHxkqHsGifP7JNsY-MbKwu-YQQCK4BGAYYCw/s320/IMG_20190901_064905.jpg)](http://2.bp.blogspot.com/-Xi0RmtFvCPw/XWuG-LVM_9I/AAAAAAAABlM/X8O8A12EHxkqHsGifP7JNsY-MbKwu-YQQCK4BGAYYCw/s1600/IMG_20190901_064905.jpg)
+[![](/images/IMG_20190901_064905.jpg)](/images/IMG_20190901_064905.jpg)
 | いつもと変わらない写真だけど3000kmの長旅を共にする相棒 |
 
 <iframe allowtransparency="true" frameborder="0" height="405" scrolling="no" src="https://www.strava.com/activities/2669194252/embed/c4ae3fecf6333eb4d2427582a0ee2b0b415d99ab" width="590"></iframe>
@@ -10,7 +10,7 @@
 
 その時点ではすでに雨は上がっていたけど1時間前までは降ってたらしい
 
-[![](https://1.bp.blogspot.com/--P5aDcU_lL8/XWuH7hXhmUI/AAAAAAAABlY/-VMTjsitrWYC12Pg8_HmWK6u1En3p6DjwCK4BGAYYCw/s320/MVIMG_20190901_064404.jpg)](http://1.bp.blogspot.com/--P5aDcU_lL8/XWuH7hXhmUI/AAAAAAAABlY/-VMTjsitrWYC12Pg8_HmWK6u1En3p6DjwCK4BGAYYCw/s1600/MVIMG_20190901_064404.jpg)
+[![](/images/MVIMG_20190901_064404.jpg)](/images/MVIMG_20190901_064404.jpg)
 | 曇天って感じだった |
 
 
@@ -33,7 +33,7 @@
 
 幸先とは🤔
 
-[![](https://4.bp.blogspot.com/-vRVbzNx7qyA/XWuI-d9VYCI/AAAAAAAABlw/4dZBKi_omaUGu5QF4H1lARSh7-J_1UBTQCK4BGAYYCw/s320/IMG_20190901_065124.jpg)](http://4.bp.blogspot.com/-vRVbzNx7qyA/XWuI-d9VYCI/AAAAAAAABlw/4dZBKi_omaUGu5QF4H1lARSh7-J_1UBTQCK4BGAYYCw/s1600/IMG_20190901_065124.jpg)
+[![](/images/IMG_20190901_065124.jpg)](/images/IMG_20190901_065124.jpg)
 | BoraのレーパンとPantaniジャージの組み合わせ
 一周目は5日まで毎日洗濯して使う |
 
@@ -56,7 +56,7 @@ Stravaでライドログを追いかけてもこの60kmの平均心拍は120bpm�
 
 
 
-[![](https://1.bp.blogspot.com/-Fs-kktbybVg/XWuIbjJtNLI/AAAAAAAABlk/BYrjuRk95FI6txHS03oMyloWXXnzP1vMgCK4BGAYYCw/s320/EFFECTS.jpg)](http://1.bp.blogspot.com/-Fs-kktbybVg/XWuIbjJtNLI/AAAAAAAABlk/BYrjuRk95FI6txHS03oMyloWXXnzP1vMgCK4BGAYYCw/s1600/EFFECTS.jpg)
+[![](/images/EFFECTS.jpg)](/images/EFFECTS.jpg)
 | どんどん晴れてきて鮮やかな空色だった(堺市) |
 
 
@@ -124,7 +124,7 @@ Stravaでライドログを追いかけてもこの60kmの平均心拍は120bpm�
 
 
 
-[![](https://3.bp.blogspot.com/-rHsoQ72VURI/XWufGW-wLwI/AAAAAAAABm0/YyYQFmKnucsCle0jNy-lgL2D1jHXxj53gCK4BGAYYCw/s320/IMG_20190901_103903.jpg)](http://3.bp.blogspot.com/-rHsoQ72VURI/XWufGW-wLwI/AAAAAAAABm0/YyYQFmKnucsCle0jNy-lgL2D1jHXxj53gCK4BGAYYCw/s1600/IMG_20190901_103903.jpg)[![](https://4.bp.blogspot.com/-XSrSNddZdqM/XWufF_H_CRI/AAAAAAAABms/arZDfVZF8dQETLfiY0NShLfYhl8Pu12lACK4BGAYYCw/s320/IMG_20190901_104418.jpg)](http://4.bp.blogspot.com/-XSrSNddZdqM/XWufF_H_CRI/AAAAAAAABms/arZDfVZF8dQETLfiY0NShLfYhl8Pu12lACK4BGAYYCw/s1600/IMG_20190901_104418.jpg)
+[![](/images/IMG_20190901_104418.jpg)](http://4.bp.blogspot.com/-XSrSNddZdqM/XWufF_H_CRI/AAAAAAAABms/arZDfVZF8dQETLfiY0NShLfYhl8Pu12lACK4BGAYYCw/s1600/IMG_20190901_104418.jpg)
 
 特になにもないんだけど神社好きなんですよねぇ
 
@@ -168,7 +168,7 @@ Stravaでライドログを追いかけてもこの60kmの平均心拍は120bpm�
 
 
 
-[![](https://3.bp.blogspot.com/-tw-fEalNAEE/XWufyOX1TLI/AAAAAAAABnE/VSudWXbCVmstuVZsxIDTHm9F_GPUTNlagCK4BGAYYCw/s320/IMG_20190901_112004.jpg)](http://3.bp.blogspot.com/-tw-fEalNAEE/XWufyOX1TLI/AAAAAAAABnE/VSudWXbCVmstuVZsxIDTHm9F_GPUTNlagCK4BGAYYCw/s1600/IMG_20190901_112004.jpg)
+[![](/images/IMG_20190901_112004.jpg)](/images/IMG_20190901_112004.jpg)
 
 
 
@@ -186,15 +186,15 @@ Stravaでライドログを追いかけてもこの60kmの平均心拍は120bpm�
 
 そして輝く僕の相棒
 
-[![](https://2.bp.blogspot.com/-_KX6DRBNhXk/XWugydH_5lI/AAAAAAAABnw/Fjm-B1Ra_Mg9M-aJdpO_lFsXT8Xfbgj_ACK4BGAYYCw/s320/PANO_20190901_114627.vr.jpg)](http://2.bp.blogspot.com/-_KX6DRBNhXk/XWugydH_5lI/AAAAAAAABnw/Fjm-B1Ra_Mg9M-aJdpO_lFsXT8Xfbgj_ACK4BGAYYCw/s1600/PANO_20190901_114627.vr.jpg)
+[![](/images/PANO_20190901_114627.vr.jpg)](/images/PANO_20190901_114627.vr.jpg)
 | &nbsp;もう少し南下すると伝説のアニメAirの聖地が待っている |
 
-[![](https://2.bp.blogspot.com/-dQZJGUxkXPg/XWugF7i9mlI/AAAAAAAABnQ/m4xavVY0vPketOskaevSEx7ZjgznwPnXwCK4BGAYYCw/s320/IMG_20190901_114646-EFFECTS.jpg)](http://2.bp.blogspot.com/-dQZJGUxkXPg/XWugF7i9mlI/AAAAAAAABnQ/m4xavVY0vPketOskaevSEx7ZjgznwPnXwCK4BGAYYCw/s1600/IMG_20190901_114646-EFFECTS.jpg)
+[![](/images/IMG_20190901_114646-EFFECTS.jpg)](/images/IMG_20190901_114646-EFFECTS.jpg)
 | 美しいでしょ！ |
 
 
 
-[![](https://1.bp.blogspot.com/-sRlfq46gfUo/XWughV3KXPI/AAAAAAAABnc/do_ohhMEhLYatFR_DgoAHZJ9COraNPBQACK4BGAYYCw/s320/IMG_20190901_121210.jpg)](http://1.bp.blogspot.com/-sRlfq46gfUo/XWughV3KXPI/AAAAAAAABnc/do_ohhMEhLYatFR_DgoAHZJ9COraNPBQACK4BGAYYCw/s1600/IMG_20190901_121210.jpg)
+[![](/images/IMG_20190901_121210.jpg)](/images/IMG_20190901_121210.jpg)
 | 醤油発祥の地湯浅には湯浅城という宿泊施設がある |
 
 
@@ -209,7 +209,7 @@ Stravaでライドログを追いかけてもこの60kmの平均心拍は120bpm�
 
 
 
-[![](https://4.bp.blogspot.com/-X_dPuvr2VPY/XWug6tTMYSI/AAAAAAAABn4/TuqVuOmSr_UvLrpnRd5IuektQBaj1sFOgCK4BGAYYCw/s320/IMG_20190901_131542.jpg)](http://4.bp.blogspot.com/-X_dPuvr2VPY/XWug6tTMYSI/AAAAAAAABn4/TuqVuOmSr_UvLrpnRd5IuektQBaj1sFOgCK4BGAYYCw/s1600/IMG_20190901_131542.jpg)
+[![](/images/IMG_20190901_131542.jpg)](/images/IMG_20190901_131542.jpg)
 | sacreの美味しさ
 暑い日にしびれる酸っぱさ |
 
@@ -306,14 +306,14 @@ KOMというか普通にTT区間なような気も🤔
 
 
 
-[![](https://2.bp.blogspot.com/-vJh-NxFPKWM/XWujszhdEaI/AAAAAAAABok/rAuN2wZSonAG4dymmHZITVP-1LWIkhOJwCK4BGAYYCw/s320/IMG_20190901_170001.jpg)](http://2.bp.blogspot.com/-vJh-NxFPKWM/XWujszhdEaI/AAAAAAAABok/rAuN2wZSonAG4dymmHZITVP-1LWIkhOJwCK4BGAYYCw/s1600/IMG_20190901_170001.jpg)
+[![](/images/IMG_20190901_170001.jpg)](/images/IMG_20190901_170001.jpg)
 | このルブめっちゃ良かった |
 
 
 
 
 
-[![](https://3.bp.blogspot.com/-uOZuAwFVICQ/XWuj3aek9bI/AAAAAAAABos/duAPCjzVT-slcJZ6G34IVXAHYT0ReltKgCK4BGAYYCw/s320/IMG_20190901_164147.jpg)](http://3.bp.blogspot.com/-uOZuAwFVICQ/XWuj3aek9bI/AAAAAAAABos/duAPCjzVT-slcJZ6G34IVXAHYT0ReltKgCK4BGAYYCw/s1600/IMG_20190901_164147.jpg)
+[![](/images/IMG_20190901_164147.jpg)](/images/IMG_20190901_164147.jpg)
 
 バイクの整備もしたし、今日は疲れたので早めに寝よう
 

@@ -2,7 +2,7 @@
 ---
 GreatDistanceChallangeと銘打った挑戦を2019年9月1日から開始して今日、無事に21日で3010km走り達成することができたので、始めた頃から何が変わって何が変わらなかったのか？についてまとめを書いていこうと思います。
 
-[![](https://1.bp.blogspot.com/-4vbIk03hzdg/XY380HIpi0I/AAAAAAAAB9c/deKDeoWvQ3gip2xMxGfTAjK-UDH1qx8FwCK4BGAYYCw/s320/MVIMG_20190825_142215.jpg)](http://1.bp.blogspot.com/-4vbIk03hzdg/XY380HIpi0I/AAAAAAAAB9c/deKDeoWvQ3gip2xMxGfTAjK-UDH1qx8FwCK4BGAYYCw/s1600/MVIMG_20190825_142215.jpg)
+[![](/images/MVIMG_20190825_142215.jpg)](/images/MVIMG_20190825_142215.jpg)
 | 膝が壊れたときに神頼みした |
 
 ###

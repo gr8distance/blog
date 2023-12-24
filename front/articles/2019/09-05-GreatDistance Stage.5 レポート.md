@@ -2,7 +2,7 @@
 <iframe allowtransparency="true" frameborder="0" height="405" scrolling="no" src="https://www.strava.com/activities/2681035321/embed/22ee55a0b140a370408be5954217e0c0460990b1" width="590"></iframe>
 
 
-[![](https://4.bp.blogspot.com/-ImRgQlv_CPE/XXDvJeCQayI/AAAAAAAABuA/vZp3ZwULlSod6aAar1IfAMNQN9i9UhW0wCK4BGAYYCw/s320/MVIMG_20190905_065059.jpg)](http://4.bp.blogspot.com/-ImRgQlv_CPE/XXDvJeCQayI/AAAAAAAABuA/vZp3ZwULlSod6aAar1IfAMNQN9i9UhW0wCK4BGAYYCw/s1600/MVIMG_20190905_065059.jpg)
+[![](/images/MVIMG_20190905_065059.jpg)](/images/MVIMG_20190905_065059.jpg)
 | 最速で御坊に到着。もはや車と同じ速度 |
 
 

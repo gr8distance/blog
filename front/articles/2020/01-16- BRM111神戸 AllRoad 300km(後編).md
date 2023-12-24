@@ -119,7 +119,7 @@
 伊吹山ドライブウェイHCに出るらしいのでその時あったらラブライブの話がしたいぞ！
 
 
-[![](https://1.bp.blogspot.com/-62QPaCpopB4/Xh6KjBhG93I/AAAAAAAAAnE/YG4utGqXPNYBbsNa9Fmyl1I9uJ5x6YLeACPcBGAYYCw/s320/IMG_20200111_144714.jpg)](https://1.bp.blogspot.com/-62QPaCpopB4/Xh6KjBhG93I/AAAAAAAAAnE/YG4utGqXPNYBbsNa9Fmyl1I9uJ5x6YLeACPcBGAYYCw/s1600/IMG_20200111_144714.jpg)
+[![](/images/IMG_20200111_144714.jpg)](https://1.bp.blogspot.com/-62QPaCpopB4/Xh6KjBhG93I/AAAAAAAAAnE/YG4utGqXPNYBbsNa9Fmyl1I9uJ5x6YLeACPcBGAYYCw/s1600/IMG_20200111_144714.jpg)
 | 500m級とはいえ山頂は冷たい。
 いそいそとGoreジャケットを着て下山する |
 
@@ -182,14 +182,14 @@ UG、16:00柏原山に入山。
 だから安全を優先した。かしこい！
 
 
-[![](https://1.bp.blogspot.com/-uELzbsymGk0/Xh6KkY3YxOI/AAAAAAAAAnA/wzuGs2wY6V8qS_EfDkCxgdBmAFOj1BeRwCPcBGAYYCw/s320/IMG_20200111_164144.jpg)](https://1.bp.blogspot.com/-uELzbsymGk0/Xh6KkY3YxOI/AAAAAAAAAnA/wzuGs2wY6V8qS_EfDkCxgdBmAFOj1BeRwCPcBGAYYCw/s1600/IMG_20200111_164144.jpg)
+[![](/images/IMG_20200111_164144.jpg)](https://1.bp.blogspot.com/-uELzbsymGk0/Xh6KkY3YxOI/AAAAAAAAAnA/wzuGs2wY6V8qS_EfDkCxgdBmAFOj1BeRwCPcBGAYYCw/s1600/IMG_20200111_164144.jpg)
 | 信じられるか？淡路島なんだぜここ |
 
 
 結局押して登っても心拍はL4くらいまでは上がったし落車しないという一点でメリットはあったけど結局疲れた...
 
 
-[![](https://1.bp.blogspot.com/-lOTnKGy5Hn8/Xh6KlFA7fqI/AAAAAAAAAnA/bd8AhENXJV8mZ3wWlcueSf5PZbIin8TpgCPcBGAYYCw/s320/IMG_20200111_165113.jpg)](https://1.bp.blogspot.com/-lOTnKGy5Hn8/Xh6KlFA7fqI/AAAAAAAAAnA/bd8AhENXJV8mZ3wWlcueSf5PZbIin8TpgCPcBGAYYCw/s1600/IMG_20200111_165113.jpg)
+[![](/images/IMG_20200111_165113.jpg)](https://1.bp.blogspot.com/-lOTnKGy5Hn8/Xh6KlFA7fqI/AAAAAAAAAnA/bd8AhENXJV8mZ3wWlcueSf5PZbIin8TpgCPcBGAYYCw/s1600/IMG_20200111_165113.jpg)
 | 暗くなり始めたけどまだ明るいうちに山頂まできた |
 
 
@@ -254,7 +254,7 @@ UG、16:00柏原山に入山。
 
 幸いほとんど信号にもひっかからないのでペースが落ちない。
 
-[![](https://1.bp.blogspot.com/-TR-Bb_PZ77Y/Xh6Kd1iFmII/AAAAAAAAAnI/_c0pYWcEjLMDbQthTlph4KCfhq-IBxNxACPcBGAYYCw/s320/00100lrPORTRAIT_00100_BURST20200111180325760_COVER.jpg)](https://1.bp.blogspot.com/-TR-Bb_PZ77Y/Xh6Kd1iFmII/AAAAAAAAAnI/_c0pYWcEjLMDbQthTlph4KCfhq-IBxNxACPcBGAYYCw/s1600/00100lrPORTRAIT_00100_BURST20200111180325760_COVER.jpg)
+[![](/images/00100lrPORTRAIT_00100_BURST20200111180325760_COVER.jpg)](https://1.bp.blogspot.com/-TR-Bb_PZ77Y/Xh6Kd1iFmII/AAAAAAAAAnI/_c0pYWcEjLMDbQthTlph4KCfhq-IBxNxACPcBGAYYCw/s1600/00100lrPORTRAIT_00100_BURST20200111180325760_COVER.jpg)
 
 海から月が昇る瞬間を見た。
 
@@ -286,7 +286,7 @@ UG、16:00柏原山に入山。
 おもむろにおにぎりとカップ麺を選んで店員さんに店内使うので消費税10%払う旨を伝え食事にありつく。
 気温が落ちてきていたこともあり、だいぶ温まった
 
-[![](https://1.bp.blogspot.com/-IHODWop7trs/Xh6KmTWmUQI/AAAAAAAAAnI/mcLii8kuSk8VujyLLj8QpiAMh2D-BioswCPcBGAYYCw/s320/IMG_20200111_190435.jpg)](https://1.bp.blogspot.com/-IHODWop7trs/Xh6KmTWmUQI/AAAAAAAAAnI/mcLii8kuSk8VujyLLj8QpiAMh2D-BioswCPcBGAYYCw/s1600/IMG_20200111_190435.jpg)
+[![](/images/IMG_20200111_190435.jpg)](https://1.bp.blogspot.com/-IHODWop7trs/Xh6KmTWmUQI/AAAAAAAAAnI/mcLii8kuSk8VujyLLj8QpiAMh2D-BioswCPcBGAYYCw/s1600/IMG_20200111_190435.jpg)
 | ゆるキャン(実写)をみて麺類が食べたかった |
 
 食べたので速やかに岩屋港に戻るとぼくの他に二人来ていた。
@@ -296,7 +296,7 @@ UG、16:00柏原山に入山。
 
 ここまで来て認定外になるところだった...
 
-[![](https://1.bp.blogspot.com/-ZylDn527hJU/Xh6KnAwqifI/AAAAAAAAAnQ/xHDeGtTv5Mg_3pS8YcSXpPYL-wY_ubbsgCPcBGAYYCw/s320/IMG_20200111_191746.jpg)](https://1.bp.blogspot.com/-ZylDn527hJU/Xh6KnAwqifI/AAAAAAAAAnQ/xHDeGtTv5Mg_3pS8YcSXpPYL-wY_ubbsgCPcBGAYYCw/s1600/IMG_20200111_191746.jpg)
+[![](/images/IMG_20200111_191746.jpg)](https://1.bp.blogspot.com/-ZylDn527hJU/Xh6KnAwqifI/AAAAAAAAAnQ/xHDeGtTv5Mg_3pS8YcSXpPYL-wY_ubbsgCPcBGAYYCw/s1600/IMG_20200111_191746.jpg)
 | もし18:40に間に合ってたら確実に写真撮れてなかった.. |
 
 
@@ -315,7 +315,7 @@ UG、16:00柏原山に入山。
 
 そのあと防災公園まで一緒に走って写真を撮ったがすぐにはぐれてしまった。
 
-[![](https://1.bp.blogspot.com/-XOCLbGDHuqw/Xh6KnXbwwOI/AAAAAAAAAnU/aQk5nGLSfQEcBox46IaFOfWj6_6ytzjSACPcBGAYYCw/s320/IMG_20200111_204324.jpg)](https://1.bp.blogspot.com/-XOCLbGDHuqw/Xh6KnXbwwOI/AAAAAAAAAnU/aQk5nGLSfQEcBox46IaFOfWj6_6ytzjSACPcBGAYYCw/s1600/IMG_20200111_204324.jpg)
+[![](/images/IMG_20200111_204324.jpg)](https://1.bp.blogspot.com/-XOCLbGDHuqw/Xh6KnXbwwOI/AAAAAAAAAnU/aQk5nGLSfQEcBox46IaFOfWj6_6ytzjSACPcBGAYYCw/s1600/IMG_20200111_204324.jpg)
 | 結構いい感じに取れてる |
 
 ここを越えたらあとは神戸に至るだけ！と思ってたけどまたも10%超えの坂が現れる...
@@ -330,7 +330,7 @@ UG、16:00柏原山に入山。
 
 わずか300kmのハズなのに認定まで17時間1分もかかってしまった...
 
-[![](https://1.bp.blogspot.com/-GqbBIitVAc4/Xh6KogJa-sI/AAAAAAAAAnI/zqNF3EiOn0gddXRBAaizrrHyprLa9EfEQCPcBGAYYCw/s320/IMG_20200112_011538.jpg)](https://1.bp.blogspot.com/-GqbBIitVAc4/Xh6KogJa-sI/AAAAAAAAAnI/zqNF3EiOn0gddXRBAaizrrHyprLa9EfEQCPcBGAYYCw/s1600/IMG_20200112_011538.jpg)
+[![](/images/IMG_20200112_011538.jpg)](https://1.bp.blogspot.com/-GqbBIitVAc4/Xh6KogJa-sI/AAAAAAAAAnI/zqNF3EiOn0gddXRBAaizrrHyprLa9EfEQCPcBGAYYCw/s1600/IMG_20200112_011538.jpg)
 | このブルベは泉佐野600とか大阪 -\> 沼津よりはるかにきつい |
 
 ###

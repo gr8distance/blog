@@ -4,7 +4,7 @@
 
 
 
-[![](https://1.bp.blogspot.com/-m_ybAye_Ebk/X2yP1Wr5inI/AAAAAAAANKw/JX2CBiSqecQiDbh0ltdOmhiAwtFIXQmzwCNcBGAsYHQ/s320/EimmiyDVgAElMz2-1.jpg)](https://1.bp.blogspot.com/-m_ybAye_Ebk/X2yP1Wr5inI/AAAAAAAANKw/JX2CBiSqecQiDbh0ltdOmhiAwtFIXQmzwCNcBGAsYHQ/s2048/EimmiyDVgAElMz2-1.jpg)
+[![](/images/EimmiyDVgAElMz2-1.jpg)](https://1.bp.blogspot.com/-m_ybAye_Ebk/X2yP1Wr5inI/AAAAAAAANKw/JX2CBiSqecQiDbh0ltdOmhiAwtFIXQmzwCNcBGAsYHQ/s2048/EimmiyDVgAElMz2-1.jpg)
 
 
 
@@ -56,7 +56,7 @@
 
 出走は9/21。日が暮れるまでに日本海にたどり着きたいので午前2:30になぎさ公園を出走する。
 
-[![](https://1.bp.blogspot.com/-cBwB7ci1kgg/X2yUuURqzQI/AAAAAAAANLA/d0evD2YGGp067zaDgf_3tjshouiYBim3gCPcBGAsYHg/s320/PXL_20200920_171453492.NIGHT.jpg)](https://1.bp.blogspot.com/-cBwB7ci1kgg/X2yUuURqzQI/AAAAAAAANLA/d0evD2YGGp067zaDgf_3tjshouiYBim3gCPcBGAsYHg/s4032/PXL_20200920_171453492.NIGHT.jpg)
+[![](/images/PXL_20200920_171453492.NIGHT.jpg)](https://1.bp.blogspot.com/-cBwB7ci1kgg/X2yUuURqzQI/AAAAAAAANLA/d0evD2YGGp067zaDgf_3tjshouiYBim3gCPcBGAsYHg/s4032/PXL_20200920_171453492.NIGHT.jpg)
 
 
 
@@ -110,15 +110,15 @@
 
 そのまま見えてきた最初のフォトコントロールでパシャリ
 
-[![](https://1.bp.blogspot.com/-MzxuWTw7ce8/X2yXNgqjsVI/AAAAAAAANLc/JkDqQhcN7lQLXRC2JE8AzHd9p2yFPUCwACPcBGAsYHg/s320/PXL_20200920_181801706.jpg)](https://1.bp.blogspot.com/-MzxuWTw7ce8/X2yXNgqjsVI/AAAAAAAANLc/JkDqQhcN7lQLXRC2JE8AzHd9p2yFPUCwACPcBGAsYHg/s4032/PXL_20200920_181801706.jpg)
+[![](/images/PXL_20200920_181801706.jpg)](https://1.bp.blogspot.com/-MzxuWTw7ce8/X2yXNgqjsVI/AAAAAAAANLc/JkDqQhcN7lQLXRC2JE8AzHd9p2yFPUCwACPcBGAsYHg/s4032/PXL_20200920_181801706.jpg)
 
 
 撮影が終わったので速やかに残りの工程を消化して45km地点にある最初のPCへ。
 
-[![](https://1.bp.blogspot.com/-gHnUO4n3ivQ/X2yXv6kunQI/AAAAAAAANLk/LD54nJ1INPAB5Vs1XxOywl4paRJh0_8-ACPcBGAsYHg/s320/PXL_20200920_194853502.jpg)](https://1.bp.blogspot.com/-gHnUO4n3ivQ/X2yXv6kunQI/AAAAAAAANLk/LD54nJ1INPAB5Vs1XxOywl4paRJh0_8-ACPcBGAsYHg/s4032/PXL_20200920_194853502.jpg)
+[![](/images/PXL_20200920_194853502.jpg)](https://1.bp.blogspot.com/-gHnUO4n3ivQ/X2yXv6kunQI/AAAAAAAANLk/LD54nJ1INPAB5Vs1XxOywl4paRJh0_8-ACPcBGAsYHg/s4032/PXL_20200920_194853502.jpg)
 
 
-[![](https://1.bp.blogspot.com/-rhGbLdOxM5o/X2yXv2zD_9I/AAAAAAAANLk/wm_pROgpGgo7C9A-ZEerpQDcJ81b_qpWACPcBGAsYHg/s320/PXL_20200920_200316502.NIGHT.jpg)](https://1.bp.blogspot.com/-rhGbLdOxM5o/X2yXv2zD_9I/AAAAAAAANLk/wm_pROgpGgo7C9A-ZEerpQDcJ81b_qpWACPcBGAsYHg/s4032/PXL_20200920_200316502.NIGHT.jpg)
+[![](/images/PXL_20200920_200316502.NIGHT.jpg)](https://1.bp.blogspot.com/-rhGbLdOxM5o/X2yXv2zD_9I/AAAAAAAANLk/wm_pROgpGgo7C9A-ZEerpQDcJ81b_qpWACPcBGAsYHg/s4032/PXL_20200920_200316502.NIGHT.jpg)
 | 夜と朝の境目の景色を拝めるのはランドヌールの特権 |
 
 
@@ -172,7 +172,7 @@
 
 そしてどんどんガンガン踏んで平均時速は11km/hと遅いながらも楽にこなす。
 
-[![](https://1.bp.blogspot.com/-tN1wXpwhvIA/X2ybH9-1hII/AAAAAAAANMI/fe9TRBYAWpkn8ShtqybUEw-p_WEK9_8ggCPcBGAsYHg/s320/PXL_20200920_220716694.MP.jpg)](https://1.bp.blogspot.com/-tN1wXpwhvIA/X2ybH9-1hII/AAAAAAAANMI/fe9TRBYAWpkn8ShtqybUEw-p_WEK9_8ggCPcBGAsYHg/s4032/PXL_20200920_220716694.MP.jpg)
+[![](/images/PXL_20200920_220716694.MP.jpg)](https://1.bp.blogspot.com/-tN1wXpwhvIA/X2ybH9-1hII/AAAAAAAANMI/fe9TRBYAWpkn8ShtqybUEw-p_WEK9_8ggCPcBGAsYHg/s4032/PXL_20200920_220716694.MP.jpg)
 
 
 
@@ -197,7 +197,7 @@
 
 山頂の気温と冷える汗、奪われる体温、軽い空腹感に苦しめられながらどうにか砥が峰までクリアし下り始める
 
-[![](https://1.bp.blogspot.com/-p0yu1JIpR7g/X2ybDrsLtQI/AAAAAAAANME/mIJmtphhcV4N6vsmQ5npCwpGv5XJGvxTwCPcBGAsYHg/s320/PXL_20200921_002500282.PANO.jpg)](https://1.bp.blogspot.com/-p0yu1JIpR7g/X2ybDrsLtQI/AAAAAAAANME/mIJmtphhcV4N6vsmQ5npCwpGv5XJGvxTwCPcBGAsYHg/s4124/PXL_20200921_002500282.PANO.jpg)
+[![](/images/PXL_20200921_002500282.PANO.jpg)](https://1.bp.blogspot.com/-p0yu1JIpR7g/X2ybDrsLtQI/AAAAAAAANME/mIJmtphhcV4N6vsmQ5npCwpGv5XJGvxTwCPcBGAsYHg/s4124/PXL_20200921_002500282.PANO.jpg)
 | ここを馬で走ったら楽しいだろうなぁと思ったり |
 
 
@@ -220,7 +220,7 @@
 
 何事もシンプルに解決するのが一番なのだ
 
-[![](https://1.bp.blogspot.com/-BCknpsrBEdw/X3Bd4LVd8JI/AAAAAAAANSU/VK1SJIUznp8cSkSY9KgH3F0bknNIgP5RwCPcBGAsYHg/s320/PXL_20200921_012001996.jpg)](https://1.bp.blogspot.com/-BCknpsrBEdw/X3Bd4LVd8JI/AAAAAAAANSU/VK1SJIUznp8cSkSY9KgH3F0bknNIgP5RwCPcBGAsYHg/s4032/PXL_20200921_012001996.jpg)
+[![](/images/PXL_20200921_012001996.jpg)](https://1.bp.blogspot.com/-BCknpsrBEdw/X3Bd4LVd8JI/AAAAAAAANSU/VK1SJIUznp8cSkSY9KgH3F0bknNIgP5RwCPcBGAsYHg/s4032/PXL_20200921_012001996.jpg)
 | この時、トイレを探す気持ち、喉が渇く感覚、空腹感、犬かわいい。スパゲティのように絡み合った感情がUGを支配していた... |
 
 
@@ -236,7 +236,7 @@
 
 
 
-[![](https://1.bp.blogspot.com/-IykHkQENRRw/X2yfDO1Y3QI/AAAAAAAANMg/tmcDWSoWDyQwCakvrfPkw1Q7MqVyEkh2QCPcBGAsYHg/s320/20200921_114146.jpg)](https://1.bp.blogspot.com/-IykHkQENRRw/X2yfDO1Y3QI/AAAAAAAANMg/tmcDWSoWDyQwCakvrfPkw1Q7MqVyEkh2QCPcBGAsYHg/s2688/20200921_114146.jpg)
+[![](/images/20200921_114146.jpg)](https://1.bp.blogspot.com/-IykHkQENRRw/X2yfDO1Y3QI/AAAAAAAANMg/tmcDWSoWDyQwCakvrfPkw1Q7MqVyEkh2QCPcBGAsYHg/s2688/20200921_114146.jpg)
 | 最初のボスを攻略したのでトイレ休憩と昼休憩を兼ねてコンビニで一休み |
 
 
@@ -277,7 +277,7 @@
 
 
 
-[![](https://lh3.googleusercontent.com/-Dv36EiUQxmQ/X3BiTQJibII/AAAAAAAANSg/UbZeGM1kQEIdklLJOmlzd-p5oK2nNFtzwCNcBGAsYHQ/EHaIMg9U0AA82NG.jpg)](https://lh3.googleusercontent.com/-Dv36EiUQxmQ/X3BiTQJibII/AAAAAAAANSg/UbZeGM1kQEIdklLJOmlzd-p5oK2nNFtzwCNcBGAsYHQ/EHaIMg9U0AA82NG.jpg)
+[![](/images/EHaIMg9U0AA82NG.jpg)](/images/EHaIMg9U0AA82NG.jpg)
 | まるで崖登りだ。これがアイカツかぁ... |
 
 
@@ -290,7 +290,7 @@
 
 
 
-[![](https://1.bp.blogspot.com/-8qZ2n8yAJv4/X3BkBTIr94I/AAAAAAAANS0/Xe39NncH76c7lo5B_PO6x-IWwCPAORZ0ACPcBGAsYHg/s320/PXL_20200921_043642770.jpg)](https://1.bp.blogspot.com/-8qZ2n8yAJv4/X3BkBTIr94I/AAAAAAAANS0/Xe39NncH76c7lo5B_PO6x-IWwCPAORZ0ACPcBGAsYHg/s4032/PXL_20200921_043642770.jpg)
+[![](/images/PXL_20200921_043642770.jpg)](https://1.bp.blogspot.com/-8qZ2n8yAJv4/X3BkBTIr94I/AAAAAAAANS0/Xe39NncH76c7lo5B_PO6x-IWwCPAORZ0ACPcBGAsYHg/s4032/PXL_20200921_043642770.jpg)
 | これはオフロードだと思うの🤔 |
 
 
@@ -379,12 +379,12 @@
 
 
 
-[![](https://1.bp.blogspot.com/-Tt9Uolg_cf0/X3BzLLWlveI/AAAAAAAANTA/_sj1o7mjzDYuyVIp1baAHGPim7lkZS7_gCPcBGAsYHg/s320/PXL_20200921_051117313.jpg)](https://1.bp.blogspot.com/-Tt9Uolg_cf0/X3BzLLWlveI/AAAAAAAANTA/_sj1o7mjzDYuyVIp1baAHGPim7lkZS7_gCPcBGAsYHg/s4032/PXL_20200921_051117313.jpg)
+[![](/images/PXL_20200921_051117313.jpg)](https://1.bp.blogspot.com/-Tt9Uolg_cf0/X3BzLLWlveI/AAAAAAAANTA/_sj1o7mjzDYuyVIp1baAHGPim7lkZS7_gCPcBGAsYHg/s4032/PXL_20200921_051117313.jpg)
 | ここがフォトコントロールだと思っていた時期が私にもありました。違いました... |
 
 
 
-[![](https://1.bp.blogspot.com/-90ymtaFbIew/X3B3PiTuU6I/AAAAAAAANTQ/1VfFTycFS2MxjrImpiAjrRG3nFpFECzSwCPcBGAsYHg/s320/PXL_20200921_051144388.PANO.jpg)](https://1.bp.blogspot.com/-90ymtaFbIew/X3B3PiTuU6I/AAAAAAAANTQ/1VfFTycFS2MxjrImpiAjrRG3nFpFECzSwCPcBGAsYHg/s3960/PXL_20200921_051144388.PANO.jpg)
+[![](/images/PXL_20200921_051144388.PANO.jpg)](https://1.bp.blogspot.com/-90ymtaFbIew/X3B3PiTuU6I/AAAAAAAANTQ/1VfFTycFS2MxjrImpiAjrRG3nFpFECzSwCPcBGAsYHg/s3960/PXL_20200921_051144388.PANO.jpg)
 | 雲の向こう、約束の日本海 |
 
 
@@ -435,7 +435,7 @@
 
 ### [緩和休題] エンデュランススポーツの神に愛された男
 
-[![](https://1.bp.blogspot.com/-DrJCMcBRZoo/X3B8JTgJVII/AAAAAAAANTo/4T1sWsgm6EcO2TSRWrPxEE2UOGbP9-zLwCPcBGAsYHg/s320/PXL_20200920_222751033.jpg)](https://1.bp.blogspot.com/-DrJCMcBRZoo/X3B8JTgJVII/AAAAAAAANTo/4T1sWsgm6EcO2TSRWrPxEE2UOGbP9-zLwCPcBGAsYHg/s4032/PXL_20200920_222751033.jpg)
+[![](/images/PXL_20200920_222751033.jpg)](https://1.bp.blogspot.com/-DrJCMcBRZoo/X3B8JTgJVII/AAAAAAAANTo/4T1sWsgm6EcO2TSRWrPxEE2UOGbP9-zLwCPcBGAsYHg/s4032/PXL_20200920_222751033.jpg)
 | 妖怪ペダル回しもかくやというくらいの持久力を持つ
  |
 
@@ -495,7 +495,7 @@
 
 
 
-[![](https://lh3.googleusercontent.com/-41sWXwb4OmI/X3PJnv-3TZI/AAAAAAAANYk/v9cVg2PYsnwuMQmXz2-nX1_wKD5-FrxDACNcBGAsYHQ/unnamed.jpg)](https://lh3.googleusercontent.com/-41sWXwb4OmI/X3PJnv-3TZI/AAAAAAAANYk/v9cVg2PYsnwuMQmXz2-nX1_wKD5-FrxDACNcBGAsYHQ/unnamed.jpg)
+[![](/images/unnamed.jpg)](/images/unnamed.jpg)
 | この頃の話を是非！是非！ |
 
 
@@ -568,10 +568,10 @@
 
 
 
-[![](https://1.bp.blogspot.com/-MLFBcMZEPc4/X3CrmpIWzCI/AAAAAAAANUA/HZ5ndU4-1DcwzhREuGWZKYSHbFCQkzyFQCPcBGAsYHg/s320/PXL_20200921_085602977.MP.jpg)](https://1.bp.blogspot.com/-MLFBcMZEPc4/X3CrmpIWzCI/AAAAAAAANUA/HZ5ndU4-1DcwzhREuGWZKYSHbFCQkzyFQCPcBGAsYHg/s4032/PXL_20200921_085602977.MP.jpg)
+[![](/images/PXL_20200921_085602977.MP.jpg)](https://1.bp.blogspot.com/-MLFBcMZEPc4/X3CrmpIWzCI/AAAAAAAANUA/HZ5ndU4-1DcwzhREuGWZKYSHbFCQkzyFQCPcBGAsYHg/s4032/PXL_20200921_085602977.MP.jpg)
 
 
-[![](https://1.bp.blogspot.com/-0U_c6TVmGqk/X3Crml_N7lI/AAAAAAAANUA/1X3DT6xdy6kVriGA6yn75KwjCwxTzUNHgCPcBGAsYHg/s320/PXL_20200921_085559349.jpg)](https://1.bp.blogspot.com/-0U_c6TVmGqk/X3Crml_N7lI/AAAAAAAANUA/1X3DT6xdy6kVriGA6yn75KwjCwxTzUNHgCPcBGAsYHg/s4032/PXL_20200921_085559349.jpg)
+[![](/images/PXL_20200921_085559349.jpg)](https://1.bp.blogspot.com/-0U_c6TVmGqk/X3Crml_N7lI/AAAAAAAANUA/1X3DT6xdy6kVriGA6yn75KwjCwxTzUNHgCPcBGAsYHg/s4032/PXL_20200921_085559349.jpg)
 
 
 
@@ -698,7 +698,7 @@
 
 無事チェックポイントで写真を撮ったときには何も見えない真っ暗闇だった。
 
-[![](https://1.bp.blogspot.com/-U-o1gC2QZeI/X3PU_EnymLI/AAAAAAAANYw/wFvz_Rg05eU4CqM2Tz9N-cBZLkExFo4NwCPcBGAsYHg/s320/PXL_20200921_120621605.jpg)](https://1.bp.blogspot.com/-U-o1gC2QZeI/X3PU_EnymLI/AAAAAAAANYw/wFvz_Rg05eU4CqM2Tz9N-cBZLkExFo4NwCPcBGAsYHg/s4032/PXL_20200921_120621605.jpg)
+[![](/images/PXL_20200921_120621605.jpg)](https://1.bp.blogspot.com/-U-o1gC2QZeI/X3PU_EnymLI/AAAAAAAANYw/wFvz_Rg05eU4CqM2Tz9N-cBZLkExFo4NwCPcBGAsYHg/s4032/PXL_20200921_120621605.jpg)
 
 
 #### [22:00] 伊根の舟屋
@@ -709,7 +709,7 @@
 
 
 
-[![](https://1.bp.blogspot.com/-zo7Q8ZnV8kE/X3PWTc4L1rI/AAAAAAAANZA/BbWGObj7ztQhYvZ34v-FMrb-Es2vkIm1QCPcBGAsYHg/s320/20200921_220332.jpg)](https://1.bp.blogspot.com/-zo7Q8ZnV8kE/X3PWTc4L1rI/AAAAAAAANZA/BbWGObj7ztQhYvZ34v-FMrb-Es2vkIm1QCPcBGAsYHg/s2048/20200921_220332.jpg)
+[![](/images/20200921_220332.jpg)](https://1.bp.blogspot.com/-zo7Q8ZnV8kE/X3PWTc4L1rI/AAAAAAAANZA/BbWGObj7ztQhYvZ34v-FMrb-Es2vkIm1QCPcBGAsYHg/s2048/20200921_220332.jpg)
 
 
 
@@ -797,7 +797,7 @@ Gore-Texのジャケットはとても高く4万円近くする。
 
 しかしこのジャケットを脱ぐと下に着ているのは小原鞠莉ちゃんのサ！ジャージである！
 
-[![](https://lh3.googleusercontent.com/-2nMxNRp-Rc8/X38VOpdOWMI/AAAAAAAANgw/pQEmphiYoycKeYffY2UT3RpD-creb0DSQCNcBGAsYHQ/9200118267934.jpg)](https://lh3.googleusercontent.com/-2nMxNRp-Rc8/X38VOpdOWMI/AAAAAAAANgw/pQEmphiYoycKeYffY2UT3RpD-creb0DSQCNcBGAsYHQ/9200118267934.jpg)
+[![](/images/9200118267934.jpg)](/images/9200118267934.jpg)
 | 小原さんを無傷で自宅へ返すこと。それを実現するのは推し着用者の責任というものではないだろうか？ |
 
 
@@ -935,7 +935,7 @@ Gore-Texのジャケットはとても高く4万円近くする。
 
 
 
-[![](https://lh3.googleusercontent.com/-5d30KjCBN_A/X52NCBZ37JI/AAAAAAAAOJg/7RWIgwiBKL0N3hZojYlp_PhkD7QSERnDACNcBGAsYHQ/20130304154240e3e.jpg)](https://lh3.googleusercontent.com/-5d30KjCBN_A/X52NCBZ37JI/AAAAAAAAOJg/7RWIgwiBKL0N3hZojYlp_PhkD7QSERnDACNcBGAsYHQ/20130304154240e3e.jpg)
+[![](/images/20130304154240e3e.jpg)](/images/20130304154240e3e.jpg)
 
 
 
@@ -953,7 +953,7 @@ Gore-Texのジャケットはとても高く4万円近くする。
 
 
 
-[![](https://lh3.googleusercontent.com/-lQK6IoSsTVs/X52VF1LalVI/AAAAAAAAOJw/ijoewFGlDK03aJpDIQCUboOKkpHtHhdtQCNcBGAsYHQ/20200912_010728.jpg)](https://lh3.googleusercontent.com/-lQK6IoSsTVs/X52VF1LalVI/AAAAAAAAOJw/ijoewFGlDK03aJpDIQCUboOKkpHtHhdtQCNcBGAsYHQ/20200912_010728.jpg)
+[![](/images/20200912_010728.jpg)](/images/20200912_010728.jpg)
 
 
 
@@ -1172,7 +1172,7 @@ UG「 **仮にそれでマージンを使っても安全に最後まで走り切
 
 &nbsp;またコツコツ走り出していきたいと思います。
 
-[![](https://lh3.googleusercontent.com/-KqpYcJtH9x4/X52lEjdJQQI/AAAAAAAAOKI/oUTmno3DaY05lqpL7wLYa8DubiRbr8tegCNcBGAsYHQ/PXL_20200922_012343499.jpg)](https://lh3.googleusercontent.com/-KqpYcJtH9x4/X52lEjdJQQI/AAAAAAAAOKI/oUTmno3DaY05lqpL7wLYa8DubiRbr8tegCNcBGAsYHQ/PXL_20200922_012343499.jpg)
+[![](/images/PXL_20200922_012343499.jpg)](/images/PXL_20200922_012343499.jpg)
 | Tarmacちゃんもお疲れさまでした🙏
  |
 

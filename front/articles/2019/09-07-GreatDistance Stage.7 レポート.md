@@ -2,7 +2,7 @@
 <iframe allowtransparency="true" frameborder="0" height="405" scrolling="no" src="https://www.strava.com/activities/2685791281/embed/c153bf745c72774e08a2ac14983687ed3b65d8af" width="590"></iframe>
 
 
-[![](https://2.bp.blogspot.com/-sQS2A3ylB4w/XXN5QZq331I/AAAAAAAABvw/RTZEbF1dkNo1OfNeDyQaHpy5NbnJobOZQCK4BGAYYCw/s320/IMG_20190907_032214.jpg)](http://2.bp.blogspot.com/-sQS2A3ylB4w/XXN5QZq331I/AAAAAAAABvw/RTZEbF1dkNo1OfNeDyQaHpy5NbnJobOZQCK4BGAYYCw/s1600/IMG_20190907_032214.jpg)
+[![](/images/IMG_20190907_032214.jpg)](/images/IMG_20190907_032214.jpg)
 | リュックを背負ったのも間違いだったかもしれない |
 
 ###
@@ -53,7 +53,7 @@ Stage.6でアワイチしてから回復までに十分な時間を設けなか�
 和歌山で朝食を取り、輪行して完走...
 
 
-[![](https://2.bp.blogspot.com/-Pd3mhAHfrvM/XXN5T2b9giI/AAAAAAAABv4/rUW9YDPqFzsVHPF-qaC-FN4KJtSzzMBOwCK4BGAYYCw/s320/MVIMG_20190907_070150.jpg)](http://2.bp.blogspot.com/-Pd3mhAHfrvM/XXN5T2b9giI/AAAAAAAABv4/rUW9YDPqFzsVHPF-qaC-FN4KJtSzzMBOwCK4BGAYYCw/s1600/MVIMG_20190907_070150.jpg)
+[![](/images/MVIMG_20190907_070150.jpg)](/images/MVIMG_20190907_070150.jpg)
 | カロリーが身体に染み渡る |
 
 

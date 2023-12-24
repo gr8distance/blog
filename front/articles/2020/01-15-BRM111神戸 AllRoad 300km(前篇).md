@@ -59,7 +59,7 @@ AllReadシリーズはオダックス近畿神戸班主催の超級ブルベ(僕
 
 予想に反して暖かく、風も強くなかったので受付開始してすぐくらいに神戸に到着できた！
 
-[![](https://1.bp.blogspot.com/-x8bx7yqJz3A/Xh6KfmUuX0I/AAAAAAAAAnM/EXT1rMkV4HIbKtW2PKRIdppdLA_byxaLwCPcBGAYYCw/s320/IMG_20200111_050603.jpg)](https://1.bp.blogspot.com/-x8bx7yqJz3A/Xh6KfmUuX0I/AAAAAAAAAnM/EXT1rMkV4HIbKtW2PKRIdppdLA_byxaLwCPcBGAYYCw/s1600/IMG_20200111_050603.jpg)
+[![](/images/IMG_20200111_050603.jpg)](https://1.bp.blogspot.com/-x8bx7yqJz3A/Xh6KfmUuX0I/AAAAAAAAAnM/EXT1rMkV4HIbKtW2PKRIdppdLA_byxaLwCPcBGAYYCw/s1600/IMG_20200111_050603.jpg)
 | なぎさ公園は迷路みたいになっててどこが受付かほんとにわからんかった |
 
 
@@ -92,7 +92,7 @@ AllReadシリーズはオダックス近畿神戸班主催の超級ブルベ(僕
 
 
 
-[![](https://1.bp.blogspot.com/-sKJWj4PvHtY/Xh6KgnLhGpI/AAAAAAAAAlI/IV7X5ebQesU_gdbPmvnsv2J_FyGOdxrXgCNcBGAsYHQ/s320/IMG_20200111_060451.jpg)](https://1.bp.blogspot.com/-sKJWj4PvHtY/Xh6KgnLhGpI/AAAAAAAAAlI/IV7X5ebQesU_gdbPmvnsv2J_FyGOdxrXgCNcBGAsYHQ/s1600/IMG_20200111_060451.jpg)
+[![](/images/IMG_20200111_060451.jpg)](https://1.bp.blogspot.com/-sKJWj4PvHtY/Xh6KgnLhGpI/AAAAAAAAAlI/IV7X5ebQesU_gdbPmvnsv2J_FyGOdxrXgCNcBGAsYHQ/s1600/IMG_20200111_060451.jpg)
 | 最初の通過チェック
 SWORKSがシャイニーしてるの久しぶりに見た |
 
@@ -116,13 +116,13 @@ SWORKSがシャイニーしてるの久しぶりに見た |
 ブラックサンダーを貪りながらサイコンのバッテリーの回復を待ち、PC2の証明となっている時計の写真を撮影する
 
 
-[![](https://1.bp.blogspot.com/-RCrmzH_A4jo/Xh6Kh9jshcI/AAAAAAAAAnQ/bV0SmNlSrLMGHzSDZD60YMWSGJYhK9nUgCEwYBhgL/s320/IMG_20200111_081930.jpg)](https://1.bp.blogspot.com/-RCrmzH_A4jo/Xh6Kh9jshcI/AAAAAAAAAnQ/bV0SmNlSrLMGHzSDZD60YMWSGJYhK9nUgCEwYBhgL/s1600/IMG_20200111_081930.jpg)
+[![](/images/IMG_20200111_081930.jpg)](https://1.bp.blogspot.com/-RCrmzH_A4jo/Xh6Kh9jshcI/AAAAAAAAAnQ/bV0SmNlSrLMGHzSDZD60YMWSGJYhK9nUgCEwYBhgL/s1600/IMG_20200111_081930.jpg)
 
 ブラックサンダーを3個ほど腹に収めたあたりで船が淡路島に到着、
 
 早速おりてバッテリーをツールボックスに直しせっかくなので淡路島到着写真を撮影してからいそいそと走り始める
 
-[![](https://1.bp.blogspot.com/-1hsQKmRNxu8/Xh6Kn8iqtNI/AAAAAAAAAnA/UnAld3bouok4se5nDqirpf0nJyPq3gLJwCEwYBhgL/s320/IMG_20200111_232314_847.jpg)](https://1.bp.blogspot.com/-1hsQKmRNxu8/Xh6Kn8iqtNI/AAAAAAAAAnA/UnAld3bouok4se5nDqirpf0nJyPq3gLJwCEwYBhgL/s1600/IMG_20200111_232314_847.jpg)
+[![](/images/IMG_20200111_232314_847.jpg)](https://1.bp.blogspot.com/-1hsQKmRNxu8/Xh6Kn8iqtNI/AAAAAAAAAnA/UnAld3bouok4se5nDqirpf0nJyPq3gLJwCEwYBhgL/s1600/IMG_20200111_232314_847.jpg)
 | となりのTarmacはTさんの愛車。
 去年オダックス近畿のブルベで一番距離を走ったらしい...
 すごい... |
@@ -159,7 +159,7 @@ KOM更新どころか屈辱の押し歩き...
 山頂についたらそそくさと帰るつもりだったけどどうせ押し歩きしてクリートがぼろぼろなんだからもういいかと思い展望台まで上がってきた(´・ω・｀)
 クリートに泥が詰まって取れなくなったけどね
 
-[![](https://1.bp.blogspot.com/-rcCq56qqqbM/Xh6KiB2ywgI/AAAAAAAAAnU/srP6Gb-k6KcRUe7Bw0te5x0fyrrWpijQQCPcBGAYYCw/s320/IMG_20200111_101653.jpg)](https://1.bp.blogspot.com/-rcCq56qqqbM/Xh6KiB2ywgI/AAAAAAAAAnU/srP6Gb-k6KcRUe7Bw0te5x0fyrrWpijQQCPcBGAYYCw/s1600/IMG_20200111_101653.jpg)
+[![](/images/IMG_20200111_101653.jpg)](https://1.bp.blogspot.com/-rcCq56qqqbM/Xh6KiB2ywgI/AAAAAAAAAnU/srP6Gb-k6KcRUe7Bw0te5x0fyrrWpijQQCPcBGAYYCw/s1600/IMG_20200111_101653.jpg)
 | 300kmを走るにしては少ない荷物だけど登攀距離があれなので軽量化
 これで9kgくらいだったような気がする |
 

@@ -4,7 +4,7 @@
 
 
 ###
-[![](https://lh3.googleusercontent.com/-M4tYz3B1nZM/X78dOI-7K3I/AAAAAAAAOok/gbC1qkxgC88XYggZ-jIvUdb3UL3yTSIUgCNcBGAsYHQ/IMG_20190910_054527.jpg)](https://lh3.googleusercontent.com/-M4tYz3B1nZM/X78dOI-7K3I/AAAAAAAAOok/gbC1qkxgC88XYggZ-jIvUdb3UL3yTSIUgCNcBGAsYHQ/IMG_20190910_054527.jpg)
+[![](/images/IMG_20190910_054527.jpg)](/images/IMG_20190910_054527.jpg)
 
 
 ### 今日のコース

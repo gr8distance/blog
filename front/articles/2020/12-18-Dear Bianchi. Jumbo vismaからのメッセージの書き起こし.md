@@ -6,7 +6,7 @@
 
  <script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
 
-[![](https://lh3.googleusercontent.com/-rAvEft5audY/X9zAdvSHidI/AAAAAAAAO6Q/TXVqY-O2xykgMxogH-Alg3qVhh9Ga8dbACNcBGAsYHQ/Ephlw54XUAkDQqf.jpg)](https://lh3.googleusercontent.com/-rAvEft5audY/X9zAdvSHidI/AAAAAAAAO6Q/TXVqY-O2xykgMxogH-Alg3qVhh9Ga8dbACNcBGAsYHQ/Ephlw54XUAkDQqf.jpg)
+[![](/images/Ephlw54XUAkDQqf.jpg)](/images/Ephlw54XUAkDQqf.jpg)
 
 
 

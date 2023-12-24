@@ -6,7 +6,7 @@
 ### 今日のコース
 昨日紀南一周するぞって書いたんですが乗り出して9km地点で膝が痛くなったので悔しいけど100kmを目標に下方修正して走り続けることにする。
 
-[![](https://3.bp.blogspot.com/-8z7rEDqvNpo/XYskHjfrhyI/AAAAAAAAB7k/Q7A9EcRF_FoIMQk5KZ82I_zyr1t9FNCOwCK4BGAYYCw/s320/IMG_20190925_081518.jpg)](http://3.bp.blogspot.com/-8z7rEDqvNpo/XYskHjfrhyI/AAAAAAAAB7k/Q7A9EcRF_FoIMQk5KZ82I_zyr1t9FNCOwCK4BGAYYCw/s1600/IMG_20190925_081518.jpg)
+[![](/images/IMG_20190925_081518.jpg)](/images/IMG_20190925_081518.jpg)
 | 帰宅するか脳内会議した25km地点の道の駅(牛馬童子) |
 
 ###

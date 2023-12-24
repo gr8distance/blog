@@ -1,6 +1,6 @@
 
 ---
-[![](https://4.bp.blogspot.com/-MvNYQLoE9zM/XWpCWox938I/AAAAAAAABlA/8DJtASA-eWcaY-LpGx4f3a-PyY0wyliqQCK4BGAYYCw/s320/EA0Ay8BX4AIlzDf.jpg)](http://4.bp.blogspot.com/-MvNYQLoE9zM/XWpCWox938I/AAAAAAAABlA/8DJtASA-eWcaY-LpGx4f3a-PyY0wyliqQCK4BGAYYCw/s1600/EA0Ay8BX4AIlzDf.jpg)
+[![](/images/EA0Ay8BX4AIlzDf.jpg)](/images/EA0Ay8BX4AIlzDf.jpg)
 | 超頑張るか |
 
 

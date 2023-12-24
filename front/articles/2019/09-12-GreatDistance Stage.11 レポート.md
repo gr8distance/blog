@@ -3,7 +3,7 @@
 <iframe allowtransparency="true" frameborder="0" height="405" scrolling="no" src="https://www.strava.com/activities/2700927052/embed/04f618550c467dccaf496a20191d1974570cdaa1" width="590"></iframe>
 
 
-[![](https://4.bp.blogspot.com/-4kuEGRgzJMQ/XXnlkzO1ylI/AAAAAAAAByw/BPLVuCUebnUM2cMj3gKGtiVexCiEPAibgCK4BGAYYCw/s320/IMG_20190912_083142.jpg)](http://4.bp.blogspot.com/-4kuEGRgzJMQ/XXnlkzO1ylI/AAAAAAAAByw/BPLVuCUebnUM2cMj3gKGtiVexCiEPAibgCK4BGAYYCw/s1600/IMG_20190912_083142.jpg)
+[![](/images/IMG_20190912_083142.jpg)](/images/IMG_20190912_083142.jpg)
 | 本州最南端のモニュメントの前
 芝生乗り入れ禁止なのでバイク担いで来た |
 
@@ -15,7 +15,7 @@
 
 
 
-[![](https://1.bp.blogspot.com/-ErKscI4_8Is/XXngTQYAA3I/AAAAAAAAByE/sq76_RXjaoEm9kl4p2mP5lsREP_Oq4PBgCK4BGAYYCw/s320/PANO_20190912_083331.vr.jpg)](http://1.bp.blogspot.com/-ErKscI4_8Is/XXngTQYAA3I/AAAAAAAAByE/sq76_RXjaoEm9kl4p2mP5lsREP_Oq4PBgCK4BGAYYCw/s1600/PANO_20190912_083331.vr.jpg)
+[![](/images/PANO_20190912_083331.vr.jpg)](/images/PANO_20190912_083331.vr.jpg)
 | 見渡す限り海 |
 
 

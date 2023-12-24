@@ -3,7 +3,7 @@
 
 <iframe allowtransparency="true" frameborder="0" height="405" scrolling="no" src="https://www.strava.com/activities/2723528614/embed/118f99866ae3142be8ac1cbf015d2aff3bf86381" width="590"></iframe>
 
-[![](https://4.bp.blogspot.com/-1sesfVuo6ys/XYil0ACJUuI/AAAAAAAAB4A/6I3DSQXNza4cSerWSyodwbGEiXkiDLncACK4BGAYYCw/s320/IMG_-v93j8l.jpg)](http://4.bp.blogspot.com/-1sesfVuo6ys/XYil0ACJUuI/AAAAAAAAB4A/6I3DSQXNza4cSerWSyodwbGEiXkiDLncACK4BGAYYCw/s1600/IMG_-v93j8l.jpg)
+[![](/images/IMG_-v93j8l.jpg)](/images/IMG_-v93j8l.jpg)
 | 私達はやったんだ！
 自転車で！沼津まで！走り抜けたんだ！ |
 
@@ -15,7 +15,7 @@
 梅田 ~ 新清水までの360kmのコース
 掟破りの名古屋走りが怖いので車の少なそうな早朝に通過できるように大阪を出たのは21時
 
-[![](https://1.bp.blogspot.com/-oSC3peqPNn4/XYiduY1FfoI/AAAAAAAAB10/o3T4bp4w9b8BbC4z-oG9fddc6PgosdfPgCK4BGAYYCw/s320/MVIMG_20190919_210009.jpg)](http://1.bp.blogspot.com/-oSC3peqPNn4/XYiduY1FfoI/AAAAAAAAB10/o3T4bp4w9b8BbC4z-oG9fddc6PgosdfPgCK4BGAYYCw/s1600/MVIMG_20190919_210009.jpg)
+[![](/images/MVIMG_20190919_210009.jpg)](/images/MVIMG_20190919_210009.jpg)
 | この日のために今日までの2000kmがあったんだなぁ |
 
 
@@ -53,7 +53,7 @@
 
 早い!!!
 
-[![](https://1.bp.blogspot.com/-oMqk9Rpb39U/XYiiazt_fJI/AAAAAAAAB28/aB2NaPSkHMkZQA8tLEc9Q04TQISCaIyyQCK4BGAYYCw/s320/IMG_20190920_011034.jpg)](http://1.bp.blogspot.com/-oMqk9Rpb39U/XYiiazt_fJI/AAAAAAAAB28/aB2NaPSkHMkZQA8tLEc9Q04TQISCaIyyQCK4BGAYYCw/s1600/IMG_20190920_011034.jpg)
+[![](/images/IMG_20190920_011034.jpg)](/images/IMG_20190920_011034.jpg)
 | ここはまだ暖かかったけど山中は14℃とかで寒かった |
 
 
@@ -69,7 +69,7 @@
 
 サイコンに入れた地図を頼りに進んでいくと徐々に120km地点に。無補給で移動できる限界距離となったため夜食を食べるために小休止。
 
-[![](https://3.bp.blogspot.com/-xd1mTHckJ0I/XYijdZ2jdYI/AAAAAAAAB3I/u3Q4lMqhlxUziqibl6-ZFGe8v9tYTyMMwCK4BGAYYCw/s320/IMG_20190920_021547.jpg)](http://3.bp.blogspot.com/-xd1mTHckJ0I/XYijdZ2jdYI/AAAAAAAAB3I/u3Q4lMqhlxUziqibl6-ZFGe8v9tYTyMMwCK4BGAYYCw/s1600/IMG_20190920_021547.jpg)
+[![](/images/IMG_20190920_021547.jpg)](/images/IMG_20190920_021547.jpg)
 | 寒かったので辛くて温かいものがありがたかった |
 
 
@@ -92,7 +92,7 @@
 
 
 
-[![](https://1.bp.blogspot.com/-9KAfrb7Omno/XYikJUFptrI/AAAAAAAAB3U/0V_VL1eOk04cDg8sHMpQqs18Hogugkf0QCK4BGAYYCw/s320/IMG_20190920_034402.jpg)](http://1.bp.blogspot.com/-9KAfrb7Omno/XYikJUFptrI/AAAAAAAAB3U/0V_VL1eOk04cDg8sHMpQqs18Hogugkf0QCK4BGAYYCw/s1600/IMG_20190920_034402.jpg)
+[![](/images/IMG_20190920_034402.jpg)](/images/IMG_20190920_034402.jpg)
 | 生きててよかったって思うわけ... |
 
 このとき自分では気づかないながらも補給が足りてない状態で走行していたためペースが徐々に落ちて行く。
@@ -106,7 +106,7 @@
 
 
 
-[![](https://1.bp.blogspot.com/-p0k-sUmZMS4/XYikxi3MUgI/AAAAAAAAB3g/1garUqFPl90sGjDIEHXZj8BovyPGUoibACK4BGAYYCw/s320/IMG_20190920_044025.jpg)](http://1.bp.blogspot.com/-p0k-sUmZMS4/XYikxi3MUgI/AAAAAAAAB3g/1garUqFPl90sGjDIEHXZj8BovyPGUoibACK4BGAYYCw/s1600/IMG_20190920_044025.jpg)
+[![](/images/IMG_20190920_044025.jpg)](/images/IMG_20190920_044025.jpg)
 | 歴史の教科書を思い出す(戦国武将好きなので) |
 
 
@@ -118,7 +118,7 @@
 
 
 
-[![](https://1.bp.blogspot.com/-N4m-mzh2Sig/XYilScLhneI/AAAAAAAAB3s/WqMpSr-9NdMh1MTE46RX54unfomQDD7TwCK4BGAYYCw/s320/IMG_20190920_061407.jpg)](http://1.bp.blogspot.com/-N4m-mzh2Sig/XYilScLhneI/AAAAAAAAB3s/WqMpSr-9NdMh1MTE46RX54unfomQDD7TwCK4BGAYYCw/s1600/IMG_20190920_061407.jpg)
+[![](/images/IMG_20190920_061407.jpg)](/images/IMG_20190920_061407.jpg)
 | 関宿到達。この道は最高に路側帯が狭い上に除草されて無くて怖かった。 |
 
 
@@ -135,7 +135,7 @@
 痛みを堪えながらだましだまし走っていたらなんと看板に **沼津** の文字が！
 やる気が出てきた！
 
-[![](https://2.bp.blogspot.com/-QUfGcaPVv0M/XYim0JZD57I/AAAAAAAAB4Q/SCo3PnIoq2oJE3_Vk-pY_En9RLXqsLDEQCK4BGAYYCw/s320/IMG_20190920_104305.jpg)](http://2.bp.blogspot.com/-QUfGcaPVv0M/XYim0JZD57I/AAAAAAAAB4Q/SCo3PnIoq2oJE3_Vk-pY_En9RLXqsLDEQCK4BGAYYCw/s1600/IMG_20190920_104305.jpg)
+[![](/images/IMG_20190920_104305.jpg)](/images/IMG_20190920_104305.jpg)
 | 2つの脚で果てを目指す |
 
 
@@ -164,7 +164,7 @@
 そこでついに空腹を自覚するに至ったためお昼ごはんを食べることに！
 このとき時刻は14時
 
-[![](https://2.bp.blogspot.com/-isGShYGHkH4/XYioE0oQkPI/AAAAAAAAB4c/IKLALCV2Edko0HgTJHQjXTwuppvpRhBYACK4BGAYYCw/s320/IMG_20190920_141251.jpg)](http://2.bp.blogspot.com/-isGShYGHkH4/XYioE0oQkPI/AAAAAAAAB4c/IKLALCV2Edko0HgTJHQjXTwuppvpRhBYACK4BGAYYCw/s1600/IMG_20190920_141251.jpg)
+[![](/images/IMG_20190920_141251.jpg)](/images/IMG_20190920_141251.jpg)
 | ご当地桜えびのかき揚げうどんと味噌カツ。
 このボリュームで950円！ |
 

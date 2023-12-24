@@ -7,7 +7,7 @@
 白浜 ~ 串本を往復する130kmのコース
 前にも走ったからコース的に特筆するところは無いんだけどトータルでついに2834kmまで走った。
 
-[![](https://4.bp.blogspot.com/-lCli--6Fz4M/XYyAtKuBSBI/AAAAAAAAB8Y/kHsZU09aaGMRuRCEhShjlWmdRwpZOLCKgCK4BGAYYCw/s320/IMG_20190926_074700.jpg)](http://4.bp.blogspot.com/-lCli--6Fz4M/XYyAtKuBSBI/AAAAAAAAB8Y/kHsZU09aaGMRuRCEhShjlWmdRwpZOLCKgCK4BGAYYCw/s1600/IMG_20190926_074700.jpg)
+[![](/images/IMG_20190926_074700.jpg)](/images/IMG_20190926_074700.jpg)
 | この挑戦もいよいよ明日で最後なんだなぁ |
 
 ###
@@ -66,10 +66,10 @@
 
 明日に備えて洗車も注油もバッチリずら！
 
-[![](https://3.bp.blogspot.com/-CpOypM7XSdI/XYyAwtW-JAI/AAAAAAAAB8g/kDiUu3EdJ5wGQ_vBkYqSmZ3FqwrO1bgHQCK4BGAYYCw/s320/IMG_20190926_165207.jpg)](http://3.bp.blogspot.com/-CpOypM7XSdI/XYyAwtW-JAI/AAAAAAAAB8g/kDiUu3EdJ5wGQ_vBkYqSmZ3FqwrO1bgHQCK4BGAYYCw/s1600/IMG_20190926_165207.jpg)
+[![](/images/IMG_20190926_165207.jpg)](/images/IMG_20190926_165207.jpg)
 | ピカピカスプロケット |
 
-[![](https://4.bp.blogspot.com/-S3KYeJugxoE/XYyAzU3ccgI/AAAAAAAAB8o/q3JB3z0D2oMFqBvV02J4UnknnBCVD6PKQCK4BGAYYCw/s320/IMG_20190926_161104.jpg)](http://4.bp.blogspot.com/-S3KYeJugxoE/XYyAzU3ccgI/AAAAAAAAB8o/q3JB3z0D2oMFqBvV02J4UnknnBCVD6PKQCK4BGAYYCw/s1600/IMG_20190926_161104.jpg)
+[![](/images/IMG_20190926_161104.jpg)](/images/IMG_20190926_161104.jpg)
 | めっちゃ洗ったが明日大阪に着く頃には真っ黒さ |
 
 

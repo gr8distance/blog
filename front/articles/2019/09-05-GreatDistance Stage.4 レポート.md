@@ -11,7 +11,7 @@
 というのも走り出しの時点で補給到達時点で雨が降っている可能性がありコンビニで身体を冷やしたくなかったため。
 補給量を減らすために朝食とプロテイン60gとブラックコーヒーを飲んで走り出す
 
-[![](https://3.bp.blogspot.com/-2M3sc4p0hqg/XW-JmenspCI/AAAAAAAABtc/HH31SKnxkzEIP21zzybSSN6OCcyoDJazwCK4BGAYYCw/s320/IMG_20190904_055351.jpg)](http://3.bp.blogspot.com/-2M3sc4p0hqg/XW-JmenspCI/AAAAAAAABtc/HH31SKnxkzEIP21zzybSSN6OCcyoDJazwCK4BGAYYCw/s1600/IMG_20190904_055351.jpg)
+[![](/images/IMG_20190904_055351.jpg)](/images/IMG_20190904_055351.jpg)
 | 虹も出ていた |
 
 

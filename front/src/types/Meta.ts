@@ -20,7 +20,7 @@ export class Meta {
 
   static new(year: string, month: string, id: string) {
     const yearDirPath = './meta/'
-    const path = `${yearDirPath}${year}/${month}-${decodeURI(id)}.md.json`
+    const path = `${yearDirPath}${year}/${month}-${decodeURIComponent(id)}.md.json`
     return new Meta(path)
   }
 

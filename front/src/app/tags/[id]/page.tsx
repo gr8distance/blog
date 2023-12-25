@@ -4,12 +4,20 @@ import { Title } from '@/components/Article/Title'
 import { Me } from '@/components/Me'
 import { Timeline } from '@/components/Timeline'
 
+const encode = (tag: string) => {
+  if (process.env.NODE_ENV == 'development') {
+    return encodeURIComponent(tag)
+  } else {
+    return tag
+  }
+}
+
 export const generateStaticParams = async () => {
   const metas = Meta.newAll()
   const tags = Array.from(new Set(metas.map((meta) => meta.tags).flat()))
   return tags.map((tag) => {
     return {
-      id: encodeURI(tag)
+      id: encode(tag)
     }
   })
 }

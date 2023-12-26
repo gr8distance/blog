@@ -10,10 +10,10 @@ const Home = () => {
       <div className="px-5 sm:w-full lg:w-3/4 mx-auto">
         <Hero />
         <div className="flex">
-          <div className="w-1/3 mx-5">
+          <div className="md:w-1/3 mx-5 xs:hidden sm:block">
             <Me />
           </div>
-          <div className="w-2/3 mx-5">
+          <div className="sm:w-full md:w-2/3 mx-5 sm:block">
             <Timeline articles={articles} />
           </div>
         </div>

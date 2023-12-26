@@ -34,7 +34,7 @@ const Page = (props: { params: { id: string } }) => {
       <div className="px-5 sm:w-full lg:w-3/4 mx-auto">
         <Title title='' subtitle={`#${decodedId}`} />
         <div className="flex">
-          <div className="w-1/3 mx-5">
+          <div className="w-1/3 mx-5 xs:hidden sm:block">
             <Me />
           </div>
           <div className="w-2/3 mx-5">

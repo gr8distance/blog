@@ -19,8 +19,11 @@ erl_crash.dump
 # Also ignore archive artifacts (built via "mix archive.build").
 *.ez
 
+# Temporary files, for example, from tests.
+/tmp/
+
 # Ignore package tarball (built via "mix hex.build").
-publisher-*.tar
+blog-*.tar
 
 # Ignore assets that are produced by build tools.
 /priv/static/assets/
@@ -32,4 +35,7 @@ publisher-*.tar
 npm-debug.log
 /assets/node_modules/
 
-.DS_Store
+# Database files
+*.db
+*.db-*
+

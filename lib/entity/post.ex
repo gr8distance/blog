@@ -9,4 +9,14 @@ defmodule Entity.Post do
           comments: [Comment.t()]
         }
   defstruct id: "", title: "", body: "", published_at: nil, comments: []
+
+  def new(title, body, published_at) do
+    %__MODULE__{
+      id: Ecto.UUID.generate(),
+      title: title,
+      body: body,
+      published_at: published_at,
+      comments: []
+    }
+  end
 end

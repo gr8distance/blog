@@ -7,6 +7,7 @@ defmodule Schema.Blog.Post do
   schema "posts" do
     field :title, :string
     field :published_at, :naive_datetime
+    has_many :contents, Schema.Blog.PostContent, foreign_key: :post_id
 
     timestamps(type: :utc_datetime)
   end

@@ -1,61 +1,62 @@
 ---
+import { Blog } from "../types/Blog";
+
 interface Props {
 	title: string;
 	body: string;
 	href: string;
+	publishedAt: string;
+	labels: string[];
+	thumbnail: string;
 }
-
-const { href, title, body } = Astro.props;
+const { title, body, href, publishedAt, labels, thumbnail } = Astro.props;
 ---
 
-<li class="link-card">
-	<a href={href}>
-		<h2>
-			{title}
-			<span>&rarr;</span>
-		</h2>
-		<p>
-			{body}
-		</p>
-	</a>
-</li>
-<style>
-	.link-card {
-		list-style: none;
-		display: flex;
-		padding: 1px;
-		background-color: #23262d;
-		background-image: none;
-		background-size: 400%;
-		border-radius: 7px;
-		background-position: 100%;
-		transition: background-position 0.6s cubic-bezier(0.22, 1, 0.36, 1);
-		box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.1);
-	}
-	.link-card > a {
-		width: 100%;
-		text-decoration: none;
-		line-height: 1.4;
-		padding: calc(1.5rem - 1px);
-		border-radius: 8px;
-		color: white;
-		background-color: #23262d;
-		opacity: 0.8;
-	}
-	h2 {
-		margin: 0;
-		font-size: 1.25rem;
-		transition: color 0.6s cubic-bezier(0.22, 1, 0.36, 1);
-	}
-	p {
-		margin-top: 0.5rem;
-		margin-bottom: 0;
-	}
-	.link-card:is(:hover, :focus-within) {
-		background-position: 0;
-		background-image: var(--accent-gradient);
-	}
-	.link-card:is(:hover, :focus-within) h2 {
-		color: rgb(var(--accent-light));
-	}
-</style>
+<div
+	class="max-w-2xl m-3 px-8 py-4 bg-white rounded-lg shadow-md dark:bg-gray-800"
+>
+	<div class="flex items-center justify-between">
+		<span class="text-sm font-light text-gray-600 dark:text-gray-400"
+			>{publishedAt}</span
+		>
+		<a
+			class="px-3 py-1 text-sm font-bold text-gray-100 transition-colors duration-300 transform bg-gray-600 rounded cursor-pointer hover:bg-gray-500"
+			tabindex="0"
+			role="button"
+		>
+			{labels[0]}
+		</a>
+	</div>
+
+	<div class="mt-2">
+		<a
+			href={href}
+			class="text-xl font-bold text-gray-700 dark:text-white hover:text-gray-600 dark:hover:text-gray-200 hover:underline"
+			tabindex="0"
+			role="link">{title}</a
+		>
+		<p class="mt-2 text-gray-600 dark:text-gray-300">{body}</p>
+	</div>
+
+	<div class="flex items-center justify-between mt-4">
+		<a
+			href={href}
+			class="text-blue-600 dark:text-blue-400 hover:underline"
+			tabindex="0"
+			role="link">続きを読む</a
+		>
+
+		<div class="flex items-center">
+			<img
+				class="hidden object-cover w-10 h-10 mx-4 rounded-full sm:block"
+				src={thumbnail}
+				alt="avatar"
+			/>
+			<a
+				class="font-bold text-gray-700 cursor-pointer dark:text-gray-200"
+				tabindex="0"
+				role="link">{}</a
+			>
+		</div>
+	</div>
+</div>

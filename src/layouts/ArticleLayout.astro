@@ -1,0 +1,37 @@
+---
+import Layout from "./Layout.astro";
+
+interface Props {
+  title: string;
+  labels: string[];
+}
+const { title, labels } = Astro.props;
+---
+
+<Layout title={title}>
+  <main class="mt-5 px-4 py-5">
+    <h1 class="text-3xl font-bold">{title}</h1>
+
+    <div class="my-3">
+      {
+        labels.map((label) => (
+          <a href="">
+            <span class="badge badge-primary mx-2">#{label}</span>
+          </a>
+        ))
+      }
+    </div>
+
+    <article class="mt-5 px-2">
+      <slot />
+    </article>
+  </main>
+</Layout>
+
+<style>
+  main article h2 {
+    font-size: 23px;
+    font-weight: 600;
+    line-height: 3;
+  }
+</style>

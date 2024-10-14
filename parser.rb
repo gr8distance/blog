@@ -19,6 +19,17 @@ contents.each do |content|
   FileUtils.mkdir_p(dir_path)
   filename = "#{dir_path}/#{content[:title]}.astro"
   File.open(filename, "w") do |file|
+    file.puts("---")
+    file.puts("import Layout from \"../../../../../layouts/ArticleLayout.astro\"\;")
+    file.puts("const title = \"#{content[:title]}\"")
+    file.puts("const description = \"\"")
+    file.puts("const thumbnail = \"\"")
+    file.puts("const labels = []")
+    file.puts("---")
+    file.puts("<Layout title={title} labels={labels}>")
+    file.puts("<article>")
     file.puts(content[:content])
+    file.puts("</article>")
+    file.puts("</Layout>")
   end
 end

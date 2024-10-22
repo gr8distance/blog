@@ -1,9 +1,9 @@
 ---
 import Layout from "../../../../../layouts/ArticleLayout.astro";
 const title = "機材の話";
-const description = "";
-const thumbnail = "";
-const labels = [];
+const description = "バイクですが愛車のTarmacSL6で走ります。今の所Tarmac以外で走るバイクが無いので何でもこれ一台で走ってます。";
+const thumbnail = "/images/thumbnails/2019/08/28/tarmac.webp";
+const labels = ["機材"];
 ---
 
 <Layout title={title} labels={labels}>
@@ -42,13 +42,13 @@ const labels = [];
         <tr
           ><td style="text-align: center;"
             ><a
-              href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDUHzyC4OCVHd_y2uj3-leBiLwty0ntJuw76g5_S1E7fQDO7QKlxU88wsU5Vh1kNdEfnDbb4K3925zg3wAloF-sRNZtpGnb_oE50Vs8QdYGFP2QhY8lRVR5DMLliGf5kPynVZV-JUtofI/s1600/IMG_20190827_201753_785.jpg"
+              href="/images/2019/08/28/tarmac.jpg"
               imageanchor="1"
               style="margin-left: auto; margin-right: auto;"
               ><img
                 border="0"
                 height="320"
-                src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDUHzyC4OCVHd_y2uj3-leBiLwty0ntJuw76g5_S1E7fQDO7QKlxU88wsU5Vh1kNdEfnDbb4K3925zg3wAloF-sRNZtpGnb_oE50Vs8QdYGFP2QhY8lRVR5DMLliGf5kPynVZV-JUtofI/s320/IMG_20190827_201753_785.jpg"
+                src="/images/thumbnails/2019/08/28/tarmac.webp"
                 width="320"
               /></a
             ></td
@@ -95,3 +95,16 @@ const labels = [];
     </div>
   </article>
 </Layout>
+
+<style>
+  article {
+    margin-top: 15px;
+    margin-bottom: 5px;
+  }
+
+  li {
+    list-style-type: circle;
+    margin-left: 20px;
+    margin-bottom: 3px;
+  }
+</style>

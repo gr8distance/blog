@@ -1,21 +1,26 @@
 ---
 import Layout from "../../../../../layouts/ArticleLayout.astro";
 const title = "ブログを始めた";
-const description = "";
-const thumbnail = "";
-const labels = [];
+const description = "ブログを始めた";
+const thumbnail = "/images/thumbnails/2019/08/12/first-image.jpg";
+const labels = ["最初の投稿"];
 ---
 
 <Layout title={title} labels={labels}>
   <article>
-    <h3>ブログ始めた理由</h3>
-    2019年9月から有給消化の期間が始まって1ヶ月間仕事しなくなるのでフィジカルを強化するために21日で3500kmを走るチャレンジをやってみようと思った。<br
-    />
-    ブログはその備忘録として、また今後同じ挑戦をしようとする<s>変態</s
-    >同好の士が参考にできるよう公の場に情報を残そうと思った。<br />
+    <h3 class="font-bold text-lg">ブログ始めた理由</h3>
+    <p>
+      2019年9月から有給消化の期間が始まって1ヶ月間仕事しなくなるのでフィジカルを強化するために21日で3500kmを走るチャレンジをやってみようと思った。
+    </p>
+    <p>ブログはその備忘録として、また今後同じ挑戦をしようとする</p>
+    <s>変態</s>
+    同好の士が参考にできるよう公の場に情報を残そうと思った。<br />
     <br />
-    <h3>GreatDistanceChallange</h3>
-    <div>↑の名をつけた。挑戦内容は</div>
+  </article>
+
+  <article>
+    <h3 class="font-bold text-xl">GreatDistanceChallange</h3>
+    <p>↑の名をつけた。挑戦内容は</p>
     <div>
       <ol>
         <li>21日で3000km以上走る</li>
@@ -24,11 +29,8 @@ const labels = [];
         <li>ウェザープロトコルはあり得る</li>
       </ol>
     </div>
-    <div>とした。</div>
-    <div>
-      <br />
-    </div>
-    <div>挑戦することで期待するものは</div>
+    <p>とした。</p>
+    <h4 class="mt-3 text-md font-bold">挑戦することで期待するものは</h4>
     <div>
       <ol>
         <li>筋力の向上</li>
@@ -36,25 +38,25 @@ const labels = [];
         <li>バイクコントロール(ペダリングも含む)の向上</li>
         <li>脂肪を利用した長距離移動</li>
       </ol>
-      <div>
-        <br />
-      </div>
     </div>
-    <h3>どうして挑むのか</h3>
-    <div>グランフォンド世界選手権に出場することが目標になった。</div>
-    <div>
+  </article>
+
+  <article>
+    <h3 class="font-bold">どうして挑むのか</h3>
+    <p>グランフォンド世界選手権に出場することが目標になった。</p>
+    <p>
       しかしFTP245wでは勝負にならない。そこでフィジカルを強化したいと考えていた。
-    </div>
-    <div>
+    </p>
+    <p>
       どうやら乗り込むことで調子を上げていくタイプの人間らしく2016年にロードバイクを購入してからほぼ毎日乗り込みを続けた結果7ヶ月後にFTP235wに到達していた。
-    </div>
-    <div>
+    </p>
+    <p>
       仕事を言い訳に練習をサボった結果パフォーマンスを大きく落としてしまったのでここでテコ入れする。
-    </div>
-    <div>
-      <br />
-      <h3>まとめ</h3>
-    </div>
+    </p>
+  </article>
+
+  <article>
+    <h3 class="font-bold text-xl">まとめ</h3>
     <div>
       僕が強くなる姿を特等席で見ているがよい！<br />
       <br />
@@ -69,13 +71,13 @@ const labels = [];
           <tr
             ><td style="text-align: center;"
               ><a
-                href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9E8Z16u-7l4YLZIz7_mh14lqtgEcFnUz_HOEXFfyhsEEhT5j31u2mjFNoEzSeFJaXhKTT2yFTI4UvsZe42rIMU_isoE3LHPnN9694dSkCOG1gh06xFAaIF1MJISEo2ZO2sB-jW8UKlvs/s1600/IMG_20190817_164502.jpg"
+                href="/images/2019/08/12/first-image.jpg"
                 imageanchor="1"
                 style="margin-left: auto; margin-right: auto;"
                 ><img
                   border="0"
                   height="240"
-                  src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9E8Z16u-7l4YLZIz7_mh14lqtgEcFnUz_HOEXFfyhsEEhT5j31u2mjFNoEzSeFJaXhKTT2yFTI4UvsZe42rIMU_isoE3LHPnN9694dSkCOG1gh06xFAaIF1MJISEo2ZO2sB-jW8UKlvs/s320/IMG_20190817_164502.jpg"
+                  src="/images/thumbnails/2019/08/12/first-image.jpg"
                   width="320"
                 /></a
               ></td
@@ -92,3 +94,16 @@ const labels = [];
     </div>
   </article>
 </Layout>
+
+<style>
+  article {
+    margin-top: 15px;
+    margin-bottom: 5px;
+  }
+
+  li {
+    list-style-type: circle;
+    margin-left: 20px;
+    margin-bottom: 3px;
+  }
+</style>

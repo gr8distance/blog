@@ -2,12 +2,10 @@ require 'pry'
 require 'fileutils'
 require 'parallel'
 
-Dir.glob('src/pages/articles/**/**/**/*.astro') do |path|
-  year, month, day, title = path.gsub('.astro', '').split('/').drop(3)
-  file = File.read(path)
-  formatted = file
-                .gsub('>', ">\n")
-                .gsub("\n\n", "\n")
+Dir.glob('src/pages/articles/**/**/**/*.astro') do |path| year, month,
+  day, title = path.gsub('.astro', '').split('/').drop(3) file =
+  File.read(path) formatted = file .gsub('>', ">\n") .gsub("\n\n",
+  "\n")
 
   hrefs = formatted
             .split("\n")

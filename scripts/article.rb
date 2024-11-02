@@ -23,8 +23,7 @@ Dir.glob('src/pages/articles/**/**/**/*.astro') do |path|
     end
   end
 
-  File.open(path, 'r+') do |f|
+  File.open(path, 'w+') do |f|
     f.puts body
-    f.puts
   end
 end

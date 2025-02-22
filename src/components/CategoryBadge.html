@@ -1,0 +1,64 @@
+<style>
+  .category-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.375rem;
+    padding: 0.375rem 0.75rem;
+    border-radius: 9999px;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: white;
+    cursor: pointer;
+    transition: opacity 0.2s;
+  }
+  .category-badge:hover {
+    opacity: 0.8;
+  }
+  .category-badge.cycling {
+    background-color: #3b82f6;
+  }
+  .category-badge.life {
+    background-color: #22c55e;
+  }
+  .category-badge svg {
+    width: 1rem;
+    height: 1rem;
+  }
+</style>
+
+<span class="category-badge" data-category="">
+  <svg></svg>
+  <span></span>
+</span>
+
+<script>
+  const categoryConfig = {
+    CYCLING: {
+      icon: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5.5 17a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zm13 0a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5z"/><path d="M15 6a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-3 11.5V14l-3-3 4-3 2 3h2"/></svg>',
+      label: "自転車",
+    },
+    LIFE: {
+      icon: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>',
+      label: "生活",
+    },
+  };
+
+  function createCategoryBadge(category) {
+    const badge = document.querySelector('.category-badge').cloneNode(true);
+    const config = categoryConfig[category];
+    
+    badge.classList.add(category.toLowerCase());
+    badge.dataset.category = category;
+    badge.querySelector('svg').outerHTML = config.icon;
+    badge.querySelector('span').textContent = config.label;
+    
+    badge.addEventListener('click', (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      window.location.href = `/category/${category.toLowerCase()}`;
+    });
+
+    return badge;
+  }
+</script>
+

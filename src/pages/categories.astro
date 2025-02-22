@@ -1,0 +1,41 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { getCollection } from "astro:content";
+
+const posts = await getCollection("blog");
+const categories = [
+  ...new Set(posts.flatMap((post) => post.data.categories || [])),
+].sort();
+
+type CategoryCount = {
+  name: string;
+  count: number;
+};
+
+const categoryCounts: CategoryCount[] = categories.map((category) => ({
+  name: category,
+  count: posts.filter((post) => post.data.categories?.includes(category))
+    .length,
+}));
+---
+
+<Layout title="カテゴリー | My Blog">
+  <main class="container mx-auto px-4 py-8">
+    <h1 class="text-4xl font-bold mb-8">カテゴリー一覧</h1>
+    <div class="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+      {
+        categoryCounts.map(({ name, count }) => (
+          <a
+            href={`/category/${name}`}
+            class="block p-6 border rounded-lg hover:shadow-lg transition-shadow"
+          >
+            <h2 class="text-2xl font-semibold mb-2">{name}</h2>
+            <p class="text-gray-600">
+              記事数: <span class="font-semibold">{count}</span>
+            </p>
+          </a>
+        ))
+      }
+    </div>
+  </main>
+</Layout>

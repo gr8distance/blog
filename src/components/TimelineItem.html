@@ -1,0 +1,130 @@
+<style>
+  .timeline-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 2rem;
+  }
+  .timeline-item.even {
+    flex-direction: row-reverse;
+  }
+  .timeline-item .article-container {
+    width: 100%;
+  }
+  .timeline-item .timeline-dot {
+    display: none;
+  }
+  .timeline-item .date-badge {
+    display: none;
+  }
+  .timeline-item .mobile-date {
+    position: absolute;
+    left: 0;
+    margin-left: -0.75rem;
+    margin-top: 0.5rem;
+  }
+  .timeline-item .mobile-date-dot {
+    width: 1.5rem;
+    height: 1.5rem;
+    border-radius: 9999px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .timeline-item .mobile-date-dot-inner {
+    width: 0.75rem;
+    height: 0.75rem;
+    background-color: white;
+    border-radius: 9999px;
+  }
+  @media (min-width: 768px) {
+    .timeline-item .article-container {
+      width: 45%;
+    }
+    .timeline-item.even .article-container {
+      padding-left: 0.5rem;
+    }
+    .timeline-item:not(.even) .article-container {
+      padding-right: 0.5rem;
+    }
+    .timeline-item .timeline-dot {
+      display: flex;
+      width: 10%;
+      justify-content: center;
+    }
+    .timeline-item .timeline-dot-inner {
+      width: 1rem;
+      height: 1rem;
+      border-radius: 9999px;
+      border: 4px solid white;
+      box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+    }
+    .timeline-item .date-badge {
+      display: block;
+      width: 45%;
+    }
+    .timeline-item.even .date-badge {
+      padding-right: 0.5rem;
+      text-align: right;
+    }
+    .timeline-item:not(.even) .date-badge {
+      padding-left: 0.5rem;
+    }
+    .timeline-item .mobile-date {
+      display: none;
+    }
+  }
+</style>
+
+<div class="timeline-item">
+  <div class="article-container"></div>
+  <div class="timeline-dot">
+    <div class="timeline-dot-inner"></div>
+  </div>
+  <div class="date-badge"></div>
+  <div class="mobile-date">
+    <div class="mobile-date-dot">
+      <div class="mobile-date-dot-inner"></div>
+    </div>
+  </div>
+</div>
+
+<script>
+  const colors = [
+    "bg-slate-700", // Dark blue
+    "bg-amber-300", // Yellow
+    "bg-rose-400", // Pink
+  ];
+
+  function createTimelineItem(post, index) {
+    const item = document.querySelector('.timeline-item').cloneNode(true);
+    const isEven = index % 2 === 0;
+    const backgroundColor = colors[index % colors.length];
+    
+    if (isEven) item.classList.add('even');
+    
+    const articleCard = createArticleCard(post);
+    item.querySelector('.article-container').appendChild(articleCard);
+    
+    item.querySelector('.timeline-dot-inner').classList.add(backgroundColor);
+    
+    const dateBadge = createDateBadge(post.date, backgroundColor);
+    item.querySelector('.date-badge').appendChild(dateBadge);
+    
+    item.querySelector('.mobile-date-dot').classList.add(backgroundColor);
+    
+    return item;
+  }
+
+  function createDateBadge(date, color) {
+    const badge = document.createElement('div');
+    badge.className = `${color} text-white px-4 py-2 inline-block rounded-full shadow-lg`;
+    badge.innerHTML = `<span class="text-sm md:text-base font-bold">${formatDate(date)}</span>`;
+    return badge;
+  }
+
+  function formatDate(dateStr) {
+    const date = new Date(dateStr);
+    return `${date.getFullYear()}年${date.getMonth() + 1}月${date.getDate()}日`;
+  }
+</script>
+

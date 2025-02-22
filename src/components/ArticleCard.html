@@ -1,0 +1,79 @@
+<style>
+  .article-card {
+    position: relative;
+    background-color: white;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    overflow: hidden;
+    height: 16rem;
+    cursor: pointer;
+  }
+  .article-card img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .article-card .overlay {
+    position: absolute;
+    inset: 0;
+    backdrop-filter: blur(4px);
+    background-color: rgba(255, 255, 255, 0.3);
+  }
+  .article-card .content {
+    position: absolute;
+    inset: 0;
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+  }
+  .article-card h3 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    color: white;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.7);
+  }
+  .article-card p {
+    font-size: 0.875rem;
+    color: white;
+    margin-bottom: 1rem;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.7);
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+</style>
+
+<a href="" class="article-card">
+  <img src="/placeholder.svg" alt="">
+  <div class="overlay"></div>
+  <div class="content">
+    <h3></h3>
+    <p></p>
+    <div class="category-badge-container"></div>
+  </div>
+</a>
+
+<script>
+  function createArticleCard(article) {
+    const card = document.querySelector('.article-card').cloneNode(true);
+    
+    card.href = `/articles/${article.slug}`;
+    card.querySelector('img').src = article.thumbnail || "/placeholder.svg";
+    card.querySelector('img').alt = article.title;
+    card.querySelector('h3').textContent = article.title;
+    card.querySelector('p').textContent = article.content;
+    
+    if (article.category) {
+      const categoryBadge = createCategoryBadge(article.category);
+      card.querySelector('.category-badge-container').appendChild(categoryBadge);
+    }
+    
+    return card;
+  }
+</script>
+

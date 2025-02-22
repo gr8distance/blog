@@ -1,0 +1,50 @@
+---
+import Layout from "../layouts/Layout.astro";
+---
+
+<Layout title="著者について | My Blog">
+  <main class="container mx-auto px-4 py-8">
+    <h1 class="text-4xl font-bold mb-8">著者について</h1>
+    <div class="prose lg:prose-xl">
+      <div class="flex items-center gap-6 mb-8">
+        <img
+          src="/author-avatar.jpg"
+          alt="著者のアバター"
+          class="w-32 h-32 rounded-full object-cover"
+        />
+        <div>
+          <h2 class="text-2xl font-semibold">著者名</h2>
+          <p class="text-gray-600">ソフトウェアエンジニア</p>
+        </div>
+      </div>
+      <div class="space-y-4">
+        <p>
+          ここに著者の詳細な自己紹介文を記載します。技術的なバックグラウンド、興味のある分野、
+          現在取り組んでいるプロジェクトなどについて説明します。
+        </p>
+        <h3 class="text-xl font-semibold">スキル</h3>
+        <ul class="list-disc list-inside">
+          <li>JavaScript/TypeScript</li>
+          <li>React/Next.js</li>
+          <li>Node.js</li>
+          <li>Python</li>
+        </ul>
+        <h3 class="text-xl font-semibold">連絡先</h3>
+        <div class="flex gap-4">
+          <a
+            href="https://github.com/"
+            class="text-blue-600 hover:text-blue-800"
+          >
+            GitHub
+          </a>
+          <a
+            href="https://twitter.com/"
+            class="text-blue-600 hover:text-blue-800"
+          >
+            Twitter
+          </a>
+        </div>
+      </div>
+    </div>
+  </main>
+</Layout>

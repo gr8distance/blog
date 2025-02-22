@@ -6,7 +6,13 @@ const category = "CYCLING";
 const thumbnail = "/thumbnails/2019-09-27-GreatDistance Stage.21 レポート.jpg";
 ---
 
-
+<Layout title={title}>
+  <ArticleTemplate
+    title={title}
+    thumbnail={thumbnail}
+    date={"2019-09-27"}
+    category={category}
+  >
     <iframe
       allowtransparency="true"
       frameborder="0"
@@ -192,6 +198,5 @@ const thumbnail = "/thumbnails/2019-09-27-GreatDistance Stage.21 レポート.jp
         >にいろいろ書いたので良かったらそちらも！
       </div>
     </h3>
-  
-
-</ArticleTemplate></Layout>
+  </ArticleTemplate>
+</Layout>

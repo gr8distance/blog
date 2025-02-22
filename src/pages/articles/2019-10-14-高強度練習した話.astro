@@ -6,7 +6,13 @@ const category = "CYCLING";
 const thumbnail = "/thumbnails/2019-10-14-高強度練習した話.jpg";
 ---
 
-
+<Layout title={title}>
+  <ArticleTemplate
+    title={title}
+    thumbnail={thumbnail}
+    date={"2019-10-14"}
+    category={category}
+  >
     <iframe
       allowtransparency="true"
       frameborder="0"
@@ -321,6 +327,5 @@ const thumbnail = "/thumbnails/2019-10-14-高強度練習した話.jpg";
       11/3かな？頑張って走ってきます(｀･ω･´)ゞ<br />
       <br />
     </div>
-  
-
-</ArticleTemplate></Layout>
+  </ArticleTemplate>
+</Layout>

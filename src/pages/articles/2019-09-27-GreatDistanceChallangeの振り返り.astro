@@ -6,7 +6,13 @@ const category = "CYCLING";
 const thumbnail = "/thumbnails/2019-09-27-GreatDistanceChallangeの振り返り.jpg";
 ---
 
-
+<Layout title={title}>
+  <ArticleTemplate
+    title={title}
+    thumbnail={thumbnail}
+    date={"2019-09-27"}
+    category={category}
+  >
     GreatDistanceChallangeと銘打った挑戦を2019年9月1日から開始して今日、無事に21日で3010km走り達成することができたので、始めた頃から何が変わって何が変わらなかったのか？についてまとめを書いていこうと思います。<br
     />
     <table
@@ -439,6 +445,5 @@ const thumbnail = "/thumbnails/2019-09-27-GreatDistanceChallangeの振り返り.
     <br />
     <br />
     <br />
-  
-
-</ArticleTemplate></Layout>
+  </ArticleTemplate>
+</Layout>

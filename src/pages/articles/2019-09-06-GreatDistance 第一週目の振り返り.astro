@@ -6,7 +6,13 @@ const category = "CYCLING";
 const thumbnail = "/thumbnails/2019-09-06-GreatDistance 第一週目の振り返り.jpg";
 ---
 
-
+<Layout title={title}>
+  <ArticleTemplate
+    title={title}
+    thumbnail={thumbnail}
+    date={"2019-09-06"}
+    category={category}
+  >
     <h3>一周目を振り返って</h3>
     <br />
     正直なところ3日目くらいで何かしらの理由をつけてやらなくなると思ってましたw<br
@@ -153,8 +159,8 @@ const thumbnail = "/thumbnails/2019-09-06-GreatDistance 第一週目の振り返
     </div><div><br /></div><div>
       <a
         href="https://blog.great-distance.com/2019/09/greatdistance-stage8.html"
-        >8日目のレポートはこちら</a>
+        >8日目のレポートはこちら</a
+      >
     </div>
-  
-
-</ArticleTemplate></Layout>
+  </ArticleTemplate>
+</Layout>

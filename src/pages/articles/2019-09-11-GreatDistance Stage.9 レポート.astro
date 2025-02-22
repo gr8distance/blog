@@ -6,7 +6,13 @@ const category = "CYCLING";
 const thumbnail = "/thumbnails/2019-09-11-GreatDistance Stage.9 レポート.jpg";
 ---
 
-
+<Layout title={title}>
+  <ArticleTemplate
+    title={title}
+    thumbnail={thumbnail}
+    date={"2019-09-11"}
+    category={category}
+  >
     <iframe
       allowtransparency="true"
       frameborder="0"
@@ -29,7 +35,8 @@ const thumbnail = "/thumbnails/2019-09-11-GreatDistance Stage.9 レポート.jpg
             height="240"
             src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAgWmgVKGot3taZPGgTY883M7D0sjLvZsms9wvWJzm-7lXahwiNAGXvfOzVyf86YV1G3Y-LeobvwN8saTsozoQ3JAo90yDwXzP8QRf5h70aMgI56XgOnVf679vSmet6b2um24cE05d7h8/"
             width="180"
-          /></a>
+          /></a
+        >
       </div><br />
     </h3><h3>今日のコース</h3>
     <br />
@@ -97,8 +104,8 @@ const thumbnail = "/thumbnails/2019-09-11-GreatDistance Stage.9 レポート.jpg
     </div><div><br /></div><div>
       <a
         href="https://blog.great-distance.com/2019/09/greatdistance-stage10.html"
-        >10日目のレポートはこちら</a>
+        >10日目のレポートはこちら</a
+      >
     </div>
-  
-
-</ArticleTemplate></Layout>
+  </ArticleTemplate>
+</Layout>

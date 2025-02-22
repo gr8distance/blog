@@ -3,10 +3,17 @@ import Layout from "../../layouts/Layout.astro";
 import { ArticleTemplate } from "../../templates/ArticleTemplate";
 const title = "やはり俺のトレーニングは間違っている";
 const category = "CYCLING";
-const thumbnail = "/thumbnails/2020-04-17-やはり俺のトレーニングは間違っている.jpg";
+const thumbnail =
+  "/thumbnails/2020-04-17-やはり俺のトレーニングは間違っている.jpg";
 ---
 
-
+<Layout title={title}>
+  <ArticleTemplate
+    title={title}
+    thumbnail={thumbnail}
+    date={"2020-04-17"}
+    category={category}
+  >
     <div class="separator" style="clear: both; text-align: center;">
       <a
         href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg125X_dfIxyt52fYN_93WnqPdED2aUTWrOKQxUlftXUWkFrsQ7HC0zQUxTIfLW7GR17It9X-jurFLGwxYKMUkdx_1o_KTfzpdlbk5uDwC5mZacO6ODL9IDMRhkueoINWPnv9__Evwacfs/"
@@ -17,7 +24,8 @@ const thumbnail = "/thumbnails/2020-04-17-やはり俺のトレーニングは�
           data-original-width="3360"
           src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg125X_dfIxyt52fYN_93WnqPdED2aUTWrOKQxUlftXUWkFrsQ7HC0zQUxTIfLW7GR17It9X-jurFLGwxYKMUkdx_1o_KTfzpdlbk5uDwC5mZacO6ODL9IDMRhkueoINWPnv9__Evwacfs/s320/IMG_20200404_061845-PANO.jpg"
           width="320"
-        /></a>
+        /></a
+      >
     </div><div><br /></div><div>
       <br />
     </div>実はこっそり4月の頭に落車してダメージを負ったのですがありがたいことに骨折もなく日々回復していってくれています。<div
@@ -105,7 +113,8 @@ const thumbnail = "/thumbnails/2020-04-17-やはり俺のトレーニングは�
           data-original-width="1530"
           src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg12yJLNFTH36VemhdGZVKZjmInOgJ9xv2t35oqgBnjebyifn8jqAld5gqlpO059x6o9XJNYeBwRgEHuPuI-J2YU0wuhziYijD-65xDcwBcim9M3d5YpJUnoFa1KRbmpbZ8fUdib3ydiYo/s320/%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%2583%25E3%2583%2588+2020-04-17+22.28.41.png"
           width="320"
-        /></a>
+        /></a
+      >
     </div><div>
       いろいろなプロテインを試しましたが一番筋肉が付いたのがこれでした。
     </div><div>プロテイン含有量がとても高く30g中27gがプロテイン。</div><div>
@@ -137,6 +146,5 @@ const thumbnail = "/thumbnails/2020-04-17-やはり俺のトレーニングは�
     >
       <div class="gtx-trans-icon"></div>
     </div>
-  
-
-</ArticleTemplate></Layout>
+  </ArticleTemplate>
+</Layout>

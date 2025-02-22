@@ -6,8 +6,14 @@ const category = "CYCLING";
 const thumbnail = "/thumbnails/2020-01-16- BRM111神戸 AllRoad 300km(後編).jpg";
 ---
 
-
-    地獄のブルベ後編！<br />
+<Layout title={title}>
+  <ArticleTemplate
+    title={title}
+    thumbnail={thumbnail}
+    date={"2020-01-16"}
+    category={category}
+  >
+地獄のブルベ後編！<br />
     <a href="https://blog.great-distance.com/2020/01/brm111-allroad-300km.html"
       >前編はこっち</a
     ><br />
@@ -736,4 +742,5 @@ const thumbnail = "/thumbnails/2020-01-16- BRM111神戸 AllRoad 300km(後編).jp
     <div>ここまで読んでくださってありがとうございます🙏</div>
   
 
-</ArticleTemplate></Layout>
+</ArticleTemplate>
+</Layout>

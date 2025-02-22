@@ -3,10 +3,17 @@ import Layout from "../../layouts/Layout.astro";
 import { ArticleTemplate } from "../../templates/ArticleTemplate";
 const title = "堺浜クリテリウム ビギナー1クラスレポート";
 const category = "CYCLING";
-const thumbnail = "/thumbnails/2019-11-24-堺浜クリテリウム ビギナー1クラスレポート.jpg";
+const thumbnail =
+  "/thumbnails/2019-11-24-堺浜クリテリウム ビギナー1クラスレポート.jpg";
 ---
 
-
+<Layout title={title}>
+  <ArticleTemplate
+    title={title}
+    thumbnail={thumbnail}
+    date={"2019-11-24"}
+    category={category}
+  >
     もう堺浜クリテリウムの季節ですねー<br />
     <br />
     一年ってあっという間だったなぁって思います。<br />
@@ -198,6 +205,5 @@ const thumbnail = "/thumbnails/2019-11-24-堺浜クリテリウム ビギナー1
     </div>
     <div>お疲れさまでした！🎉</div>
     <div class="separator" style="clear: both; text-align: center;"></div>
-  
-
-</ArticleTemplate></Layout>
+  </ArticleTemplate>
+</Layout>

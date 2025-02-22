@@ -6,7 +6,13 @@ const category = "CYCLING";
 const thumbnail = "/thumbnails/2019-08-28-機材の話.jpg";
 ---
 
-
+<Layout title={title}>
+  <ArticleTemplate
+    title={title}
+    thumbnail={thumbnail}
+    date={"2019-08-28"}
+    category={category}
+  >
     <h3 style="font-weight: bold;">バイク編</h3>
     <div>GreatDistanceを走るバイクですが愛車のTarmacSL6で走ります。</div>
     <div><br /></div>
@@ -86,19 +92,18 @@ const thumbnail = "/thumbnails/2019-08-28-機材の話.jpg";
     <div>
       私はこのシューズのヒールカップを銀色に塗ってライトを反射しやすくしてます
     </div>
-  
 
-<style>
-  article {
-    margin-top: 15px;
-    margin-bottom: 5px;
-  }
+    <style>
+      article {
+        margin-top: 15px;
+        margin-bottom: 5px;
+      }
 
-  li {
-    list-style-type: circle;
-    margin-left: 20px;
-    margin-bottom: 3px;
-  }
-</style>
-
-</ArticleTemplate></Layout>
+      li {
+        list-style-type: circle;
+        margin-left: 20px;
+        margin-bottom: 3px;
+      }
+    </style>
+  </ArticleTemplate>
+</Layout>

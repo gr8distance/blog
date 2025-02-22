@@ -6,7 +6,13 @@ const category = "CYCLING";
 const thumbnail = "/thumbnails/2019-08-28-休息の話.jpg";
 ---
 
-
+<Layout title={title}>
+  <ArticleTemplate
+    title={title}
+    thumbnail={thumbnail}
+    date={"2019-08-28"}
+    category={category}
+  >
     <a href="/images/thumbnails/2019/08/28/801-sleep.webp" imageanchor="1"
       ><img
         border="0"
@@ -97,19 +103,18 @@ const thumbnail = "/thumbnails/2019-08-28-休息の話.jpg";
     </blockquote>
     <br />
     貧血や感染症などの疾病が除外され、安静時心拍数の増加、安静時血圧の上昇、運動後の安静時血圧への回復遅延などがあり、競技力の低下あるいは最大パワーの減少があればオーバートレーニング症候群と診断されます。
-  
 
-<style>
-  article {
-    margin-top: 15px;
-    margin-bottom: 5px;
-  }
+    <style>
+      article {
+        margin-top: 15px;
+        margin-bottom: 5px;
+      }
 
-  li {
-    list-style-type: circle;
-    margin-left: 20px;
-    margin-bottom: 3px;
-  }
-</style>
-
-</ArticleTemplate></Layout>
+      li {
+        list-style-type: circle;
+        margin-left: 20px;
+        margin-bottom: 3px;
+      }
+    </style>
+  </ArticleTemplate>
+</Layout>

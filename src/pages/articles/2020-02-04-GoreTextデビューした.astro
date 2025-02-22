@@ -6,7 +6,13 @@ const category = "CYCLING";
 const thumbnail = "/thumbnails/2020-02-04-GoreTextデビューした.jpg";
 ---
 
-
+<Layout title={title}>
+  <ArticleTemplate
+    title={title}
+    thumbnail={thumbnail}
+    date={"2020-02-04"}
+    category={category}
+  >
     <table
       align="center"
       cellpadding="0"
@@ -237,6 +243,5 @@ const thumbnail = "/thumbnails/2020-02-04-GoreTextデビューした.jpg";
     <br />
     <br />
     <br />
-  
-
-</ArticleTemplate></Layout>
+  </ArticleTemplate>
+</Layout>

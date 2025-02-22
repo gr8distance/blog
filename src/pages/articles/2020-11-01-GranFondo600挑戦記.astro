@@ -6,8 +6,14 @@ const category = "CYCLING";
 const thumbnail = "/thumbnails/2020-11-01-GranFondo600挑戦記.jpg";
 ---
 
-
-    <iframe
+<Layout title={title}>
+  <ArticleTemplate
+    title={title}
+    thumbnail={thumbnail}
+    date={"2020-11-01"}
+    category={category}
+  >
+<iframe
       allowtransparency="true"
       frameborder="0"
       height="405"
@@ -1826,4 +1832,5 @@ const thumbnail = "/thumbnails/2020-11-01-GranFondo600挑戦記.jpg";
       src="https://platform.twitter.com/widgets.js"></script>
   
 
-</ArticleTemplate></Layout>
+</ArticleTemplate>
+</Layout>

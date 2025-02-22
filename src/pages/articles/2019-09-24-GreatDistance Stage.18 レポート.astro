@@ -6,7 +6,13 @@ const category = "CYCLING";
 const thumbnail = "/thumbnails/2019-09-24-GreatDistance Stage.18 レポート.jpg";
 ---
 
-
+<Layout title={title}>
+  <ArticleTemplate
+    title={title}
+    thumbnail={thumbnail}
+    date={"2019-09-24"}
+    category={category}
+  >
     <iframe
       allowtransparency="true"
       frameborder="0"
@@ -287,8 +293,8 @@ const thumbnail = "/thumbnails/2019-09-24-GreatDistance Stage.18 レポート.jp
     </div><div>
       <a
         href="https://blog.great-distance.com/2019/09/greatdistance-stage19.html"
-        >19日目のレポート</a>
+        >19日目のレポート</a
+      >
     </div>
-  
-
-</ArticleTemplate></Layout>
+  </ArticleTemplate>
+</Layout>

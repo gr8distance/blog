@@ -6,7 +6,13 @@ const category = "CYCLING";
 const thumbnail = "/thumbnails/2019-09-06-GreatDistance Stage.6 レポート.jpg";
 ---
 
-
+<Layout title={title}>
+  <ArticleTemplate
+    title={title}
+    thumbnail={thumbnail}
+    date={"2019-09-06"}
+    category={category}
+  >
     <iframe
       allowtransparency="true"
       frameborder="0"
@@ -131,7 +137,8 @@ const thumbnail = "/thumbnails/2019-09-06-GreatDistance Stage.6 レポート.jpg
           height="250"
           src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJHOpD9Pg7ZHm40WbRDGDSZqDQlOzYMyQ6pYwFUKf7Zt6aRHpVrLRQSrR9mh2JF9sg1y1pRKE2-o4iNJ8nYoxLr-3eQnkGUFAwfOQT9FFqzPGyWP-5B-X_BQftak_hs_7QbBByRWpIcnY/s320/o0700054813964837920.jpg"
           width="320"
-        /></a>
+        /></a
+      >
     </div>
     <div>
       <br />
@@ -295,11 +302,12 @@ const thumbnail = "/thumbnails/2019-09-06-GreatDistance Stage.6 レポート.jpg
     <div><br /></div><br /><div>
       <a
         href="https://blog.great-distance.com/2019/09/greatdistance-stage7.html"
-        >7日目のレポートはこちら！</a>
+        >7日目のレポートはこちら！</a
+      >
     </div><div>
       <a href="https://blog.great-distance.com/2019/09/greatdistance.html"
-        >1週目の振り返りはこちら！</a>
+        >1週目の振り返りはこちら！</a
+      >
     </div>
-  
-
-</ArticleTemplate></Layout>
+  </ArticleTemplate>
+</Layout>

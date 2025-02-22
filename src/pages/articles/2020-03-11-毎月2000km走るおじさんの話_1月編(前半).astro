@@ -3,10 +3,17 @@ import Layout from "../../layouts/Layout.astro";
 import { ArticleTemplate } from "../../templates/ArticleTemplate";
 const title = "毎月2000km走るおじさんの話_1月編(前半)";
 const category = "CYCLING";
-const thumbnail = "/thumbnails/2020-03-11-毎月2000km走るおじさんの話_1月編(前半).jpg";
+const thumbnail =
+  "/thumbnails/2020-03-11-毎月2000km走るおじさんの話_1月編(前半).jpg";
 ---
 
-
+<Layout title={title}>
+  <ArticleTemplate
+    title={title}
+    thumbnail={thumbnail}
+    date={"2020-03-11"}
+    category={category}
+  >
     12月に2100km走りきれたことで勢いに乗り白浜クリテリウムでの優勝に向けて更にハードなトレーニングに打ち込むことを誓って2020年を迎えました。<br
     />
     <br />
@@ -99,11 +106,13 @@ const thumbnail = "/thumbnails/2020-03-11-毎月2000km走るおじさんの話_1
         UGさん(<a href="https://twitter.com/gr8distance?ref_src=twsrc%5Etfw"
           >@gr8distance</a
         >)とエンカウントした！！！バリバリカッチョイイバイクだ！！ <a
-          href="https://t.co/RjXyWHL3eb">pic.twitter.com/RjXyWHL3eb</a>
+          href="https://t.co/RjXyWHL3eb">pic.twitter.com/RjXyWHL3eb</a
+        >
       </div>
       — りっけい/ゆるキャノボおわた (@rikkei2) <a
         href="https://twitter.com/rikkei2/status/1212934362229960705?ref_src=twsrc%5Etfw"
-        >January 3, 2020</a>
+        >January 3, 2020</a
+      >
     </blockquote>
     Twitterでフォローしてる<a href="https://twitter.com/rikkei2">@りっけい</a
     >さんと遭遇！<br />
@@ -301,7 +310,8 @@ const thumbnail = "/thumbnails/2020-03-11-毎月2000km走るおじさんの話_1
       この日のことはこちらにまとめてるので暇があれば味わってみてください
       &gt;&gt;&nbsp;<a
         href="https://blog.great-distance.com/2020/01/brm111-allroad-300km.html"
-        >BRM111前篇</a>
+        >BRM111前篇</a
+      >
     </div>
     <table
       align="center"
@@ -348,6 +358,5 @@ const thumbnail = "/thumbnails/2020-03-11-毎月2000km走るおじさんの話_1
     </div>
     <div>長いので一旦このへんで！</div>
     <div>後半はまた別の日に書きナス！</div>
-  
-
-</ArticleTemplate></Layout>
+  </ArticleTemplate>
+</Layout>

@@ -6,7 +6,13 @@ const category = "CYCLING";
 const thumbnail = "/thumbnails/2019-09-14-GreatDistance Stage.12 レポート.jpg";
 ---
 
-
+<Layout title={title}>
+  <ArticleTemplate
+    title={title}
+    thumbnail={thumbnail}
+    date={"2019-09-14"}
+    category={category}
+  >
     <iframe
       allowtransparency="true"
       frameborder="0"
@@ -73,7 +79,8 @@ const thumbnail = "/thumbnails/2019-09-14-GreatDistance Stage.12 レポート.jp
     <div>
       <h3>
         パンターニなりきりスタイル!?<span
-          style="font-size: 12.8px; text-align: center;">🤔</span>
+          style="font-size: 12.8px; text-align: center;">🤔</span
+        >
       </h3>
       早速だけど一昨日メモした休むダンシングの方法
     </div>
@@ -179,8 +186,8 @@ const thumbnail = "/thumbnails/2019-09-14-GreatDistance Stage.12 レポート.jp
     <div><br /></div><div>
       <a
         href="https://blog.great-distance.com/2019/09/greatdistance-stage13-brm915200km.html"
-        >13日目のレポートはこちら！</a>
+        >13日目のレポートはこちら！</a
+      >
     </div>
-  
-
-</ArticleTemplate></Layout>
+  </ArticleTemplate>
+</Layout>

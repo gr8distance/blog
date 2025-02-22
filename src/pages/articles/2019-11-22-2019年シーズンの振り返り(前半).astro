@@ -6,7 +6,13 @@ const category = "CYCLING";
 const thumbnail = "/thumbnails/2019-11-22-2019年シーズンの振り返り(前半).jpg";
 ---
 
-
+<Layout title={title}>
+  <ArticleTemplate
+    title={title}
+    thumbnail={thumbnail}
+    date={"2019-11-22"}
+    category={category}
+  >
     <br />
     2019年も1ヶ月と半分を切ってきたのでシーズンを振り返ってみようという話。<br
     />
@@ -189,7 +195,8 @@ const thumbnail = "/thumbnails/2019-11-22-2019年シーズンの振り返り(前
               data-original-height="186"
               data-original-width="248"
               src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcYMiQuaeWb3IaekIoLyE7SPZnwr0xYjALHfp-lj5l9gBkhZwrYOUu-ZchGXjYSPWAuCsB8cNz_F1mDK7xO7Z6v1ShFOAc2sw2DsAMAhfUtrmHZRnLNO2kE4rtfl8X3N_ZFafguAdklWw/s1600/IMG_20190406_071313-EFFECTS.jpg"
-            /></a>
+            /></a
+          >
         </div>
         <a
           href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTenJ1QKEqtyfW-ASBXbfxb85K-GjKUE-cs4fB7-Y0_6Vjr15sQiwqsWSZD9iP6ddDwwHuk9qnDEAUrWEpEMyYB5Bzmit7exfVFS6dc8drp5ou9CwzzAo1F0RRXBB_Q7NcUmvrv6RB-eU/s1600/IMG_20190406_071951.jpg"
@@ -246,7 +253,8 @@ const thumbnail = "/thumbnails/2019-11-22-2019年シーズンの振り返り(前
               height="179"
               src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDVVVXXxVEVhg8TvD-fkRWO4cdsNoSfVP51I4Id-N6wWg_D2sJU_57EL7NS2zSknZk_RB1x48DY8aG_AIWedfl6N0ycJI73cgFOUcEOMRr5ehRlTlSkJ7d8c-ebzG6931mUVCNxXvI8fY/s320/DSC_0019.jpg"
               width="320"
-            /></a>
+            /></a
+          >
         </div>
         レースの結果はそこそこ<br />
         まあ4倍程度の出力では厳しいかなぁ(´・ω・｀)<br />
@@ -335,7 +343,8 @@ const thumbnail = "/thumbnails/2019-11-22-2019年シーズンの振り返り(前
             height="106"
             src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTZqAizYy-hZNGhty3RxuIxWnXe5GFgkzI0CRvi5-co6nUOwTlty4POivuCeLfrPMrCiPN0oxrtLKegPP16QGOndu7In3SdWY5qsDWxfJ2tlpULo95QlJmnAachZDOwRuEhyfx68cndks/s320/tNA0RKoO0DSu_a0ewplmcqc5uZ8vwk9FoABsqI5rkmF_8j2jKMAAp2ts477pqs5l1A9yZS5Uor1LQYkI86cW8oVvuYaObwTEX_U.png"
             width="320"
-          /></a>
+          /></a
+        >
       </div>
       SR獲得に関してはこれまで一度のDNFもなくストレートで来ていたのでここで一気にSRを決めるつもりだった。<br
       />
@@ -423,8 +432,8 @@ const thumbnail = "/thumbnails/2019-11-22-2019年シーズンの振り返り(前
       />
       <br />
       <a href="https://blog.great-distance.com/2019/11/2019_30.html"
-        >後編へ続く</a>
+        >後編へ続く</a
+      >
     </div>
-  
-
-</ArticleTemplate></Layout>
+  </ArticleTemplate>
+</Layout>

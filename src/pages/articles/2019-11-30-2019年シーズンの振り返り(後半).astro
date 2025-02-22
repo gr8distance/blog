@@ -6,7 +6,13 @@ const category = "CYCLING";
 const thumbnail = "/thumbnails/2019-11-30-2019年シーズンの振り返り(後半).jpg";
 ---
 
-
+<Layout title={title}>
+  <ArticleTemplate
+    title={title}
+    thumbnail={thumbnail}
+    date={"2019-11-30"}
+    category={category}
+  >
     <div>2019年の振り返り後編書いていくよー</div>
     &gt;&gt;<a href="https://blog.great-distance.com/2019/11/2019.html"
       >前半はこっち</a
@@ -187,6 +193,5 @@ const thumbnail = "/thumbnails/2019-11-30-2019年シーズンの振り返り(後
     />
     <br />
     読んでくださって感謝です🙏
-  
-
-</ArticleTemplate></Layout>
+  </ArticleTemplate>
+</Layout>

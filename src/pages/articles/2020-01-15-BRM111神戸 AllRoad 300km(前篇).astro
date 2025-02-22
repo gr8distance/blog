@@ -6,7 +6,13 @@ const category = "CYCLING";
 const thumbnail = "/thumbnails/2020-01-15-BRM111神戸 AllRoad 300km(前篇).jpg";
 ---
 
-
+<Layout title={title}>
+  <ArticleTemplate
+    title={title}
+    thumbnail={thumbnail}
+    date={"2020-01-15"}
+    category={category}
+  >
     <br />
     &nbsp; &nbsp;<iframe
       allowtransparency="true"
@@ -39,7 +45,8 @@ const thumbnail = "/thumbnails/2020-01-15-BRM111神戸 AllRoad 300km(前篇).jpg
         </div>
         — かたやまたいすけ＠HAT神戸 (@caymanchang) <a
           href="https://twitter.com/caymanchang/status/1215596533334200325?ref_src=twsrc%5Etfw"
-          >January 10, 2020</a>
+          >January 10, 2020</a
+        >
       </blockquote>
       <script
         async=""
@@ -65,7 +72,8 @@ const thumbnail = "/thumbnails/2020-01-15-BRM111神戸 AllRoad 300km(前篇).jpg
       </div>
       — UGo (@gr8distance) <a
         href="https://twitter.com/gr8distance/status/1215591610995490816?ref_src=twsrc%5Etfw"
-        >January 10, 2020</a>
+        >January 10, 2020</a
+      >
     </blockquote>
     <div>
       とにかく大量の補給食とともに走ることで停車する回数を減らすことにした。
@@ -249,7 +257,8 @@ const thumbnail = "/thumbnails/2020-01-15-BRM111神戸 AllRoad 300km(前篇).jpg
             height="320"
             src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDUaA-3wbLxgAJhe0HRG0vXs8wuVWRzvrVfk5JswIhKCRNDTvV-ucOWXOBbFRaJLqmW1Nd-vN30W44MoKsOI_X1491be1OJ9bYIwtY8awOkUaw8ZOXjD8R7VvaiyjEFP3BG07uec_yGM0/s320/IMG_20200111_081930.jpg"
             width="240"
-          /></a>
+          /></a
+        >
       </div>
       <br />
       ブラックサンダーを3個ほど腹に収めたあたりで船が淡路島に到着、<br />
@@ -365,6 +374,5 @@ const thumbnail = "/thumbnails/2020-01-15-BRM111神戸 AllRoad 300km(前篇).jpg
         >後編</a
       >へ
     </div>
-  
-
-</ArticleTemplate></Layout>
+  </ArticleTemplate>
+</Layout>

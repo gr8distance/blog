@@ -6,7 +6,13 @@ const category = "CYCLING";
 const thumbnail = "/thumbnails/2019-08-12-ブログを始めた.jpg";
 ---
 
-
+<Layout title={title}>
+  <ArticleTemplate
+    title={title}
+    thumbnail={thumbnail}
+    date={"2019-08-12"}
+    category={category}
+  >
     <h3 class="font-bold text-lg">ブログ始めた理由</h3>
     <p>
       2019年9月から有給消化の期間が始まって1ヶ月間仕事しなくなるのでフィジカルを強化するために21日で3500kmを走るチャレンジをやってみようと思った。
@@ -15,19 +21,18 @@ const thumbnail = "/thumbnails/2019-08-12-ブログを始めた.jpg";
     <s>変態</s>
     同好の士が参考にできるよう公の場に情報を残そうと思った。<br />
     <br />
-  
 
-<style>
-  article {
-    margin-top: 15px;
-    margin-bottom: 5px;
-  }
+    <style>
+      article {
+        margin-top: 15px;
+        margin-bottom: 5px;
+      }
 
-  li {
-    list-style-type: circle;
-    margin-left: 20px;
-    margin-bottom: 3px;
-  }
-</style>
-
-</ArticleTemplate></Layout>
+      li {
+        list-style-type: circle;
+        margin-left: 20px;
+        margin-bottom: 3px;
+      }
+    </style>
+  </ArticleTemplate>
+</Layout>

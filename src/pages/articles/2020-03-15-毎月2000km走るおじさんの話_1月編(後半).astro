@@ -3,10 +3,17 @@ import Layout from "../../layouts/Layout.astro";
 import { ArticleTemplate } from "../../templates/ArticleTemplate";
 const title = "毎月2000km走るおじさんの話_1月編(後半)";
 const category = "CYCLING";
-const thumbnail = "/thumbnails/2020-03-15-毎月2000km走るおじさんの話_1月編(後半).jpg";
+const thumbnail =
+  "/thumbnails/2020-03-15-毎月2000km走るおじさんの話_1月編(後半).jpg";
 ---
 
-
+<Layout title={title}>
+  <ArticleTemplate
+    title={title}
+    thumbnail={thumbnail}
+    date={"2020-03-15"}
+    category={category}
+  >
     <a
       href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfsHGpTz0GMC1vaANhsMCpkveYOcPUxf6cZWKHBg2Nny5B5l-jgTc9dzgkF2Evu_HejtjyQPWL3ujWEnw5Nu5lbpaMhJT_HhQxfyuIlG3a-oAAKWAu-87fyUPD0vjbxXUSzK56BdAdlnQ/s1600/EFFECTS.jpg"
       imageanchor="1"
@@ -262,6 +269,5 @@ const thumbnail = "/thumbnails/2020-03-15-毎月2000km走るおじさんの話_1
       後半はほとんど義務感に近いものを感じながらもだいたい毎晩ローラーで一時間走を実施。
     </div>
     <div>結果的にこの一時間走は出力向上に大きく貢献したのでした！</div>
-  
-
-</ArticleTemplate></Layout>
+  </ArticleTemplate>
+</Layout>

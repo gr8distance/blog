@@ -6,7 +6,13 @@ const category = "CYCLING";
 const thumbnail = "/thumbnails/2019-08-28-試走1日目 梅田 ~ 白浜.jpg";
 ---
 
-
+<Layout title={title}>
+  <ArticleTemplate
+    title={title}
+    thumbnail={thumbnail}
+    date={"2019-08-28"}
+    category={category}
+  >
     <h3>
       <iframe
         allowtransparency="true"
@@ -64,6 +70,5 @@ const thumbnail = "/thumbnails/2019-08-28-試走1日目 梅田 ~ 白浜.jpg";
       </span>
     </h3>
     <h3></h3>
-  
-
-</ArticleTemplate></Layout>
+  </ArticleTemplate>
+</Layout>

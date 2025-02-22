@@ -3,10 +3,17 @@ import Layout from "../../layouts/Layout.astro";
 import { ArticleTemplate } from "../../templates/ArticleTemplate";
 const title = "お礼参りライド　熊野古道ヒルクライム1日前";
 const category = "CYCLING";
-const thumbnail = "/thumbnails/2019-11-02-お礼参りライド　熊野古道ヒルクライム1日前.jpg";
+const thumbnail =
+  "/thumbnails/2019-11-02-お礼参りライド　熊野古道ヒルクライム1日前.jpg";
 ---
 
-
+<Layout title={title}>
+  <ArticleTemplate
+    title={title}
+    thumbnail={thumbnail}
+    date={"2019-11-02"}
+    category={category}
+  >
     <iframe
       allowtransparency="true"
       frameborder="0"
@@ -216,6 +223,5 @@ const thumbnail = "/thumbnails/2019-11-02-お礼参りライド　熊野古道�
     目標は65分を切りたい所存だが実際は70分台になってしまいそうだ。 9月の肉体強化でどこまで走れるようになったのかが試される
     喜ばしい結果を得られるのか、それとも壁の大きさを痛感するのかは明日、レースが終わってみないとわからない。
     明日のレースのレポートを書くとき自分の指が踊っていることを願わんばかりである。
-  
-
-</ArticleTemplate></Layout>
+  </ArticleTemplate>
+</Layout>

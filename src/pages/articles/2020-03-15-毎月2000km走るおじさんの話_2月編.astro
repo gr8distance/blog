@@ -6,7 +6,13 @@ const category = "CYCLING";
 const thumbnail = "/thumbnails/2020-03-15-毎月2000km走るおじさんの話_2月編.jpg";
 ---
 
-
+<Layout title={title}>
+  <ArticleTemplate
+    title={title}
+    thumbnail={thumbnail}
+    date={"2020-03-15"}
+    category={category}
+  >
     12月、1月と2000kmを走りついにラスボス2月に挑むUG。<br />
     <div>過去2ヶ月は31日あったが2020年2月は29日しかない。</div>
     <div>
@@ -318,6 +324,5 @@ const thumbnail = "/thumbnails/2020-03-15-毎月2000km走るおじさんの話_2
     <br />
     <br />
     <br />
-  
-
-</ArticleTemplate></Layout>
+  </ArticleTemplate>
+</Layout>

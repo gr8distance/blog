@@ -3,10 +3,17 @@ import Layout from "../../layouts/Layout.astro";
 import { ArticleTemplate } from "../../templates/ArticleTemplate";
 const title = "毎月2000km走るおじさんの話_完走した感想";
 const category = "CYCLING";
-const thumbnail = "/thumbnails/2020-03-21-毎月2000km走るおじさんの話_完走した感想.jpg";
+const thumbnail =
+  "/thumbnails/2020-03-21-毎月2000km走るおじさんの話_完走した感想.jpg";
 ---
 
-
+<Layout title={title}>
+  <ArticleTemplate
+    title={title}
+    thumbnail={thumbnail}
+    date={"2020-03-21"}
+    category={category}
+  >
     <table
       align="center"
       cellpadding="0"
@@ -61,19 +68,23 @@ const thumbnail = "/thumbnails/2020-03-21-毎月2000km走るおじさんの話_�
       <ul>
         <li>
           <a href="https://blog.great-distance.com/2020/03/2000km-12.html"
-            >2019年12月編</a>
+            >2019年12月編</a
+          >
         </li>
         <li>
           <a href="https://blog.great-distance.com/2020/03/2000km-1.html"
-            >2020年1月編(前編)</a>
+            >2020年1月編(前編)</a
+          >
         </li>
         <li>
           <a href="https://blog.great-distance.com/2020/03/2000km-1_71.html"
-            >2020年1月編(後編)</a>
+            >2020年1月編(後編)</a
+          >
         </li>
         <li>
           <a href="https://blog.great-distance.com/2020/03/2000km-2.html"
-            >2020年2月編</a>
+            >2020年2月編</a
+          >
         </li>
       </ul>
       <div>
@@ -505,6 +516,5 @@ const thumbnail = "/thumbnails/2020-03-21-毎月2000km走るおじさんの話_�
     </div>
     <div>うーん</div>
     <div>2000km走っても根性は鍛えられないということか...🤔</div>
-  
-
-</ArticleTemplate></Layout>
+  </ArticleTemplate>
+</Layout>

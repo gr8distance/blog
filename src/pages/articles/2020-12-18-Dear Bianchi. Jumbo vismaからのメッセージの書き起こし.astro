@@ -6,8 +6,14 @@ const category = "CYCLING";
 const thumbnail = "/thumbnails/2020-12-18-Dear Bianchi. Jumbo vismaからのメッセージの書き起こし.jpg";
 ---
 
-
-    <blockquote class="twitter-tweet">
+<Layout title={title}>
+  <ArticleTemplate
+    title={title}
+    thumbnail={thumbnail}
+    date={"2020-12-18"}
+    category={category}
+  >
+<blockquote class="twitter-tweet">
       <p dir="ltr" lang="en">
         Dear Bianchi, it feels like we rode for ages. We made memories far
         beyond imagination. Now the time has come for us to part ways.
@@ -164,4 +170,5 @@ const thumbnail = "/thumbnails/2020-12-18-Dear Bianchi. Jumbo vismaからのメ�
     </p>
   
 
-</ArticleTemplate></Layout>
+</ArticleTemplate>
+</Layout>

@@ -6,8 +6,14 @@ const category = "CYCLING";
 const thumbnail = "/thumbnails/2020-12-20-✍やる気についての覚書.jpg";
 ---
 
-
-    <p>
+<Layout title={title}>
+  <ArticleTemplate
+    title={title}
+    thumbnail={thumbnail}
+    date={"2020-12-20"}
+    category={category}
+  >
+<p>
       <span style="background-color: #eeeeee;"
         >2020年も残り2週間を切った。</span>
     </p><p>
@@ -299,4 +305,5 @@ const thumbnail = "/thumbnails/2020-12-20-✍やる気についての覚書.jpg"
     </div>
   
 
-</ArticleTemplate></Layout>
+</ArticleTemplate>
+</Layout>

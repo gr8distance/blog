@@ -6,7 +6,13 @@ const category = "CYCLING";
 const thumbnail = "/thumbnails/2019-09-07-GreatDistance Stage.7 レポート.jpg";
 ---
 
-
+<Layout title={title}>
+  <ArticleTemplate
+    title={title}
+    thumbnail={thumbnail}
+    date={"2019-09-07"}
+    category={category}
+  >
     <iframe
       allowtransparency="true"
       frameborder="0"
@@ -180,8 +186,8 @@ const thumbnail = "/thumbnails/2019-09-07-GreatDistance Stage.7 レポート.jpg
     熊野古道ヒルクライムの試走<div><br /></div><div>
       <a
         href="https://blog.great-distance.com/2019/09/greatdistance-stage8.html"
-        >8日目のレポートはこちら！</a>
+        >8日目のレポートはこちら！</a
+      >
     </div>
-  
-
-</ArticleTemplate></Layout>
+  </ArticleTemplate>
+</Layout>

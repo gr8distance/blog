@@ -6,7 +6,13 @@ const category = "CYCLING";
 const thumbnail = "/thumbnails/2019-08-28-試走編.jpg";
 ---
 
-
+<Layout title={title}>
+  <ArticleTemplate
+    title={title}
+    thumbnail={thumbnail}
+    date={"2019-08-28"}
+    category={category}
+  >
     2019年9月から挑戦開始予定の<span
       style='background-color: white; font-family: "merriweather" , "georgia" , serif;'
       >GreatDistanceChallange</span
@@ -123,19 +129,18 @@ const thumbnail = "/thumbnails/2019-08-28-試走編.jpg";
         </tbody>
       </table>
     </div>
-  
 
-<style>
-  article {
-    margin-top: 15px;
-    margin-bottom: 5px;
-  }
+    <style>
+      article {
+        margin-top: 15px;
+        margin-bottom: 5px;
+      }
 
-  li {
-    list-style-type: circle;
-    margin-left: 20px;
-    margin-bottom: 3px;
-  }
-</style>
-
-</ArticleTemplate></Layout>
+      li {
+        list-style-type: circle;
+        margin-left: 20px;
+        margin-bottom: 3px;
+      }
+    </style>
+  </ArticleTemplate>
+</Layout>

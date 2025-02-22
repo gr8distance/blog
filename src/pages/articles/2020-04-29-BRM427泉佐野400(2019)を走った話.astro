@@ -6,8 +6,14 @@ const category = "CYCLING";
 const thumbnail = "/thumbnails/2020-04-29-BRM427泉佐野400(2019)を走った話.jpg";
 ---
 
-
-    <div>
+<Layout title={title}>
+  <ArticleTemplate
+    title={title}
+    thumbnail={thumbnail}
+    date={"2020-04-29"}
+    category={category}
+  >
+<div>
       <div class="separator" style="clear: both; text-align: left;">
         <a href="https://blog.great-distance.com/2020/04/300km.html"
           >300kmブルベ</a
@@ -653,6 +659,7 @@ const thumbnail = "/thumbnails/2020-04-29-BRM427泉佐野400(2019)を走った�
           ></tr
         ></tbody>
     </table><div><br /></div>
-  
 
-</ArticleTemplate></Layout>
+
+</ArticleTemplate>
+</Layout>

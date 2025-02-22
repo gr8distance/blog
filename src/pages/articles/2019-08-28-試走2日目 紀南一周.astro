@@ -6,7 +6,13 @@ const category = "CYCLING";
 const thumbnail = "/thumbnails/2019-08-28-試走2日目 紀南一周.jpg";
 ---
 
-
+<Layout title={title}>
+  <ArticleTemplate
+    title={title}
+    thumbnail={thumbnail}
+    date={"2019-08-28"}
+    category={category}
+  >
     <h3>
       <iframe
         allowtransparency="true"
@@ -94,7 +100,8 @@ const thumbnail = "/thumbnails/2019-08-28-試走2日目 紀南一周.jpg";
         <br />
         <div style="font-size: 18.72px;">
           <span style="font-weight: normal;"
-            >ひどいのは新宮から本宮への下りが爆風で下っているはずなのに30km出るか出ないか...</span>
+            >ひどいのは新宮から本宮への下りが爆風で下っているはずなのに30km出るか出ないか...</span
+          >
         </div>
         <div>
           <table
@@ -210,15 +217,14 @@ const thumbnail = "/thumbnails/2019-08-28-試走2日目 紀南一周.jpg";
         <span style="font-weight: normal;"
           >近露でもう一度補給してから最後の30kmを走行してゴール</span
         ><br />
-        <a
-          href="/images/2019/08/28/day2-5.jpg"
-          imageanchor="1"
+        <a href="/images/2019/08/28/day2-5.jpg" imageanchor="1"
           ><img
             border="0"
             height="320"
             src="/images/thumbnails/2019/08/28/day2-5.jpg"
             width="320"
-          /></a>
+          /></a
+        >
       </div>
     </h3>
     <h3>
@@ -227,6 +233,5 @@ const thumbnail = "/thumbnails/2019-08-28-試走2日目 紀南一周.jpg";
         <span style="font-weight: normal;">長い一日でした</span>
       </div>
     </h3>
-  
-
-</ArticleTemplate></Layout>
+  </ArticleTemplate>
+</Layout>

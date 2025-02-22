@@ -1,13 +1,12 @@
 ---
-import Layout from "../../../../../layouts/ArticleLayout.astro";
+import Layout from "../../layouts/Layout.astro";
+import { ArticleTemplate } from "../../templates/ArticleTemplate";
 const title = "GoreTextデビューした";
-const description = "";
-const thumbnail = "";
-const labels = [];
+const category = "CYCLING";
+const thumbnail = "/thumbnails/2020-02-04-GoreTextデビューした.jpg";
 ---
 
-<Layout title={title} labels={labels}>
-  <article>
+
     <table
       align="center"
       cellpadding="0"
@@ -238,5 +237,6 @@ const labels = [];
     <br />
     <br />
     <br />
-  </article>
-</Layout>
+  
+
+</ArticleTemplate></Layout>

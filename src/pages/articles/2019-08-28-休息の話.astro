@@ -1,14 +1,12 @@
 ---
-import Layout from "../../../../../layouts/ArticleLayout.astro";
+import Layout from "../../layouts/Layout.astro";
+import { ArticleTemplate } from "../../templates/ArticleTemplate";
 const title = "休息の話";
-const description =
-  "毎日トレーニングやってることが美徳と思われがちですが本当に大切。ただトレーニング本にはトレーニングメニューの方法は書かれていても休息の方法については書かれてないんですよね";
-const thumbnail = "/images/thumbnails/2019/08/28/801-sleep.webp";
-const labels = ["休息"];
+const category = "CYCLING";
+const thumbnail = "/thumbnails/2019-08-28-休息の話.jpg";
 ---
 
-<Layout title={title} labels={labels}>
-  <article>
+
     <a href="/images/thumbnails/2019/08/28/801-sleep.webp" imageanchor="1"
       ><img
         border="0"
@@ -99,29 +97,7 @@ const labels = ["休息"];
     </blockquote>
     <br />
     貧血や感染症などの疾病が除外され、安静時心拍数の増加、安静時血圧の上昇、運動後の安静時血圧への回復遅延などがあり、競技力の低下あるいは最大パワーの減少があればオーバートレーニング症候群と診断されます。
-  </article>
-  <br />
-  <div>
-    <div>
-      という状態になるらしいんですね。<br />
-      <br />
-      &nbsp;で、Fitbitだと安静時心拍と睡眠ログが取れます<br />
-      <br />
-      TSBは高めのときは元気というのはわかっているのでTSBが高いときの心拍とトレーニング後の疲労状態を突き合わせることで現状を把握できるんですね<br
-      />
-      <br />
-      私の場合は安静時心拍数は47 ~ 49で、51を超過すると疲労状態として認定できそうです。<br
-      />
-      ちなみにこのとき早く寝ているのにも関わらず睡眠時間が短くなったり深い睡眠が取れなくなったりと明確に回復を妨げる症状がでます。<br
-      />
-      <br />
-      つまり安静時心拍が下がり睡眠時間が戻った状態が元気な状態と評価できるわけです<br
-      />
-      <br />
-      <br />
-    </div>
-  </div>
-</Layout>
+  
 
 <style>
   article {
@@ -135,3 +111,5 @@ const labels = ["休息"];
     margin-bottom: 3px;
   }
 </style>
+
+</ArticleTemplate></Layout>

@@ -1,13 +1,12 @@
 ---
-import Layout from "../../../../../layouts/ArticleLayout.astro";
+import Layout from "../../layouts/Layout.astro";
+import { ArticleTemplate } from "../../templates/ArticleTemplate";
 const title = "沼津移住計画";
-const description = "";
-const thumbnail = "";
-const labels = [];
+const category = "CYCLING";
+const thumbnail = "/thumbnails/2020-08-10-沼津移住計画.jpg";
 ---
 
-<Layout title={title} labels={labels}>
-  <article>
+
     <div class="separator" style="clear: both; text-align: center;">
       <div class="separator" style="clear: both; text-align: center;">
         <a
@@ -192,5 +191,6 @@ const labels = [];
     </div><div><br /></div><div>
       今すぐに解決できないことも多いですが順調に進めば来年の今頃には引っ越しできているので来年を楽しみに準備を進めていきますよぉ！
     </div><div><br /></div>
-  </article>
-</Layout>
+  
+
+</ArticleTemplate></Layout>

@@ -1,14 +1,12 @@
 ---
-import Layout from "../../../../../layouts/ArticleLayout.astro";
+import Layout from "../../layouts/Layout.astro";
+import { ArticleTemplate } from "../../templates/ArticleTemplate";
 const title = "試走編";
-const description =
-  "21日で3000km以上の距離を走行するチャレンジのことですが実際に完走距離的にも企画的にも完走可能なのかを確かめるために3日連続で試走してきました。";
-const thumbnail = "/images/thumbnails/2019/08/28/recon.webp";
-const labels = ["試走", "GreatDistance"];
+const category = "CYCLING";
+const thumbnail = "/thumbnails/2019-08-28-試走編.jpg";
 ---
 
-<Layout title={title} labels={labels}>
-  <article>
+
     2019年9月から挑戦開始予定の<span
       style='background-color: white; font-family: "merriweather" , "georgia" , serif;'
       >GreatDistanceChallange</span
@@ -125,8 +123,7 @@ const labels = ["試走", "GreatDistance"];
         </tbody>
       </table>
     </div>
-  </article>
-</Layout>
+  
 
 <style>
   article {
@@ -140,3 +137,5 @@ const labels = ["試走", "GreatDistance"];
     margin-bottom: 3px;
   }
 </style>
+
+</ArticleTemplate></Layout>

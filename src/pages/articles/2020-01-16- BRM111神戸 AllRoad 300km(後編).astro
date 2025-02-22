@@ -1,13 +1,12 @@
 ---
-import Layout from "../../../../../layouts/ArticleLayout.astro";
+import Layout from "../../layouts/Layout.astro";
+import { ArticleTemplate } from "../../templates/ArticleTemplate";
 const title = " BRM111神戸 AllRoad 300km(後編)";
-const description = "";
-const thumbnail = "";
-const labels = [];
+const category = "CYCLING";
+const thumbnail = "/thumbnails/2020-01-16- BRM111神戸 AllRoad 300km(後編).jpg";
 ---
 
-<Layout title={title} labels={labels}>
-  <article>
+
     地獄のブルベ後編！<br />
     <a href="https://blog.great-distance.com/2020/01/brm111-allroad-300km.html"
       >前編はこっち</a
@@ -735,5 +734,6 @@ const labels = [];
       <br />
     </div>
     <div>ここまで読んでくださってありがとうございます🙏</div>
-  </article>
-</Layout>
+  
+
+</ArticleTemplate></Layout>

@@ -1,13 +1,12 @@
 ---
-import Layout from "../../../../../layouts/ArticleLayout.astro";
+import Layout from "../../layouts/Layout.astro";
+import { ArticleTemplate } from "../../templates/ArticleTemplate";
 const title = "2019年シーズンの振り返り(前半)";
-const description = "";
-const thumbnail = "";
-const labels = [];
+const category = "CYCLING";
+const thumbnail = "/thumbnails/2019-11-22-2019年シーズンの振り返り(前半).jpg";
 ---
 
-<Layout title={title} labels={labels}>
-  <article>
+
     <br />
     2019年も1ヶ月と半分を切ってきたのでシーズンを振り返ってみようという話。<br
     />
@@ -426,5 +425,6 @@ const labels = [];
       <a href="https://blog.great-distance.com/2019/11/2019_30.html"
         >後編へ続く</a>
     </div>
-  </article>
-</Layout>
+  
+
+</ArticleTemplate></Layout>

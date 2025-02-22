@@ -1,13 +1,12 @@
 ---
-import Layout from "../../../../../layouts/ArticleLayout.astro";
+import Layout from "../../layouts/Layout.astro";
+import { ArticleTemplate } from "../../templates/ArticleTemplate";
 const title = "GreatDistance 第一週目の振り返り";
-const description = "";
-const thumbnail = "";
-const labels = [];
+const category = "CYCLING";
+const thumbnail = "/thumbnails/2019-09-06-GreatDistance 第一週目の振り返り.jpg";
 ---
 
-<Layout title={title} labels={labels}>
-  <article>
+
     <h3>一周目を振り返って</h3>
     <br />
     正直なところ3日目くらいで何かしらの理由をつけてやらなくなると思ってましたw<br
@@ -156,5 +155,6 @@ const labels = [];
         href="https://blog.great-distance.com/2019/09/greatdistance-stage8.html"
         >8日目のレポートはこちら</a>
     </div>
-  </article>
-</Layout>
+  
+
+</ArticleTemplate></Layout>

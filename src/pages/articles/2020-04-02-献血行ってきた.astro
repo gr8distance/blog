@@ -1,13 +1,12 @@
 ---
-import Layout from "../../../../../layouts/ArticleLayout.astro";
+import Layout from "../../layouts/Layout.astro";
+import { ArticleTemplate } from "../../templates/ArticleTemplate";
 const title = "献血行ってきた";
-const description = "";
-const thumbnail = "";
-const labels = [];
+const category = "CYCLING";
+const thumbnail = "/thumbnails/2020-04-02-献血行ってきた.jpg";
 ---
 
-<Layout title={title} labels={labels}>
-  <article>
+
     <br /><div class="separator" style="clear: both; text-align: center;">
       <br />
     </div><div class="separator" style="clear: both; text-align: center;">
@@ -223,5 +222,6 @@ const labels = [];
       async=""
       charset="utf-8"
       src="https://platform.twitter.com/widgets.js"></script>
-  </article>
-</Layout>
+  
+
+</ArticleTemplate></Layout>

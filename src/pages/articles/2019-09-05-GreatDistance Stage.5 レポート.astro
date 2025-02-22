@@ -1,13 +1,12 @@
 ---
-import Layout from "../../../../../layouts/ArticleLayout.astro";
+import Layout from "../../layouts/Layout.astro";
+import { ArticleTemplate } from "../../templates/ArticleTemplate";
 const title = "GreatDistance Stage.5 レポート";
-const description = "";
-const thumbnail = "";
-const labels = [];
+const category = "CYCLING";
+const thumbnail = "/thumbnails/2019-09-05-GreatDistance Stage.5 レポート.jpg";
 ---
 
-<Layout title={title} labels={labels}>
-  <article>
+
     <iframe
       allowtransparency="true"
       frameborder="0"
@@ -218,5 +217,6 @@ const labels = [];
     <a href="https://blog.great-distance.com/2019/09/greatdistance-stage6.html"
       >6日目のレポートはこちら！</a
     >
-  </article>
-</Layout>
+  
+
+</ArticleTemplate></Layout>

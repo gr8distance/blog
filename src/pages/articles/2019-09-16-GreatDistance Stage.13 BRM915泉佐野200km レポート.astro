@@ -1,13 +1,12 @@
 ---
-import Layout from "../../../../../layouts/ArticleLayout.astro";
+import Layout from "../../layouts/Layout.astro";
+import { ArticleTemplate } from "../../templates/ArticleTemplate";
 const title = "GreatDistance Stage.13 BRM915泉佐野200km レポート";
-const description = "";
-const thumbnail = "";
-const labels = [];
+const category = "CYCLING";
+const thumbnail = "/thumbnails/2019-09-16-GreatDistance Stage.13 BRM915泉佐野200km レポート.jpg";
 ---
 
-<Layout title={title} labels={labels}>
-  <article>
+
     <iframe
       allowtransparency="true"
       frameborder="0"
@@ -181,5 +180,6 @@ const labels = [];
         href="https://blog.great-distance.com/2019/09/greatdistance-stage14.html"
         >14日目のレポートはこちら</a>
     </div>
-  </article>
-</Layout>
+  
+
+</ArticleTemplate></Layout>

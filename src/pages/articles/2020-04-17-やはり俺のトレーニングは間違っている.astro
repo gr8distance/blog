@@ -1,13 +1,12 @@
 ---
-import Layout from "../../../../../layouts/ArticleLayout.astro";
+import Layout from "../../layouts/Layout.astro";
+import { ArticleTemplate } from "../../templates/ArticleTemplate";
 const title = "やはり俺のトレーニングは間違っている";
-const description = "";
-const thumbnail = "";
-const labels = [];
+const category = "CYCLING";
+const thumbnail = "/thumbnails/2020-04-17-やはり俺のトレーニングは間違っている.jpg";
 ---
 
-<Layout title={title} labels={labels}>
-  <article>
+
     <div class="separator" style="clear: both; text-align: center;">
       <a
         href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg125X_dfIxyt52fYN_93WnqPdED2aUTWrOKQxUlftXUWkFrsQ7HC0zQUxTIfLW7GR17It9X-jurFLGwxYKMUkdx_1o_KTfzpdlbk5uDwC5mZacO6ODL9IDMRhkueoINWPnv9__Evwacfs/"
@@ -138,5 +137,6 @@ const labels = [];
     >
       <div class="gtx-trans-icon"></div>
     </div>
-  </article>
-</Layout>
+  
+
+</ArticleTemplate></Layout>

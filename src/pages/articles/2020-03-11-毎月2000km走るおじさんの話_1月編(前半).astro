@@ -1,13 +1,12 @@
 ---
-import Layout from "../../../../../layouts/ArticleLayout.astro";
-const title = "毎月2000km走るおじさんの話 #1月編(前半)";
-const description = "";
-const thumbnail = "";
-const labels = [];
+import Layout from "../../layouts/Layout.astro";
+import { ArticleTemplate } from "../../templates/ArticleTemplate";
+const title = "毎月2000km走るおじさんの話_1月編(前半)";
+const category = "CYCLING";
+const thumbnail = "/thumbnails/2020-03-11-毎月2000km走るおじさんの話_1月編(前半).jpg";
 ---
 
-<Layout title={title} labels={labels}>
-  <article>
+
     12月に2100km走りきれたことで勢いに乗り白浜クリテリウムでの優勝に向けて更にハードなトレーニングに打ち込むことを誓って2020年を迎えました。<br
     />
     <br />
@@ -349,5 +348,6 @@ const labels = [];
     </div>
     <div>長いので一旦このへんで！</div>
     <div>後半はまた別の日に書きナス！</div>
-  </article>
-</Layout>
+  
+
+</ArticleTemplate></Layout>

@@ -1,13 +1,12 @@
 ---
-import Layout from "../../../../../layouts/ArticleLayout.astro";
+import Layout from "../../layouts/Layout.astro";
+import { ArticleTemplate } from "../../templates/ArticleTemplate";
 const title = "✍やる気についての覚書";
-const description = "";
-const thumbnail = "";
-const labels = [];
+const category = "CYCLING";
+const thumbnail = "/thumbnails/2020-12-20-✍やる気についての覚書.jpg";
 ---
 
-<Layout title={title} labels={labels}>
-  <article>
+
     <p>
       <span style="background-color: #eeeeee;"
         >2020年も残り2週間を切った。</span>
@@ -298,5 +297,6 @@ const labels = [];
       <span style="background-color: #eeeeee;"
         >多分ちょくちょくアップデートするんですがまたお酒が入ったらまたいつかやる気の覚書を書いてみようと思います。</span>
     </div>
-  </article>
-</Layout>
+  
+
+</ArticleTemplate></Layout>

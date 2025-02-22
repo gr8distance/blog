@@ -1,13 +1,12 @@
 ---
-import Layout from "../../../../../layouts/ArticleLayout.astro";
+import Layout from "../../layouts/Layout.astro";
+import { ArticleTemplate } from "../../templates/ArticleTemplate";
 const title = "出場予定のレース・イベント(2020)";
-const description = "";
-const thumbnail = "";
-const labels = [];
+const category = "CYCLING";
+const thumbnail = "/thumbnails/2019-11-23-出場予定のレース・イベント(2020).jpg";
 ---
 
-<Layout title={title} labels={labels}>
-  <article>
+
     2019年シーズンも終わったらしいのでここらで一発2020年に参加予定のレース・イベントについてまとめておこうと思います。<br
     />
     <br />
@@ -252,5 +251,6 @@ const labels = [];
     <div>
       単純なロングライドイベントって出たことがないのでエイドステーションでご飯を食べるのが楽しみだったりする
     </div>
-  </article>
-</Layout>
+  
+
+</ArticleTemplate></Layout>

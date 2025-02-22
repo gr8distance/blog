@@ -1,13 +1,12 @@
 ---
-import Layout from "../../../../../layouts/ArticleLayout.astro";
+import Layout from "../../layouts/Layout.astro";
+import { ArticleTemplate } from "../../templates/ArticleTemplate";
 const title = "能勢ライド";
-const description = "";
-const thumbnail = "";
-const labels = [];
+const category = "CYCLING";
+const thumbnail = "/thumbnails/2019-10-05-能勢ライド.jpg";
 ---
 
-<Layout title={title} labels={labels}>
-  <article>
+
     <iframe
       allowtransparency="true"
       frameborder="0"
@@ -132,5 +131,6 @@ const labels = [];
     <div>
       Granfondシリーズという位置づけっぽいので相当山だらけらしいけど楽しく最後までついていけるように頑張ろうと思います!
     </div>
-  </article>
-</Layout>
+  
+
+</ArticleTemplate></Layout>

@@ -1,13 +1,12 @@
 ---
-import Layout from "../../../../../layouts/ArticleLayout.astro";
+import Layout from "../../layouts/Layout.astro";
+import { ArticleTemplate } from "../../templates/ArticleTemplate";
 const title = "Dear Bianchi. Jumbo vismaからのメッセージの書き起こし";
-const description = "";
-const thumbnail = "";
-const labels = [];
+const category = "CYCLING";
+const thumbnail = "/thumbnails/2020-12-18-Dear Bianchi. Jumbo vismaからのメッセージの書き起こし.jpg";
 ---
 
-<Layout title={title} labels={labels}>
-  <article>
+
     <blockquote class="twitter-tweet">
       <p dir="ltr" lang="en">
         Dear Bianchi, it feels like we rode for ages. We made memories far
@@ -163,5 +162,6 @@ const labels = [];
     </p><p><br /></p><p><br /></p><p><br /></p><p>追伸！</p><p>
       だいぶ意訳したんでここが変などありましたら教えて下さい🙏
     </p>
-  </article>
-</Layout>
+  
+
+</ArticleTemplate></Layout>

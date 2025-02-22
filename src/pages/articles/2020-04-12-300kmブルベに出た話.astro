@@ -1,13 +1,12 @@
 ---
-import Layout from "../../../../../layouts/ArticleLayout.astro";
+import Layout from "../../layouts/Layout.astro";
+import { ArticleTemplate } from "../../templates/ArticleTemplate";
 const title = "300kmブルベに出た話";
-const description = "";
-const thumbnail = "";
-const labels = [];
+const category = "CYCLING";
+const thumbnail = "/thumbnails/2020-04-12-300kmブルベに出た話.jpg";
 ---
 
-<Layout title={title} labels={labels}>
-  <article>
+
     新型コロナの大流行で外出自粛の雰囲気が強い(´・ω・｀)<div>
       当然ロングライドもできなくてブログのネタも無いので前々から書きたいと思っていた去年SR取ったときの話を書くよ。
     </div><div><br /></div><div
@@ -455,5 +454,6 @@ const labels = [];
     </div><div>
       ガードレール突撃は本当に命に関わるからみんなも気をつけようね！
     </div>
-  </article>
-</Layout>
+  
+
+</ArticleTemplate></Layout>

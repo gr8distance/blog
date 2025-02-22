@@ -1,13 +1,12 @@
 ---
-import Layout from "../../../../../layouts/ArticleLayout.astro";
+import Layout from "../../layouts/Layout.astro";
+import { ArticleTemplate } from "../../templates/ArticleTemplate";
 const title = "お礼参りライド　熊野古道ヒルクライム1日前";
-const description = "";
-const thumbnail = "";
-const labels = [];
+const category = "CYCLING";
+const thumbnail = "/thumbnails/2019-11-02-お礼参りライド　熊野古道ヒルクライム1日前.jpg";
 ---
 
-<Layout title={title} labels={labels}>
-  <article>
+
     <iframe
       allowtransparency="true"
       frameborder="0"
@@ -217,5 +216,6 @@ const labels = [];
     目標は65分を切りたい所存だが実際は70分台になってしまいそうだ。 9月の肉体強化でどこまで走れるようになったのかが試される
     喜ばしい結果を得られるのか、それとも壁の大きさを痛感するのかは明日、レースが終わってみないとわからない。
     明日のレースのレポートを書くとき自分の指が踊っていることを願わんばかりである。
-  </article>
-</Layout>
+  
+
+</ArticleTemplate></Layout>

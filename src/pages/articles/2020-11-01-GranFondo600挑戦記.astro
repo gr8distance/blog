@@ -1,13 +1,12 @@
 ---
-import Layout from "../../../../../layouts/ArticleLayout.astro";
+import Layout from "../../layouts/Layout.astro";
+import { ArticleTemplate } from "../../templates/ArticleTemplate";
 const title = "GranFondo600挑戦記";
-const description = "";
-const thumbnail = "";
-const labels = [];
+const category = "CYCLING";
+const thumbnail = "/thumbnails/2020-11-01-GranFondo600挑戦記.jpg";
 ---
 
-<Layout title={title} labels={labels}>
-  <article>
+
     <iframe
       allowtransparency="true"
       frameborder="0"
@@ -1825,5 +1824,6 @@ const labels = [];
       async=""
       charset="utf-8"
       src="https://platform.twitter.com/widgets.js"></script>
-  </article>
-</Layout>
+  
+
+</ArticleTemplate></Layout>

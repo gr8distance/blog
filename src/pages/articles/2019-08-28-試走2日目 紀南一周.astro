@@ -1,13 +1,12 @@
 ---
-import Layout from "../../../../../layouts/ArticleLayout.astro";
+import Layout from "../../layouts/Layout.astro";
+import { ArticleTemplate } from "../../templates/ArticleTemplate";
 const title = "試走2日目 紀南一周";
-const description = "GreatDistanceのメインコースは紀南地方になるのでまずはここを走れなければ";
-const thumbnail = "/images/thumbnails/2019/08/28/day2-1.jpg";
-const labels = ["Greatdistance", "試走"];
+const category = "CYCLING";
+const thumbnail = "/thumbnails/2019-08-28-試走2日目 紀南一周.jpg";
 ---
 
-<Layout title={title} labels={labels}>
-  <article>
+
     <h3>
       <iframe
         allowtransparency="true"
@@ -228,5 +227,6 @@ const labels = ["Greatdistance", "試走"];
         <span style="font-weight: normal;">長い一日でした</span>
       </div>
     </h3>
-  </article>
-</Layout>
+  
+
+</ArticleTemplate></Layout>

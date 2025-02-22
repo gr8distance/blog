@@ -1,13 +1,12 @@
 ---
-import Layout from "../../../../../layouts/ArticleLayout.astro";
-const title = "毎月2000km走るおじさんの話 #完走した感想";
-const description = "";
-const thumbnail = "";
-const labels = [];
+import Layout from "../../layouts/Layout.astro";
+import { ArticleTemplate } from "../../templates/ArticleTemplate";
+const title = "毎月2000km走るおじさんの話_完走した感想";
+const category = "CYCLING";
+const thumbnail = "/thumbnails/2020-03-21-毎月2000km走るおじさんの話_完走した感想.jpg";
 ---
 
-<Layout title={title} labels={labels}>
-  <article>
+
     <table
       align="center"
       cellpadding="0"
@@ -506,5 +505,6 @@ const labels = [];
     </div>
     <div>うーん</div>
     <div>2000km走っても根性は鍛えられないということか...🤔</div>
-  </article>
-</Layout>
+  
+
+</ArticleTemplate></Layout>

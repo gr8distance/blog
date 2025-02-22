@@ -1,13 +1,12 @@
 ---
-import Layout from "../../../../../layouts/ArticleLayout.astro";
-const title = "地道に強くなるロードバイクトレーニング #スタート前";
-const description = "";
-const thumbnail = "";
-const labels = [];
+import Layout from "../../layouts/Layout.astro";
+import { ArticleTemplate } from "../../templates/ArticleTemplate";
+const title = "地道に強くなるロードバイクトレーニング_スタート前";
+const category = "CYCLING";
+const thumbnail = "/thumbnails/2020-04-01-地道に強くなるロードバイクトレーニング_スタート前.jpg";
 ---
 
-<Layout title={title} labels={labels}>
-  <article>
+
     <h3>
       <span style="color: #242428;"
         ><span style="background-color: white; font-size: 18px;"><br /></span
@@ -201,5 +200,6 @@ const labels = [];
     <div>
       <br />
     </div>
-  </article>
-</Layout>
+  
+
+</ArticleTemplate></Layout>

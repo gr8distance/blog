@@ -3,9 +3,9 @@ export class AuthorEvent {
     public id: string,
     public date: string,
     public title: string,
-    public type: "race" | "brevet" | "future",
+    public type: string,
     public description?: string,
-  ) {}
+  ) { }
 
   static fromJSON(json: any): AuthorEvent {
     return new AuthorEvent(json.id, json.date, json.title, json.type, json.description)
@@ -33,4 +33,3 @@ export interface Author {
     bluesky?: string
   }
 }
-

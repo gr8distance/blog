@@ -26,4 +26,3 @@ export function AuthorTemplate({ author, events }: AuthorTemplateProps) {
     </div>
   )
 }
-

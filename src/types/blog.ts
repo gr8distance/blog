@@ -13,3 +13,11 @@ export interface TimelineTemplateProps {
   onLoadMore: () => void
 }
 
+export interface AuthorTemplateProps {
+  posts: BlogPost[]
+}
+
+export interface ArticleTemplateProps {
+  post: BlogPost
+  content: any // Astroのコンテンツコンポーネントの型
+}

@@ -1,4 +1,3 @@
-import Image from "next/image"
 import { Twitter, Github } from "lucide-react"
 
 interface AuthorProfileProps {
@@ -13,11 +12,11 @@ interface AuthorProfileProps {
   }
 }
 
-export function AuthorProfile({ name, bio, avatar, links }: AuthorProfileProps) {
+export function AuthorProfile({ name, bio, links }: AuthorProfileProps) {
   return (
     <div className="bg-white rounded-lg shadow-md p-6">
       <div className="flex items-center space-x-4">
-        <Image src={avatar || "/placeholder.svg"} alt={name} width={80} height={80} className="rounded-full" />
+        <img src={"/placeholder.svg"} alt={name} width={80} height={80} className="rounded-full" />
         <div>
           <h2 className="text-2xl font-bold">{name}</h2>
           <p className="text-gray-600">{bio}</p>
@@ -72,4 +71,3 @@ export function AuthorProfile({ name, bio, avatar, links }: AuthorProfileProps) 
     </div>
   )
 }
-

@@ -29,7 +29,7 @@ export function TimelineTemplate({ posts, hasMore, onLoadMore }: TimelineTemplat
               }
             >
               {posts.map((post, index) => (
-                <TimelineItem key={post.id} {...post} date={formatDate(post.date)} index={index} />
+                < TimelineItem key={post.id} {...post} date={formatDate(post.date)} index={index} />
               ))}
             </InfiniteScroll>
           </div>

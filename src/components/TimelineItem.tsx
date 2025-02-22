@@ -6,7 +6,7 @@ interface TimelineItemProps extends BlogPost {
   index: number
 }
 
-export function TimelineItem({ date, title, content, thumbnail, category, index }: TimelineItemProps) {
+export function TimelineItem({ id, date, title, content, thumbnail, category, index }: TimelineItemProps) {
   const isEven = index % 2 === 0
 
   const colors = [
@@ -16,14 +16,7 @@ export function TimelineItem({ date, title, content, thumbnail, category, index 
   ]
 
   const backgroundColor = colors[index % colors.length]
-
-  // Convert title to slug
-  const slug = title
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/(^-|-$)/g, "")
-
-  const articleUrl = `/articles/${slug}`
+  const articleUrl = `/articles/${id}`
 
   return (
     <div className={`flex items-center mb-8 ${isEven ? "md:flex-row-reverse" : "md:flex-row"}`}>
@@ -54,4 +47,3 @@ export function TimelineItem({ date, title, content, thumbnail, category, index 
     </div>
   )
 }
-

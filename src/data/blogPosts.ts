@@ -7,13 +7,14 @@ const blogPosts = () => {
   const blogPosts = fs.readdirSync(blogPostsDir).filter((post) => post.endsWith(".astro"))
   return blogPosts.map((post) => {
     const id = post.split(".")[0]
-    const title = post.split("-")[3].split(".")[0]
-    const date = post.split("-")[0] + "-" + post.split("-")[1] + "-" + post.split("-")[2]
+    const dateMatch = post.match(/^(\d{4}-\d{2}-\d{2})-/)
+    const date = dateMatch ? dateMatch[1] : ""
+    const title = post.replace(/^\d{4}-\d{2}-\d{2}-/, "").replace(".astro", "")
     const content = fs.readFileSync(path.join(blogPostsDir, post), "utf8")
     const thumbnailMatch = content.match(/const thumbnail = .*/)
     const thumbnail = thumbnailMatch ? thumbnailMatch[0].split("=")[1].trim().split("\"")[1].split("\"")[0] : "/thumbnails/placeholder.svg"
-    const labelMatch = content.match(/const labels = .*/)
-    const labels = labelMatch ? labelMatch[0].split("=")[1].trim() : "CYCLING"
+    const categoryMatch = content.match(/const category = .*/)
+    const category = categoryMatch ? categoryMatch[0].split("=")[1].trim().split("\"")[1].split("\"")[0] : "未分類"
 
     return {
       id: id,
@@ -21,9 +22,8 @@ const blogPosts = () => {
       title: title,
       content: "",
       thumbnail: thumbnail,
-      labels: labels
+      category: category
     }
-
   }).reverse()
 }
 

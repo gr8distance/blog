@@ -4,7 +4,7 @@ export interface BlogPost {
   title: string
   content: string
   thumbnail: string
-  category?: "CYCLING" | "LIFE"
+  category: string
 }
 
 export interface TimelineTemplateProps {

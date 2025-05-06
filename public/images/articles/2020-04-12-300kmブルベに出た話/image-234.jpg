@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head prefix='og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# ridewithgps: http://ogp.me/ns/fb/ridewithgps#'>
+<title>Ride with GPS | Bike Route Planner and Cycling Navigation App</title>
+<meta content='text/html; charset=utf-8' http-equiv='Content-type'>
+<meta content='width=device-width, initial-scale=1.0' name='viewport'>
+<meta content='Discover your next great ride in our library of the best bike routes in the world. An easy to use platform that has everything you need for cycling.' name='description'>
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="6WgCjyshtfrRwlJ7d-s_7TfdHjhRCcGO9NYblxdkgWXUrb05gywk67V1LY0knZDHcrJVyAKTH1XMLlfbBq_Wrg" />
+<link href='https://ridewithgps.com/embeds?lang=de' hreflang='de' rel='alternate'>
+<link href='https://ridewithgps.com/embeds?lang=en' hreflang='en' rel='alternate'>
+<link href='https://ridewithgps.com/embeds?lang=es' hreflang='es' rel='alternate'>
+<link href='https://ridewithgps.com/embeds?lang=fr' hreflang='fr' rel='alternate'>
+<link href='https://ridewithgps.com/embeds?lang=it' hreflang='it' rel='alternate'>
+<link href='https://ridewithgps.com/embeds?lang=ja' hreflang='ja' rel='alternate'>
+<link href='https://ridewithgps.com/embeds?lang=nl' hreflang='nl' rel='alternate'>
+<link href='/apple-touch-icon.png?2000000008' rel='apple-touch-icon' sizes='180x180'>
+<link href='/favicon-32x32.png?2000000008' rel='icon' sizes='32x32' type='image/png'>
+<link href='/favicon-16x16.png?2000000008' rel='icon' sizes='16x16' type='image/png'>
+<link href='/manifest.json?2000000008' rel='manifest'>
+<link color='#000000' href='/safari-pinned-tab.svg?2000000008' rel='mask-icon'>
+<meta content='#000000' name='theme-color'>
+<meta content='253239687628' property='fb:app_id'>
+<meta content='https://ridewithgps.com/embeds' property='og:url'>
+<meta content='https://ridewithgps.com/images/revised_layout/logo-og-image.png' property='og:image'>
+<meta content='@ridewithgps' name='twitter:site'>
+<meta content='' name='twitter:title'>
+<meta content='Discover your next great ride in our library of the best bike routes in the world. An easy to use platform that has everything you need for cycling.' name='twitter:description'>
+<meta content='app' name='twitter:card'>
+<meta content='Ride with GPS' name='twitter:app:name:googleplay'>
+<meta content='com.ridewithgps.mobile' name='twitter:app:id:googleplay'>
+<meta content='Ride with GPS' name='twitter:app:name:iphone'>
+<meta content='893687399' name='twitter:app:id:iphone'>
+<meta content='Ride with GPS' name='twitter:app:name:ipad'>
+<meta content='893687399' name='twitter:app:id:ipad'>
+<meta content='app-id=893687399' name='apple-itunes-app'>
+
+
+<link href='/.well-known/manifest.manifest' rel='manifest'>
+<link href='/stylesheets/sample_graph.css' rel='stylesheet' type='text/css'>
+<script type='text/javascript'>
+  (function(d) {
+    var config = {
+      kitId: 'yny6lnd',
+      scriptTimeout: 3000,
+      async: true
+    },
+    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document)
+</script>
+
+<link href='/stylesheets/postcards/postcard.css' rel='stylesheet' type='text/css'>
+  <script>
+  window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+  ga('create', 'UA-3033335-1', 'auto');
+  ga('send', 'pageview');
+  </script>
+  <script async src='https://www.google-analytics.com/analytics.js'></script>
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-6YLEX65R10"></script>
+  <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-6YLEX65R10');
+  </script>
+
+<style>
+  #launcher { display: none; }
+</style>
+<script>
+  window.afterZDLoad = function(fn) {
+    if (window._ZDLoaded) {
+      fn();
+    } else {
+      if (!window._ZDLoadFns) window._ZDLoadFns = [];
+      window._ZDLoadFns.push(fn);
+    }
+  }
+  window.onZDLoad = function() {
+    if (!window.zE) return;
+    window._ZDLoaded = true;
+    while(window._ZDLoadFns && window._ZDLoadFns.length > 0) {
+      (window._ZDLoadFns.pop())();
+    }
+  }
+</script>
+<script>
+  afterZDLoad(function() {
+    zE('webWidget:on', 'chat:status', function(status) {
+      if (status === 'online') {
+        window.rwgps.config.zendeskChatEnabled = true;
+      } else if (status === 'offline') {
+        window.rwgps.config.zendeskChatEnabled = false;
+      }
+    })
+  })
+</script>
+<script async id="ze-snippet" onload="onZDLoad()" src="https://static.zdassets.com/ekr/snippet.js?key=4c6c09c0-d38a-4b09-bd02-6549697268bd"></script>
+
+
+
+</head>
+<body>
+<script>
+  window.rwgps = {}
+  window.translationsToLoad = {"add_photos":"Add photos","something_went_wrong":"Something went wrong, please try again. Contact us if the problem persists.","forgot_password_prompt":"Don't worry, it happens to the best of us.  What's your email address?","delete_confirmation":"Are you sure you want to delete this?","remembered_success":"Successfully pinned this item!","success":"Success","bike_paths":"Bike Paths","bike_paths_desc":"Enable bike path overlays","name":"Name","type":"Type","notes":"Notes","description":"Description","save":"Save","delete":"Delete","cancel":"Cancel","view":"View","remove":"Remove","edit":"Edit","url":"URL","route_to_poi":"Route to POI","add_to_library":"Add to POI Library","update_in_library":"Update POI in Library","save_as_new_poi":"Save as new POI in Library","sort_by":"Sort by","distance":"Distance","date":"Date","distance.meters":{"zero":"0 meters","one":"1 meter","other":"%{count} meters"},"distance.feet":{"zero":"0 feet","one":"1 foot","other":"%{count} feet"},"distance.km":{"zero":"0 km","one":"1 km","other":"%{count} km"},"distance.miles":{"zero":"0 miles","one":"1 mile","other":"%{count} miles"},"yes":"Yes","no":"No","routes":"routes","new":"new","show_photos":{"one":"%{count} photo. Click to show","other":"%{count} photos. Click to show"},"attribution":"Attribution","view_link":"View your route here","elevation":"Elevation","elevation_gain":"Elevation Gain","elevation_loss":"Elevation Loss","click_for_details":"Click for details","save_in_map":"Save in this map","remove_from_map":"Remove from map","route_to_point":"Add to route","want_as_first_point":"Do you want this to be your start point?","want_to_route_here":"Do you want to route to this point?","restricted":"Restricted","cuesheet_types":{"Left":"Left","Right":"Right","Slight Left":"Slight Left","Slight Right":"Slight Right","Sharp Left":"Sharp Left","Sharp Right":"Sharp Right","Straight":"Straight","Uturn":"U Turn","Summit":"Summit","Valley":"Valley","Water":"Water","Food":"Food","Danger":"Danger","First Aid":"First Aid","Control":"Control","Climb":"Climb","4th Category":"4th Category","3rd Category":"3rd Category","2nd Category":"2nd Category","1st Category":"1st Category","Hors Category":"Hors Category","Sprint":"Sprint","Generic":"Generic"},"route_name_required":"Please provide a name for this route","poi_name_required":"Please provide a name for this POI","logged_in_as":"Currently logged in as","caption":"Caption","sample_graph.distance_in":"distance in","sample_graph.time_from_start":"time from start","sample_graph.switch_to":"switch to","sample_graph.time":"time","sample_graph.distance":"distance","sample_graph.miles":"miles","sample_graph.km":"km","sample_graph.ele":"ele","sample_graph.grade":"grade","sample_graph.hr":"hr","sample_graph.cad":"cad","sample_graph.speed":"speed","sample_graph.watts":"watts","sample_graph.temp":"temp","sample_graph.bpm":"bpm","sample_graph.rpm":"rpm","sample_graph.percent":"%","sample_graph.m":"m","sample_graph.ft":"ft","sample_graph.kph":"kph","sample_graph.mph":"mph","sample_graph.deg_c":"°C","sample_graph.deg_f":"°F","sample_graph.click_to_zoom_out":"click on the graph to zoom out","sample_graph.drag_to_zoom_in":"drag to zoom in","sample_graph.on_drag":"on drag","sample_graph.zoom_in":"zoom in","sample_graph.select_segment":"select segment","sample_graph.surface":"surface","sample_graph.surfaces":"surfaces","related_routes":"Related routes","hide_marker":"Hide marker"};
+  window.activeRWNamespace = 'embeds.index';
+</script>
+<script>
+window.rwgpsNSData = [];
+window.rwgpsNSData.push(['embeds.index', {"userDateFormat":"mdy"}]);
+window.rwgpsNSData.push(['config', {"features_withheld_on_restricted":{},"privileges":{},"currentUser":{"preferences":{"metric_units":false}},"analyticsUserProperties":{"experiments":["send_js_errors_to_sentry","trsp_redesign","create_waypoints","mobile_onboarding_trial_upsell","new_homepage","alt_homepage","new_routing_options_4button","updated_mrp_experience_trays","community_poi_layer","planner_org_heatmaps","2024_planner_icons","updated_mrp_experience_trays_ios","explore_highlights"]},"labs":{"fit_export":true,"rsp_redesign":true,"pinned_in_searchbar":true,"smart_export":true,"mobile_home_redesign":true,"can_see_homepage_opt_in":true,"send_js_errors_to_sentry":true,"strava_sync":true,"relive_sync":true,"trsp_redesign":true,"varia":true,"route_planner":true,"app_home_v3":true,"prevent_sticky_gmaps":true,"surface_types":true,"new_logging_service":true,"new_search_results":true,"kaboom":true,"zd_chat":true,"personal_explore_web":true,"mobile_explore_filters":true,"inspect_promo":true,"watch_auto_pause":true,"remove_find_filters":true,"fast_auto_pause":true,"personal_explore_mobile_map":true,"mobile_choice":true,"personal_routes_explore_web":true,"inspect_in_planner":true,"pew_photos":true,"reviews_in_comments":true,"personal_explore_mobile_location":true,"reviews_menu_item":true,"Personal Explore Mobile Inspect":true,"fb_migration":true,"fb_migration_save":true,"fb_removal_mobile":true,"fb_removal_web":true,"Heatmap Upsell":true,"web_hide_basic":true,"Personal Explore Mobile Promo":true,"rwgps_cycle_takeover":true,"mapbox_planner":true,"web_explore":true,"push_on_ride_sync":true,"mobile_zd_chat":true,"ios_premium_push":true,"upload_page_redesign":true,"global_search_ng":true,"org_upload_redesign":true,"apps_disable_auto_record":true,"streetview_on_space":true,"set_home_location_modal":true,"map_layers":true,"explore_hover_name_only":true,"create_waypoints":true,"explore_club_suggestion":true,"trsp_explore_more":true,"explore_autochoose":true,"new_mobile_onboarding_experience":true,"s2d_hammerhead":true,"settings_privacy_tab":true,"region_content_portal":true,"change_start_release":true,"map_layers_sticky":true,"s2d_use_hammerhead_production":true,"unpaved_surfaces_layer":true,"mobile_onboarding_trial_upsell":true,"private_contributions_card":true,"signup_modal_trial_prompt":true,"new_signup_and_trial_modal":true,"samsung_battery_warning":true,"new_login_modal":true,"new_routing_options_toggle":true,"new_homepage":true,"share_modal_v2":true,"alt_homepage":true,"new_routing_options_4button":true,"updated_mrp_experience_trays":true,"web_collaborations":true,"community_poi_layer":true,"planner_org_heatmaps":true,"2024_planner_icons":true,"trsp_save_menu":true,"require_account_for_planner":true,"updated_mrp_experience_trays_ios":true,"web_collaborations_collections":true,"web_collections_in_library":true,"route_update_notification":true,"event_trsp":true,"explore_highlights":true},"authenticityToken":"t8XMP4KlYbzDHpAcmcHfWLQL0_W0jK4IQMjcypfJ_FGKAHOJKqjwraep7-rKt3By8WSYBecWcNN4MJCGhgKrmg","sessionKeyName":"_rwgps_3_session","sessionKeyValue":"","facebookAppId":253239687628,"gmapsApiKey":"client=gme-ridewithgps","language":"en","locale":"en","availableLocales":["de","en","es","fr","it","ja","nl"],"showGcrc":true}]);
+window.rwgpsNSData.push(['LabelMaker', {"metric":false}]);
+</script>
+<script>
+//<![CDATA[
+window.webpackManifest = {"1":"trips-log-with-gc-4a80f4a93a078eb047d3-bundle.js","2":"trips-garmin_sync-1445777c0b40a83fd9bc-bundle.js","3":"small_pages-e475d9a771fb3c58dd47-bundle.js","4":"routes-show-6b762b7f76e4d7e61f70-bundle.js","5":"activities-index-8d81eb7dde38293a9069-bundle.js","6":"clubs-show-f8b735b29c5b5e61d5a7-bundle.js","7":"admin_pages-692333d57cc519cfb6a2-bundle.js","8":"pages_with_map_and_graph-a0651d85a57594278731-bundle.js","9":"pages-admin-5a7ceee9980505b965c5-bundle.js","10":"pages_with_jquery_ui-80cb49671a4dbb876ad5-bundle.js","11":"events-show-23778a17b5613dda4b94-bundle.js","12":"events-manageParticipants-b43abc274ec33604cbc6-bundle.js","13":"ambassadors-map-7eec03095d70ad238f66-bundle.js","14":"routes-threedee-b74982b1ce27d9f838ea-bundle.js","15":"regions-admin-d07f5e8c838e0cb8e240-bundle.js","16":"groups-show-3ddc22a3cdb325e951b7-bundle.js","17":"routes-user_index-68bd65e6e51b23ebf00e-bundle.js","18":"pages-api-e6b04767c3b008978364-bundle.js","19":"trips-log-e5b26abd0d17ad5b8e6a-bundle.js","20":"trips-edit-a50c2374b7a16994a15e-bundle.js","21":"clubs-admin-090866922d6ecf1ec02a-bundle.js","22":"ambassadors-index-fd8b332d0e720cd0f044-bundle.js","23":"activities-user_index-05da4f3d73dd8fa95126-bundle.js","24":"users-feature_flags-010ed0bf43e9218dcee7-bundle.js","25":"segments-show-3206c0dba509d24f04a7-bundle.js","26":"routes-printmap-246fe7dff1b423a3712a-bundle.js","27":"routes-embed-ba9b6952499b9d165b9b-bundle.js","28":"livelogs-current-2a8552bc83632dc0668e-bundle.js","29":"ambassadors-show-22d3d1e0be278c90599a-bundle.js","30":"ambassador_routes-show-da62c6325a606f7f177c-bundle.js","31":"ambassador_routes-embed-fc6e4ad6c2e59244b6df-bundle.js","32":"minimal-af91ff211950e752788b-bundle.js","33":"embeds-index-9cf3e00e61a3eaa14173-bundle.js","34":"core-reqs-06e17d160530da707a29-bundle.js"}
+//]]>
+</script>
+<script src="/javascripts/polyfill.min.js?2"></script>
+<script src="/dist/common-8975d24ddece5da9d142-bundle.js?2"></script>
+<script src='/javascripts/translations.js'></script>
+<script src="/dist/core-reqs-06e17d160530da707a29-bundle.js?2"></script>
+<script>
+  window.rwgps.surfaces = {}
+  window.rwgps.surfaces.stInfer = [[-90,-180,90,180,{"0":8,"1":8,"2":8,"3":8,"4":8,"5":8,"6":8,"7":8,"8":8,"9":8,"10":8,"11":8,"12":8,"13":8,"14":8,"15":70,"16":99,"17":99,"18":99,"19":99,"20":8,"21":70,"22":70,"23":99,"24":99,"25":70,"28":8,"36":99,"37":8}]]
+  window.rwgps.surfaces.groupedSurfaces = {"paved":{"0":"paved","1":"asphalt","2":"chipseal","3":"concrete","4":"concrete:lanes","5":"concrete:plates","6":"paving_stones","7":"sett","8":"paved_unknown"},"unpaved":{"49":"unpaved","50":"clay","51":"unhewn_cobblestone","52":"cobblestone","53":"metal","54":"wood","55":"stepping_stones","56":"unpaved","57":"compacted","58":"fine_gravel","59":"gravel","60":"rock","61":"pebblestone","62":"ground","63":"dirt","64":"earth","65":"grass","66":"grass_paver","67":"mud","68":"sand","69":"woodchips","70":"unpaved_unknown"},"unknown":{"92":"carpet","93":"acrylic","94":"metal_grid","96":"snow","97":"ice","98":"salt","99":"unknown"}}
+  window.rwgps.surfaces.surfaceGroups = {"0":"paved","1":"paved","2":"paved","3":"paved","4":"paved","5":"paved","6":"paved","7":"paved","8":"paved","49":"unpaved","50":"unpaved","51":"unpaved","52":"unpaved","53":"unpaved","54":"unpaved","55":"unpaved","56":"unpaved","57":"unpaved","58":"unpaved","59":"unpaved","60":"unpaved","61":"unpaved","62":"unpaved","63":"unpaved","64":"unpaved","65":"unpaved","66":"unpaved","67":"unpaved","68":"unpaved","69":"unpaved","70":"unpaved","92":"unknown","93":"unknown","96":"unknown","97":"unknown","98":"unknown","99":"unknown","94":"unknown"}
+  
+  let rwgps = window.rwgps;
+  
+  rwgps.ns("Events", window.Backbone.Events);
+  if (window.activeRWNamespace) {
+    rwgps.activeNs = rwgps.ns(window.activeRWNamespace);
+  }
+  if (window.rwgpsNSData) {
+    window.rwgpsNSData.forEach(function (keyVal) {
+      rwgps.ns(keyVal[0], keyVal[1]);
+    });
+  }
+</script>
+
+<style>
+  html, body, #ridewithgps-embed { height: 100% }
+</style>
+<div id='ridewithgps-embed'></div>
+<script>
+//<![CDATA[
+window.RWGPS_UI_VERSION_STRING = "1192db7e5";
+//]]>
+</script><script src="https://d20w1ewfu2hd2w.cloudfront.net/1192db7e5-embed.bundle.js" crossorigin="anonymous"></script>
+
+</body>
+</html>

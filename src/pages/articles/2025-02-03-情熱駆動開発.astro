@@ -1,0 +1,137 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import { ArticleTemplate } from "../../templates/ArticleTemplate";
+const title = "情熱駆動開発";
+const category = "プログラミング";
+const thumbnail = "/thumbnails/情熱駆動開発.jpg";
+---
+
+<Layout title={title}>
+  <ArticleTemplate
+    title={title}
+    thumbnail={thumbnail}
+    date={"2025-02-03"}
+    category={category}
+  >
+    <div class="article-content">
+      <h4 style="text-align: left;">前書き</h4><p>
+        去年Zennさんに<a
+          href="https://zenn.dev/gr8distance/articles/4808f0c63ae5ed"
+          style="font-weight: bold;">[今年最大の挑戦]</a
+        >というタイトルで記事を書きました。
+      </p><p>
+        その記事の中で長年利用してきたEmacsという素晴らしいファイル編集アプリケーション(いや環境というべきか)からvscodeというモダンなファイル編集ソフトへの引越しをした理由を説明してました。
+      </p><p>クリティカルな部分だけを掻い摘んでここに書くと、</p><p></p><ul
+        style="text-align: left;"
+      >
+        <li>開発の世界にはAIの波がめちゃくちゃきている</li><li>
+          Emacsは最強だけどAIの波に乗るにはvscodeは最低ライン
+        </li><li>すぐに人間はAIに追い抜かれる</li><li>
+          だから変えるんだvscodeに
+        </li>
+      </ul><p></p><p>
+        こんな感じ。長年使って手に馴染んだ、自分の手そのもののEmacsからvscodeに移る決意をして移っていったわけです。
+      </p><p>
+        今年に入り、まだ1月も終わらない状況でありながら、すでに私はAIを使ってプログラムを生成してシステムを開発(仕事以外)しています。
+      </p><p>
+        そしてAIを利用することで人間の疲労感はそのままに凄まじい量のシステムが生成される体験を開発体験が変わっていくことを確信したのでした。
+      </p><p><br /></p><h3 style="text-align: left;">
+        <i>イカれたメンバー紹介するぜ！</i>
+      </h3><h4 style="text-align: left;"><i>ChatGPT(o1/4o)</i></h4><p
+        style="text-align: left;"
+      >
+        おそらくはChatGPT3.5の登場が良くも悪くも世界的な変革の幕開けだったような気がします。
+      </p><p style="text-align: left;">
+        GPT3.5ですら賢いです。初めて利用してすぐに課金しました。今では考えをまとめる時、相談するとき、調べ物するときのファーストチョイスになっている部分も多いです。
+      </p><p style="text-align: left;">
+        最近友達がトレーニングログの分析でChatGPTを使い始めてさらにその賢さに驚愕しています。
+      </p><p style="text-align: left;">
+        トレーニング面で言うと、一般的なことしか語らないコーチならChatGPTで十分なのではないか？とさえ思わされてしまうところです。
+      </p><p style="text-align: left;"><br /></p><h4 style="text-align: left;">
+        <i>GitHub Copilot</i>
+      </h4><p style="text-align: left;">
+        昔はEmacsからでも利用できたのですが今は主にvscodeから利用しています。
+      </p><p style="text-align: left;">
+        プログラミングをする際の補助役(副機長)になるAIツールですが、簡単なコードであればCopilotが勝手に生成してくれます。最近はcopilotがAIを指すのか私を指しているのかよくわかりません。
+      </p><p style="text-align: left;">
+        最初は簡単な利用しかしていなかったり、あまり補助が効かない言語を使っていたりしていたのですが、最近は補助がしっかり効く言語を利用し始めたこともあり、開発の大部分をCopilotに委ねています。
+      </p><p style="text-align: left;">
+        もちろんCopilotだけでは完結できない部分もあって、そういった部分は自分が解決するのですが、一人でしていたら最初から対応する必要があります。脳のリソースは一日に取り組める作業量の限界が決まっていると考えているので、つまらないタスクも面白いタスクでもリソース自体は消費されます。
+      </p><p style="text-align: left;">
+        Copilotは僕の脳のリソースを温存してくれるのでどうにもならない部分だけCopilotを補助することで生産できるコード量が増えたと思います。
+      </p><p style="text-align: left;">
+        この体験をした時に僕というAIと比べて消耗する開発者はいずれどうなっていくのだろう？と考えるようになりました。
+      </p><p style="text-align: left;"><br /></p><h4 style="text-align: left;">
+        <i>v0</i>
+      </h4><p style="text-align: left;">イカれたメンバーの真打はv0です。</p><p
+        style="text-align: left;"
+      >
+        どういったものかというと、Webデザインと実装をやってくれます。
+      </p><p style="text-align: left;">
+        こんな感じのデザインのサイトをデザインしてよというと、だいたい思ったものが作られます。もっと言うと、僕の予想よりずっと良いものを作ってくれます。
+      </p><p style="text-align: left;">
+        僕はWeb系の開発を始めてこの方デザインが苦手。本当に苦手でフロントエンド開発にはなるべく近づかないようにしていたのですがv0のおかげで困らなくなりつつあります。
+      </p><p style="text-align: left;">
+        いろいろな作ってみたいサービスのアイデアは頭の中にたくさんあるのですが、その大半はデザインで詰まってしまいます。v0はこの部分、現実と空想の中間を取り持つAIとして僕の中で最も熱い存在になりつつあります。
+      </p><p style="text-align: left;"><br /></p><h4 style="text-align: left;">
+        AI...
+      </h4><p style="text-align: left;">
+        イカれたメンバー紹介で書いたように人間には体力があり、頭を使うと消耗します。
+      </p><p style="text-align: left;">
+        人間には活動時間の限界があり、限界に近づくと品質が下がってきます。
+      </p><p style="text-align: left;">
+        AIはどうなんでしょうか？もしかしたら人間と同じように品質が下がる時もあるのかもですが、今のところ一定のレベルで活動してくれています。
+      </p><p style="text-align: left;">
+        もちろんAIは疲れ知らずではありますが一方で世間知らずではあるので、できないこともまだまだあるのですが僕が補っていくことで完全性が高まっています。この場合は僕が完全に近づいたのかもしれませんが。
+      </p><p style="text-align: left;">
+        今までは良くも悪くも、楽しくても苦しくても開発者が手を動かすしかなかったので私のようなものでも仕事として開発ができたのですが、これからAIが本格稼働していくとどうなっていくのだろう？という漠然とした恐れはないこともないです。
+      </p><h4 style="text-align: left;"><br /></h4><h4
+        style="text-align: left;"
+      >
+        AIで思うことなど
+      </h4><p style="text-align: left;">
+        ここ数年は「エンジニア転職」というハーメルンの笛の音のようなワードで他業種から開発の世界へ飛び込んでしまう方を幾度もみてきました。
+      </p><p style="text-align: left;">
+        他業種で立派なキャリアを歩まれた方から人生一発逆転を賭けて勉強されている方まで、背景は様々ですが、皆一様に少なくないお金を使ってプログラミング習得をして業界へ入ってきます。
+      </p><p style="text-align: left;">
+        そう言った方々は決まり文句として業界で下積みして転職してキャリアアップという計画を語っているわけですが、今のAIはそう言った方が下積みと語る仕事を軒並み食ってしまうと思います。
+      </p><p style="text-align: left;">
+        今でさえそれなので、数年もすれば私のようなキャリアの人間の仕事も食われてしまうのかもしれませんし、あるいはAIを使役する役割としてファウンダーとAIの中間の仕事を取り持つのかもしれません。
+      </p><p style="text-align: left;"><br /></p><h4>情熱駆動開発</h4><p
+        style="text-align: left;"
+      >
+        AIが僕と開発の関わりを変えてくれる。一人の開発者として僕が世に送り出せるサービスの総数は脳のリソースの限界と等しい。
+      </p><p style="text-align: left;">
+        AIがいるおかげで僕は脳のリソースを保ったままより多くのサービスを世に送り出せる。
+      </p><p style="text-align: left;">
+        今までの個人開発では締切を設けて脳のリソースを使うことを強制する<b
+          >締切駆動開発</b
+        >やみんなで集まって開発する<b>もくもく会</b
+        >など、自分の脳のリソースをいかに使うかに焦点が置かれていた。
+      </p><p style="text-align: left;">
+        AIツールは脳のリソース消費の代替だ。だとしたらこれからの個人開発はそこから一歩前に踏み出して考える必要がある。
+      </p><p style="text-align: left;">
+        僕はこれは<b>情熱じゃないか？</b
+        >と思う。自分を突き動かしてしまうだけの熱量を持ったアイデアが頭に入っているのであれば、AIを駆使して開発する。
+      </p><p style="text-align: left;">
+        もう締切に追われて開発を始めるような必要はない。心が欲するものをAIに伝えるだけ。AIに伝えることができればAIはそれに近いものを作ってくれる。あとは人間が画竜点睛する。
+      </p><p style="text-align: left;">
+        情熱が開発の原点になる。そんな気がする。
+      </p><p style="text-align: left;">
+        <br />
+      </p><h4 style="text-align: left;">あとがき</h4><div>
+        <p>
+          Emacsは僕の手そのものだった。今度はその手でAIという手足の延長を手に入れた。
+        </p>
+      </div><div><br /></div><p style="text-align: left;">
+        僕はもともと作りたいサービスがあるからといってプログラミングの世界に飛び込んだ。
+      </p><p style="text-align: left;">
+        まだ二十歳の頃に少ないお給料をかき集めてMacBookを買って、仕事でクタクタになった後に数年勉強して...というのが今のキャリアの礎になってる。
+      </p><p style="text-align: left;">
+        仕事を続ける中でなんでも作れるなと思うようになってからは個人開発に注力することは無くなった。仕事で疲れてリソースが残ってないから。休みたいから。
+      </p><p style="text-align: left;"><br /></p><p>
+        やっぱり心が踊るようなアイデアは心の中に残っているはずで、AIは僕の手足の延長なのだから、伸びた手足でアイデアを掬い上げて世界に向けて送り出したいと思う。
+      </p>
+    </div>
+  </ArticleTemplate>
+</Layout>

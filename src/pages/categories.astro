@@ -1,15 +1,53 @@
 ---
 import Layout from "../layouts/Layout.astro";
-import { getCollection } from "astro:content";
 
-const posts = await getCollection("blog");
+type Post = {
+  frontmatter?: {
+    category?: string;
+  };
+};
 
-type CategoryCount = {
+const posts = await Promise.all(
+  Object.values(import.meta.glob<Post>("../pages/articles/*.{md,astro}")).map(
+    (post) => post(),
+  ),
+);
+
+const categories = posts.reduce(
+  (acc, post) => {
+    const category = post.frontmatter?.category || "未分類";
+    acc[category] = (acc[category] || 0) + 1;
+    return acc;
+  },
+  {} as Record<string, number>,
+);
+
+type Category = {
   name: string;
   count: number;
 };
+
+const sortedCategories = Object.entries(categories)
+  .map(([name, count]): Category => ({ name, count }))
+  .sort((a, b) => b.count - a.count);
 ---
 
-<Layout title="カテゴリー | My Blog">
-  <h1>hello</h1>
+<Layout title="カテゴリー | Great Distance">
+  <div class="container mx-auto px-4 py-8">
+    <h1 class="text-3xl font-bold mb-8">カテゴリー一覧</h1>
+    <div class="grid gap-4">
+      {
+        sortedCategories.map((category) => (
+          <div class="bg-white shadow rounded-lg p-4">
+            <h2 class="text-xl font-semibold">
+              {category.name}
+              <span class="text-gray-500 text-sm ml-2">
+                ({category.count}件)
+              </span>
+            </h2>
+          </div>
+        ))
+      }
+    </div>
+  </div>
 </Layout>

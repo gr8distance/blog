@@ -2,7 +2,7 @@
 import Layout from "../../layouts/Layout.astro";
 import { ArticleTemplate } from "../../templates/ArticleTemplate";
 const title = "ブログを始めた";
-const category = "CYCLING";
+const category = "サイクリング";
 const thumbnail = "/thumbnails/2019-08-12-ブログを始めた.jpg";
 ---
 
@@ -13,14 +13,16 @@ const thumbnail = "/thumbnails/2019-08-12-ブログを始めた.jpg";
     date={"2019-08-12"}
     category={category}
   >
-    <h3 class="font-bold text-lg">ブログ始めた理由</h3>
-    <p>
-      2019年9月から有給消化の期間が始まって1ヶ月間仕事しなくなるのでフィジカルを強化するために21日で3500kmを走るチャレンジをやってみようと思った。
-    </p>
-    <p>ブログはその備忘録として、また今後同じ挑戦をしようとする</p>
-    <s>変態</s>
-    同好の士が参考にできるよう公の場に情報を残そうと思った。<br />
-    <br />
+    <div class="article-content">
+      <h3>ブログ始めた理由</h3>
+      <p>
+        2019年9月から有給消化の期間が始まって1ヶ月間仕事しなくなるのでフィジカルを強化するために21日で3500kmを走るチャレンジをやってみようと思った。
+      </p>
+      <p>
+        ブログはその備忘録として、また今後同じ挑戦をしようとする<s>変態</s
+        >同好の士が参考にできるよう公の場に情報を残そうと思った。
+      </p>
+    </div>
 
     <style>
       article {

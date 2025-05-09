@@ -15,6 +15,7 @@ const blogPosts = () => {
     const thumbnail = thumbnailMatch ? thumbnailMatch[0].split("=")[1].trim().split("\"")[1].split("\"")[0] : "/thumbnails/placeholder.svg"
     const categoryMatch = content.match(/const category = .*/)
     const category = categoryMatch ? categoryMatch[0].split("=")[1].trim().split("\"")[1].split("\"")[0] : "未分類"
+    const published = content.match(/const published = .*/)
 
     return {
       id: id,
@@ -22,9 +23,10 @@ const blogPosts = () => {
       title: title,
       content: "",
       thumbnail: thumbnail,
-      category: category
+      category: category,
+      published: published
     }
-  }).reverse()
+  }).reverse().filter((post) => post.published !== null)
 }
 
 export const BLOG_POSTS: BlogPost[] = blogPosts();

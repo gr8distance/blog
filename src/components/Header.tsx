@@ -59,7 +59,9 @@ export default function Header() {
             GreatDistance
             <p className="text-xs font-normal tracking-tight text-center">~好きこそ物の上手なれ~</p>
           </a>
-          <form onSubmit={handleSubmit} className="relative max-w-xl w-full md:w-96">
+
+          {/* TODO: フォーム復活 */}
+          {/* <form onSubmit={handleSubmit} className="relative max-w-xl w-full md:w-96">
             <input
               type="text"
               placeholder="記事を検索"
@@ -73,7 +75,7 @@ export default function Header() {
             >
               <Search size={20} />
             </button>
-          </form>
+          </form> */}
         </div>
       </div>
     </header>

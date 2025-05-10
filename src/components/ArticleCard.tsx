@@ -21,7 +21,11 @@ export function ArticleCard({ title, content, thumbnail, category, articleUrl }:
         <div className="absolute inset-0 p-6 flex flex-col justify-end">
           <h3 className="text-xl font-bold mb-2 text-white shadow-text">{title}</h3>
           <p className="text-sm text-white mb-4 line-clamp-2 shadow-text">{content}</p>
-          {category && <CategoryBadge category={category} />}
+          <div className="flex flex-wrap gap-2">
+            {category?.split(",").map((cate) => {
+              return <CategoryBadge key={cate} category={cate} />
+            })}
+          </div>
         </div>
       </div>
     </a>

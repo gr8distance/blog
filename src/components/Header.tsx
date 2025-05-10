@@ -57,6 +57,7 @@ export default function Header() {
         <div className="flex justify-between items-center w-full">
           <a href="/" className="text-3xl font-bold tracking-tight">
             GreatDistance
+            <p className="text-xs font-normal tracking-tight text-center">~好きこそ物の上手なれ~</p>
           </a>
           <form onSubmit={handleSubmit} className="relative max-w-xl w-full md:w-96">
             <input
@@ -78,4 +79,3 @@ export default function Header() {
     </header>
   )
 }
-

@@ -1,4 +1,4 @@
-import { Bike, User } from "lucide-react"
+import { Bike, Badge, User } from "lucide-react"
 
 interface CategoryBadgeProps {
   category: string
@@ -19,7 +19,7 @@ const categoryConfig = {
 
 export function CategoryBadge({ category }: CategoryBadgeProps) {
   const config = categoryConfig[category as keyof typeof categoryConfig] ?? {
-    icon: User,
+    icon: Badge,
     color: "bg-gray-500",
     label: category,
   }

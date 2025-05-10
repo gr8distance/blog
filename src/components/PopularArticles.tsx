@@ -6,30 +6,31 @@ interface PopularArticle {
   thumbnail: string
 }
 
+// TODO: blogPostsの中から最新の記事を取得
 const popularArticles: PopularArticle[] = [
-  {
-    title: "富士ヒルクライム2023",
-    slug: "fuji-hill-climb-2023",
-    thumbnail: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_6857-u6n7EoOdRYHYcBGftIiSL9Mz8lvBfs.jpeg",
-  },
-  {
-    title: "内浦400(後編)",
-    slug: "uchiura-400-part-2",
-    thumbnail:
-      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/48658-LoveLive_SunShine-OharaMari-PC-Wallpaper.jpg-mouMwiQfb6kOee4GnMpU9U4wi7GAEZ.jpeg",
-  },
-  {
-    title: "チェレステに魅せられて",
-    slug: "fascinated-by-celeste",
-    thumbnail:
-      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/48658-LoveLive_SunShine-OharaMari-PC-Wallpaper.jpg-mouMwiQfb6kOee4GnMpU9U4wi7GAEZ.jpeg",
-  },
+  // {
+  //   title: "富士ヒルクライム2023",
+  //   slug: "fuji-hill-climb-2023",
+  //   thumbnail: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_6857-u6n7EoOdRYHYcBGftIiSL9Mz8lvBfs.jpeg",
+  // },
+  // {
+  //   title: "内浦400(後編)",
+  //   slug: "uchiura-400-part-2",
+  //   thumbnail:
+  //     "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/48658-LoveLive_SunShine-OharaMari-PC-Wallpaper.jpg-mouMwiQfb6kOee4GnMpU9U4wi7GAEZ.jpeg",
+  // },
+  // {
+  //   title: "チェレステに魅せられて",
+  //   slug: "fascinated-by-celeste",
+  //   thumbnail:
+  //     "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/48658-LoveLive_SunShine-OharaMari-PC-Wallpaper.jpg-mouMwiQfb6kOee4GnMpU9U4wi7GAEZ.jpeg",
+  // },
 ]
 
 export function PopularArticles() {
   return (
     <div className="bg-white rounded-lg shadow-md p-4 mb-6">
-      <h2 className="text-xl font-bold mb-4">人気の記事</h2>
+      <h2 className="text-xl font-bold mb-4">最新記事</h2>
       <div className="space-y-4">
         {popularArticles.map((article, index) => (
           <Link href={`/articles/${article.slug}`} key={index} className="block">
@@ -52,4 +53,3 @@ export function PopularArticles() {
     </div>
   )
 }
-

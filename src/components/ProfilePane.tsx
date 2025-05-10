@@ -11,7 +11,7 @@ export default function ProfilePane() {
       <CardContent className="flex flex-col items-center">
         <div className="w-24 h-24 rounded-full overflow-hidden mb-4">
           <img
-            src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-02-22%200.25.02-M9K5Xi1H2buNirroCxHvH6TkwLKyyl.png"
+            src="/author.png"
             alt="秋の紅葉をバックに両手を挙げて喜ぶランナーの姿"
             className="w-full h-full object-cover"
           />
@@ -48,4 +48,3 @@ export default function ProfilePane() {
     </Card>
   )
 }
-

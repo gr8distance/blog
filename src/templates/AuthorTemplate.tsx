@@ -18,7 +18,7 @@ export function AuthorTemplate({ author, events }: AuthorTemplateProps) {
             <AuthorProfile {...author} />
           </div>
           <div className="md:col-span-2">
-            <h2 className="text-2xl font-bold mb-4">イベントタイムライン</h2>
+            <h2 className="text-2xl font-bold mb-4">チャレンジタイムライン</h2>
             <AuthorTimeline events={events} />
           </div>
         </div>

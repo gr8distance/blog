@@ -8,12 +8,18 @@ interface AuthorTimelineProps {
 export function AuthorTimeline({ events }: AuthorTimelineProps) {
   const getEventColor = (type: AuthorEvent["type"]) => {
     switch (type) {
-      case "race":
-        return "bg-blue-500"
       case "brevet":
         return "bg-green-500"
-      case "future":
-        return "bg-yellow-500"
+      case "trail running":
+        return "bg-orange-500"
+      case "hillclimbing race":
+      case "race":
+      case "road race":
+        return "bg-red-500"
+      case "GreatDistance":
+        return "bg-purple-500"
+      case "life":
+        return "bg-blue-500"
       default:
         return "bg-gray-500"
     }
@@ -42,4 +48,3 @@ export function AuthorTimeline({ events }: AuthorTimelineProps) {
     </div>
   )
 }
-
